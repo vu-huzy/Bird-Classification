@@ -35,6 +35,140 @@ Bài toán gốc: **555 lớp lá** (species/giới tính/tuổi/bộ lông, ví
 | `parts/part_locs.txt` | `<image_id> <part_id> <x> <y> <visible>` — keypoint từng ảnh |
 | `nabirds.py`, `__init__.py`, `README`/`README~` | script mẫu (Python 2, chỉ tham khảo) + tài liệu gốc |
 
+## Cách hiểu taxonomy, kích thước ảnh và annotation
+
+### 1011 node không có nghĩa là 1010 lớp con thuộc 555 lớp cha
+
+`classes.txt` có 1011 node trong cây phân loại, gồm:
+
+- **555 lớp lá**: lớp cuối cùng dùng làm nhãn phân loại ảnh. Mỗi ảnh trong
+  `image_class_labels.txt` có đúng một `class_id` thuộc nhóm này.
+- **456 node cha**: các nhóm trung gian như order, family hoặc genus. Chúng
+  không phải là một bộ 555 nhãn khác và không được gán trực tiếp cho ảnh trong
+  bài toán 555 lớp.
+
+Quan hệ cha-con được lưu trong `hierarchy.txt`. Ví dụ, từ một lớp lá ta lần
+theo `child_class_id -> parent_class_id` để biết ảnh thuộc những nhóm lớn nào.
+Vì vậy cần phân biệt:
+
+```text
+ảnh -> class_id lớp lá -> các class_id node cha qua hierarchy.txt
+```
+
+Thư mục trong `images/` cũng được tổ chức theo 555 lớp lá. Không dùng số thứ tự
+dòng để nối các file; luôn nối bằng `image_id` hoặc `class_id`.
+
+### Mỗi ảnh có kích thước gốc khác nhau
+
+Đúng. `sizes.txt` ghi kích thước gốc của từng ảnh, nhưng CNN cần một kích thước
+đầu vào thống nhất trong mỗi batch. Resize không làm mất nhãn; nó chỉ thay đổi
+ảnh đầu vào. Không cần tìm một kích thước duy nhất có thể giữ nguyên toàn bộ
+chi tiết của mọi ảnh, vì mọi mô hình CNN đều phải đánh đổi giữa chi tiết và chi
+phí tính toán.
+
+Khuyến nghị theo thứ tự thử nghiệm:
+
+1. **Baseline:** resize ảnh sao cho cạnh ngắn là `256`, sau đó crop ngẫu nhiên
+   `224x224` khi train và center crop `224x224` khi validation/test. Đây là cấu
+   hình nhẹ, phổ biến và phù hợp để kiểm tra pipeline.
+2. **Khi cần giữ chim đầy đủ hơn:** dùng resize giữ aspect ratio rồi padding
+   (letterbox) vào `224x224`, thay vì crop. Cách này không cắt chim nhưng có thể
+   thêm vùng nền.
+3. **Khi GPU đủ và cần nhiều chi tiết:** thử `320x320` hoặc `384x384` sau khi
+   baseline chạy ổn. Không nên bắt đầu ở độ phân giải cao vì tốn VRAM và thời
+   gian hơn mà chưa biết accuracy có tăng hay không.
+
+Với dữ liệu này, nên bắt đầu bằng **ảnh đầy đủ, `224x224`, không crop bbox**.
+EDA cho thấy bbox trung bình chỉ chiếm khoảng 30.7% diện tích ảnh, nên crop bắt
+buộc có thể làm mất bối cảnh hữu ích. Sau đó có thể chạy một thí nghiệm đối
+chứng với ảnh crop theo bbox.
+
+### Dùng bounding box như thế nào?
+
+`bounding_boxes.txt` có dạng:
+
+```text
+image_id x y width height
+```
+
+`x, y` là góc trên bên trái; `width, height` là kích thước khung theo pixel
+trên ảnh gốc. Với dòng:
+
+```text
+<image_id> 83 59 128 228
+```
+
+vùng cắt là `(left=83, top=59, right=211, bottom=287)`. Khi crop nên kẹp
+tọa độ vào biên ảnh vì có 201 annotation vượt biên nhẹ:
+
+```text
+left   = max(0, x)
+top    = max(0, y)
+right  = min(image_width, x + width)
+bottom = min(image_height, y + height)
+```
+
+Có hai cách dùng chính:
+
+- **Ảnh đầy đủ:** không cần biến đổi bbox; chỉ dùng bbox để kiểm tra, vẽ hoặc
+  thử nghiệm phụ.
+- **Ảnh crop chim:** crop vùng bbox trước, sau đó resize crop về `224x224`.
+  Khi đó nhãn lớp vẫn giữ nguyên, nhưng model không còn nhìn thấy phần lớn bối
+  cảnh. Nên so sánh kết quả với baseline ảnh đầy đủ.
+
+Nếu resize ảnh mà vẫn muốn vẽ bbox, phải biến đổi tọa độ cùng phép resize. Với
+resize theo hai hệ số `scale_x` và `scale_y`:
+
+```text
+x_new      = x * scale_x
+y_new      = y * scale_y
+width_new  = width * scale_x
+height_new = height * scale_y
+```
+
+Nếu dùng letterbox, ngoài phép scale còn phải cộng phần padding vào `x_new` và
+`y_new`. Nếu crop bbox trước, tọa độ mới của một điểm là tọa độ cũ trừ đi
+`(left, top)`, rồi mới nhân hệ số resize.
+
+### Dùng parts/keypoints như thế nào?
+
+`parts/parts.txt` ánh xạ `part_id` sang tên bộ phận. `parts/part_locs.txt` ghi:
+
+```text
+image_id part_id x y visible
+```
+
+`x, y` là tọa độ điểm trên ảnh gốc, không phải tọa độ chuẩn hóa. Chỉ sử dụng
+điểm khi `visible = 1`; dòng `visible = 0` có thể có tọa độ `0 0` và không được
+coi đó là vị trí thật.
+
+Nếu resize ảnh, biến đổi keypoint bằng đúng phép biến đổi của ảnh:
+
+```text
+x_new = x * scale_x
+y_new = y * scale_y
+```
+
+Nếu letterbox thì cộng padding vào tọa độ. Nếu crop ảnh tại `(left, top)`, dùng
+`x_crop = x - left`, `y_crop = y - top`, rồi mới resize. Điểm nằm ngoài crop
+hoặc có `visible = 0` phải được đánh dấu không hợp lệ, không đưa vào loss.
+
+Parts chỉ cần thiết khi làm part-based model, keypoint localization, attention
+theo bộ phận hoặc phân tích trực quan. Chúng không phải nhãn bắt buộc của bài
+toán phân loại loài.
+
+### Quy trình nên làm trước mắt
+
+1. Dùng `images.txt`, `image_class_labels.txt` và `train_test_split.txt` để tạo
+   Dataset 555 lớp.
+2. Resize/crop ảnh về `224x224`, bắt đầu bằng ảnh đầy đủ và giữ nguyên split có
+   sẵn.
+3. Huấn luyện baseline CNN hoặc ResNet, chưa dùng bbox và parts.
+4. Chạy thêm một thí nghiệm crop bbox, giữ nguyên model, split và augmentation
+   để so sánh công bằng.
+5. Chỉ dùng parts nếu mục tiêu chuyển sang mô hình khai thác bộ phận; khi đó
+   phải áp dụng cùng phép biến đổi hình học cho ảnh và keypoint.
+
 ## Kết quả EDA chính (số liệu thực, từ `EDA_NABirds.ipynb`)
 
 **Tổng quan**
