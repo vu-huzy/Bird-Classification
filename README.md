@@ -691,6 +691,127 @@ Mỗi run ghi vào `results/<run_name>/`:
 Con số đáng đọc để đánh giá đuôi dài là **macro-F1** và **balanced accuracy**,
 vì 113/555 lớp có <30 ảnh train.
 
+## Giải thích chi tiết: mỗi cột kết quả được tính như thế nào
+
+Phần "Chỉ số xuất ra" ở trên nói *có gì*; phần này nói **công thức và cơ chế
+tính từng cột**, kèm số liệu thật để kiểm chứng — viết vì `top1`/`top5` bị dùng
+cho hai đại lượng khác nhau ở hai chỗ khác nhau trong output, dễ gây nhầm.
+
+### Top-1 / Top-5 — tính trên TOÀN BỘ tập test, cho ra 1 con số/model
+
+Code thật (`src/train.py::evaluate`):
+
+```python
+out = model(x)                         # (batch, 555) điểm số thô cho 555 lớp
+top5 = out.topk(5, dim=1).indices      # 5 chỉ số lớp cao nhất, xếp hạng 1->5
+pred = top5[:, 0]                      # hạng 1 = dự đoán top-1
+hit5 = (top5 == y[:, None]).any(1)     # nhãn thật có nằm trong 5 chỉ số đó?
+```
+
+Ví dụ: ảnh thật là "Northern Cardinal" (chỉ số lớp 300). Model xếp hạng 5 chỉ số
+cao nhất là `[145, 300, 88, 302, 12]`.
+- **top-1** = hạng 1 = 145 (không phải Cardinal) → **sai**.
+- **top-5** = 300 có nằm trong 5 chỉ số đó không → có, ở hạng 2 → **đúng**.
+
+`top1_accuracy = (số ảnh đúng top-1) / (tổng số ảnh test)`, `top5_accuracy`
+tương tự với điều kiện lỏng hơn. Cả hai là **một con số duy nhất cho cả model**
+(gộp toàn bộ 24,633 ảnh test).
+
+**Vì sao dùng cả hai:** top-1 là con số thực dụng nếu hệ thống chỉ hiển thị 1 kết
+quả. Top-5 tách biệt hai loại lỗi khác hẳn nhau: "gần đúng nhưng chưa chắc chắn
+thứ hạng 1" (top-1 sai, top-5 đúng) và "không có tín hiệu gì đúng" (cả hai đều
+sai). Với 288/555 lớp chỉ khác nhau ở biến thể giới tính/tuổi, top-5 cao trong
+khi top-1 thấp là dấu hiệu model học được đặc trưng loài nhưng chưa đủ tinh để
+phân biệt biến thể — top-1 một mình không cho biết điều đó.
+
+### `top5_recall` trong `per_class.csv` KHÔNG PHẢI cùng con số với `top5_accuracy`
+
+Đây là chỗ dễ nhầm nhất: cả hai cùng đo "nhãn đúng có lọt top-5 không", nhưng
+trên hai tập mẫu khác nhau.
+
+| | `top5_accuracy` (bảng so sánh, `summary.json`) | `top5_recall` (mỗi dòng `per_class.csv`) |
+|---|---|---|
+| Tính trên | toàn bộ 24,633 ảnh test cùng lúc | chỉ ảnh của **riêng 1 lớp** — 555 con số khác nhau |
+| Code | `correct5 / n` | `top5_correct[y_true == c].mean()` |
+
+Kiểm chứng bằng số liệu thật của `vit_b_16_in21k`:
+
+```
+top5_accuracy (global)                                      = 97.53%
+TB có trọng số theo support của 555 giá trị top5_recall      = 97.53%   <- khớp global
+TB KHÔNG trọng số (mỗi lớp nặng ngang nhau) của top5_recall  = 97.10%   <- thấp hơn
+```
+
+`top5_accuracy` = trung bình có trọng số (lớp đông ảnh lấn át) — dùng để **so
+sánh model với nhau**. `top5_recall` trong `per_class.csv` là con số riêng từng
+lớp — dùng để **tìm lớp model yếu**, không dùng để so model.
+
+### `acc@404sp`, `acc@22ord` — gộp NHÃN trước khi so sánh, tính trên toàn bộ ảnh
+
+Code thật (`src/metrics.py::_agg`):
+
+```python
+def _agg(y_true, y_pred, groups):
+    g = np.asarray(groups)                 # groups[c] = tên loài/bộ của lớp lá c
+    return accuracy_score(g[y_true], g[y_pred])
+```
+
+Với **mỗi ảnh** trong 24,633 ảnh test: tra tên loài (hoặc bộ) của nhãn thật, tra
+tên loài của nhãn model đoán, so **hai tên đó** — không so trực tiếp hai chỉ số
+lớp lá nữa.
+
+Ví dụ thật, từ `confusions.csv` của `vit_b_16_in21k`:
+
+> Nhãn thật: lớp lá **"Yellow-rumped Warbler (Breeding Audubon's)"**.
+> Model đoán: lớp lá **"Yellow-rumped Warbler (Winter/juvenile Audubon's)"**.
+> Ở mức 555 lớp: hai chỉ số khác nhau -> **sai**.
+> Cả hai gộp về loài **"Yellow-rumped Warbler"** -> **đúng** ở `acc@404sp`.
+
+Vì gộp nhãn chỉ có thể biến một cặp *sai* (mức mịn) thành *đúng* (mức thô hơn),
+không bao giờ ngược lại, nên luôn có: `acc@22ord >= acc@404sp >= top1`.
+
+### `err_same_species%`, `err_same_order%` — khác `acc@404sp` ở MẪU SỐ
+
+Code thật:
+
+```python
+wrong = y_true != y_pred                     # LỌC TRƯỚC: chỉ giữ ảnh đã sai ở mức lá
+errors_within_same_species_pct = mean(species[y_true[wrong]] == species[y_pred[wrong]]) * 100
+```
+
+| | `acc@404sp` | `err_same_species%` |
+|---|---|---|
+| Mẫu số | **toàn bộ** 24,633 ảnh test | **chỉ** ảnh đã sai ở mức 555 lớp |
+| Trả lời câu hỏi | "Chỉ cần đúng loài thì model đúng bao nhiêu % trên cả tập test?" | "Trong số ảnh model đoán sai, bao nhiêu % là lỗi *nhẹ* (nhầm biến thể cùng loài) chứ không phải lỗi *nặng* (nhầm sang loài khác)?" |
+
+Ba con số này liên hệ bằng đúng một công thức — kiểm chứng khớp chính xác với số
+liệu thật của `vit_b_16_in21k` (top1=85.86%, err_same_species=14.1%,
+err_same_order=92.3%):
+
+```
+acc@404sp = top1 + (1 - top1) x err_same_species%
+          = 85.86 + (100 - 85.86) x 0.141 = 85.86 + 1.99 = 87.85%   <- khớp đúng bảng
+
+acc@22ord = top1 + (1 - top1) x err_same_order%
+          = 85.86 + (100 - 85.86) x 0.923 = 85.86 + 13.05 = 98.91%  <- khớp đúng bảng
+```
+
+Nói cách khác: `top1` là điểm khởi đầu; `err_same_species%`/`err_same_order%`
+cho biết trong phần **14.14% còn thiếu**, bao nhiêu phần trăm "cứu được" khi nới
+tiêu chí đánh giá xuống mức loài/bộ.
+
+### Tổng hợp: cột nào trả lời câu hỏi nào
+
+| muốn biết | dùng cột | tính trên |
+|---|---|---|
+| Model đúng bao nhiêu % nói chung | `top1` | toàn bộ ảnh test |
+| Đáp án đúng có nằm trong "5 khả năng gần nhất" không | `top5` | toàn bộ ảnh test |
+| Model có thiên vị lớp đông ảnh không | so `top1` với `macro-F1`/`bal-acc` | so sánh 2 cách trung bình |
+| Lớp cụ thể nào yếu | `per_class.csv`, cột `f1`, `top5_recall` | riêng từng lớp |
+| Nếu chỉ cần đúng loài (bỏ qua biến thể) thì sao | `acc@404sp` | toàn bộ ảnh test, đã gộp nhãn |
+| Nếu chỉ cần đúng bộ thì sao | `acc@22ord` | toàn bộ ảnh test, đã gộp nhãn |
+| Trong các lỗi, bao nhiêu % là lỗi nhẹ | `err_same_species%` / `err_same_order%` | chỉ tập con các ảnh đã sai |
+
 ## Sự cố vận hành đã gặp (ghi lại để khỏi mất thời gian lần sau)
 
 ### 1. Hết RAM vì quá nhiều DataLoader worker
