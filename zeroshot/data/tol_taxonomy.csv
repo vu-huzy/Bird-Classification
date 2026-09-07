@@ -1,0 +1,405 @@
+species_class_id,common_name,gbif_scientific,tol_kingdom,tol_phylum,tol_class,tol_order,tol_family,tol_genus,tol_epithet,tol_common,tol_match,tol_scientific
+302,Abert's Towhee,Melozone aberti,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,aberti,abert's towhee,common_name,Pipilo aberti
+47,Acorn Woodpecker,Melanerpes formicivorus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,formicivorus,Acorn Woodpecker,common_name,Melanerpes formicivorus
+228,Allen's Hummingbird,Selasphorus sasin,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,sasin,Allen's Hummingbird,common_name,Selasphorus sasin
+50,American Avocet,Recurvirostra americana,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Recurvirostra,americana,American Avocet,common_name,Recurvirostra americana
+98,American Black Duck,Anas rubripes,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,rubripes,American Black Duck,common_name,Anas rubripes
+162,American Coot,Fulica americana,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,americana,American Coot,common_name,Fulica americana
+683,American Crow,Corvus brachyrhynchos,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,brachyrhynchos,American Crow,common_name,Corvus brachyrhynchos
+436,American Dipper,Cinclus mexicanus,Animalia,Chordata,Aves,Passeriformes,Cinclidae,Cinclus,mexicanus,American dipper,common_name,Cinclus mexicanus
+726,American Goldfinch,Spinus tristis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,tristis,american goldfinch,common_name,Carduelis tristis
+94,American Kestrel,Falco sparverius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,sparverius,American Kestrel,common_name,Falco sparverius
+35,American Oystercatcher,Haematopus palliatus,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,palliatus,American Oystercatcher,common_name,Haematopus palliatus
+440,American Pipit,Anthus rubescens,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,rubescens,American Pipit,common_name,Anthus rubescens
+412,American Redstart,Setophaga ruticilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,ruticilla,American Redstart,common_name,Setophaga ruticilla
+718,American Robin,Turdus migratorius,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,migratorius,American Robin,common_name,Turdus migratorius
+309,American Tree Sparrow,Spizelloides arborea,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,arborea,american tree sparrow,common_name,Spizella arborea
+29,American White Pelican,Pelecanus erythrorhynchos,Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,American White Pelican,common_name,Pelecanus erythrorhynchos
+92,American Wigeon,Mareca americana,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,americana,american wigeon,common_name,Anas americana
+154,American Woodcock,Scolopax minor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Scolopax,minor,American Woodcock,common_name,Scolopax minor
+221,Anhinga,Anhinga anhinga,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga,anhinga,Anhinga,common_name,Anhinga anhinga
+152,Anna's Hummingbird,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Calypte,anna,Anna's Hummingbird,common_name,Calypte anna
+586,Ash-throated Flycatcher,Myiarchus cinerascens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,cinerascens,Ash-throated Flycatcher,common_name,Myiarchus cinerascens
+108,Bald Eagle,Haliaeetus leucocephalus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Haliaeetus,leucocephalus,Bald Eagle,common_name,Haliaeetus leucocephalus
+742,Baltimore Oriole,Icterus galbula,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,galbula,Baltimore Oriole,common_name,Icterus galbula
+76,Band-tailed Pigeon,Patagioenas fasciata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,fasciata,Band-tailed Pigeon,common_name,Patagioenas fasciata
+571,Bank Swallow,Riparia riparia,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia,riparia,Bank Swallow,common_name,Riparia riparia
+37,Barn Owl,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,flammea,barn owl,common_name,Strix flammea
+730,Barn Swallow,Hirundo rustica,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,rustica,Barn Swallow,common_name,Hirundo rustica
+205,Barred Owl,Strix varia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,varia,Barred Owl,common_name,Strix varia
+219,Barrow's Goldeneye,Bucephala islandica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,islandica,Barrow's Goldeneye,common_name,Bucephala islandica
+443,Bay-breasted Warbler,Setophaga castanea,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,castanea,Bay-breasted Warbler,common_name,Setophaga castanea
+285,Bell's Vireo,Vireo bellii,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,bellii,Least Bell's Vireo,binomial,Vireo bellii
+142,Belted Kingfisher,Megaceryle alcyon,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Megaceryle,alcyon,Belted Kingfisher,common_name,Megaceryle alcyon
+422,Bewick's Wren,Thryomanes bewickii,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryomanes,bewickii,San Clemente Bewick's wren,binomial,Thryomanes bewickii
+144,Black Guillemot,Cepphus grylle,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,grylle,Black Guillemot,common_name,Cepphus grylle
+39,Black Oystercatcher,Haematopus bachmani,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,bachmani,American Black Oystercatcher,binomial,Haematopus bachmani
+409,Black Phoebe,Sayornis nigricans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,nigricans,Black Phoebe,common_name,Sayornis nigricans
+269,Black Rosy-Finch,Leucosticte atrata,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,atrata,Black Rosy Finch,binomial,Leucosticte atrata
+201,Black Scoter,Melanitta nigra,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,nigra,Black Scoter,common_name,Melanitta nigra
+250,Black Skimmer,Rynchops niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rynchops,niger,Black Skimmer,common_name,Rynchops niger
+246,Black Tern,Chlidonias niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chlidonias,niger,Black Tern,common_name,Chlidonias niger
+100,Black Turnstone,Arenaria melanocephala,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,melanocephala,Black Turnstone,common_name,Arenaria melanocephala
+28,Black Vulture,Coragyps atratus,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Coragyps,atratus,Black Vulture,common_name,Coragyps atratus
+272,Black-and-white Warbler,Mniotilta varia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Mniotilta,varia,Black-and-white Warbler,common_name,Mniotilta varia
+23,Black-bellied Plover,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,squatarola,Black-bellied Plover,common_name,Pluvialis squatarola
+24,Black-bellied Whistling-Duck,Dendrocygna autumnalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,autumnalis,Southern black-bellied Whistling Duck,binomial,Dendrocygna autumnalis
+139,Black-billed Cuckoo,Coccyzus erythropthalmus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,Black-billed Cuckoo,common_name,Coccyzus erythropthalmus
+566,Black-billed Magpie,Pica hudsonia,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,hudsonia,Black-billed Magpie,common_name,Pica hudsonia
+278,Black-capped Chickadee,Poecile atricapillus,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,atricapillus,Black-capped Chickadee,common_name,Poecile atricapillus
+123,Black-chinned Hummingbird,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,alexandri,Black-chinned Hummingbird,common_name,Archilochus alexandri
+734,Black-crested Titmouse,Baeolophus atricristatus,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,atricristatus,Black-crested Titmouse,common_name,Baeolophus atricristatus
+173,Black-crowned Night-Heron,Nycticorax nycticorax,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,nycticorax,Black-crowned Night Heron,binomial,Nycticorax nycticorax
+568,Black-headed Grosbeak,Pheucticus melanocephalus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,melanocephalus,Black-headed Grosbeak,common_name,Pheucticus melanocephalus
+145,Black-legged Kittiwake,Rissa tridactyla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rissa,tridactyla,Black-legged Kittiwake,common_name,Rissa tridactyla
+46,Black-necked Stilt,Himantopus mexicanus,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,mexicanus,Black-necked Stilt,common_name,Himantopus mexicanus
+594,Black-tailed Gnatcatcher,Polioptila melanura,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,melanura,Black-tailed Gnatcatcher,common_name,Polioptila melanura
+589,Black-throated Blue Warbler,Setophaga caerulescens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,caerulescens,Black-throated Blue Warbler,common_name,Setophaga caerulescens
+713,Black-throated Gray Warbler,Setophaga nigrescens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,nigrescens,Black-throated Gray Warbler,common_name,Setophaga nigrescens
+732,Black-throated Green Warbler,Setophaga virens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,virens,Black-throated Green Warbler,common_name,Setophaga virens
+564,Blackburnian Warbler,Setophaga fusca,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,fusca,Blackburnian Warbler,common_name,Setophaga fusca
+582,Blackpoll Warbler,Setophaga striata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,striata,Blackpoll Warbler,common_name,Setophaga striata
+584,Blue Grosbeak,Passerina caerulea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,caerulea,Blue Grosbeak,common_name,Passerina caerulea
+286,Blue Jay,Cyanocitta cristata,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,cristata,Blue Jay,common_name,Cyanocitta cristata
+387,Blue-gray Gnatcatcher,Polioptila caerulea,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,caerulea,Blue-gray Gnatcatcher,common_name,Polioptila caerulea
+580,Blue-headed Vireo,Vireo solitarius,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,solitarius,Blue-headed Vireo,common_name,Vireo solitarius
+116,Blue-winged Teal,Spatula discors,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,discors,Blue-winged Teal,common_name,Spatula discors
+266,Blue-winged Warbler,Vermivora cyanoptera,Animalia,Chordata,Aves,Passeriformes,Parulidae,Vermivora,cyanoptera,Blue-winged Warbler,common_name,Vermivora cyanoptera
+565,Boat-tailed Grackle,Quiscalus major,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,major,Boat-tailed Grackle,common_name,Quiscalus major
+254,Bobolink,Dolichonyx oryzivorus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,oryzivorus,Bobolink,common_name,Dolichonyx oryzivorus
+390,Bohemian Waxwing,Bombycilla garrulus,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,Bombycilla,garrulus,Bohemian Waxwing,common_name,Bombycilla garrulus
+191,Bonaparte's Gull,Chroicocephalus philadelphia,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,philadelphia,bonaparte's gull,common_name,Larus philadelphia
+424,Boreal Chickadee,Poecile hudsonicus,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,hudsonicus,Boreal Chickadee,common_name,Poecile hudsonicus
+75,Brandt's Cormorant,Urile penicillatus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,penicillatus,Brandt's Cormorant,common_name,Phalacrocorax penicillatus
+42,Brant,Branta bernicla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,bernicla,Brant,common_name,Branta bernicla
+416,Brewer's Blackbird,Euphagus cyanocephalus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Euphagus,cyanocephalus,Brewer's Blackbird,common_name,Euphagus cyanocephalus
+418,Brewer's Sparrow,Spizella breweri,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,breweri,Timberline Sparrow,binomial,Spizella breweri
+569,Bridled Titmouse,Baeolophus wollweberi,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,wollweberi,bridled titmouse,common_name,Parus wollweberi
+90,Broad-billed Hummingbird,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Cynanthus,latirostris,Broad-billed Hummingbird,common_name,Cynanthus latirostris
+200,Broad-tailed Hummingbird,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,platycercus,Broad-tailed Hummingbird,common_name,Selasphorus platycercus
+186,Broad-winged Hawk,Buteo platypterus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,platypterus,Broad-winged Hawk,common_name,Buteo platypterus
+590,Bronzed Cowbird,Molothrus aeneus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,aeneus,Bronze-brown Cowbird,binomial,Molothrus aeneus
+435,Brown Creeper,Certhia americana,Animalia,Chordata,Aves,Passeriformes,Certhiidae,Certhia,americana,Brown Creeper,common_name,Certhia americana
+41,Brown Pelican,Pelecanus occidentalis,Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,Brown Pelican,common_name,Pelecanus occidentalis
+438,Brown Thrasher,Toxostoma rufum,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,rufum,Brown Thrasher,common_name,Toxostoma rufum
+280,Brown-capped Rosy-Finch,Leucosticte australis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,australis,Brown-capped Rosy Finch,binomial,Leucosticte australis
+690,Brown-headed Cowbird,Molothrus ater,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,ater,Brown-headed Cowbird,common_name,Molothrus ater
+711,Brown-headed Nuthatch,Sitta pusilla,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,pusilla,Brown-headed Nuthatch,common_name,Sitta pusilla
+209,Bufflehead,Bucephala albeola,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,albeola,Bufflehead,common_name,Bucephala albeola
+728,Bullock's Oriole,Icterus bullockii,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,bullockii,Bullock's Oriole,common_name,Icterus bullockii
+182,Burrowing Owl,Athene cunicularia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,cunicularia,Burrowing Owl,common_name,Athene cunicularia
+434,Bushtit,Psaltriparus minimus,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Psaltriparus,minimus,Bushtit,common_name,Psaltriparus minimus
+51,Cackling Goose,Branta hutchinsii,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,hutchinsii,Aleutian Canada Goose,binomial,Branta hutchinsii
+265,Cactus Wren,Campylorhynchus brunneicapillus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Campylorhynchus,brunneicapillus,San Diego cactus wren,binomial,Campylorhynchus brunneicapillus
+241,California Gull,Larus californicus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,californicus,California Gull,common_name,Larus californicus
+73,California Quail,Callipepla californica,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,californica,California Quail,common_name,Callipepla californica
+720,California Thrasher,Toxostoma redivivum,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,redivivum,California Thrasher,common_name,Toxostoma redivivum
+290,California Towhee,Melozone crissalis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melozone,crissalis,California Towhee,common_name,Melozone crissalis
+180,Calliope Hummingbird,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,calliope,Calliope Hummingbird,common_name,Selasphorus calliope
+57,Canada Goose,Branta canadensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,canadensis,Canada Goose,common_name,Branta canadensis
+736,Canada Warbler,Cardellina canadensis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Cardellina,canadensis,Canada Warbler,common_name,Cardellina canadensis
+153,Canvasback,Aythya valisineria,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,valisineria,Canvasback,common_name,Aythya valisineria
+282,Canyon Towhee,Melozone fusca,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,fuscus,canyon towhee,common_name,Pipilo fuscus
+288,Canyon Wren,Catherpes mexicanus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Catherpes,mexicanus,Canyon Wren,common_name,Catherpes mexicanus
+417,Cape May Warbler,Setophaga tigrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,tigrina,Cape May Warbler,common_name,Setophaga tigrina
+261,Carolina Chickadee,Poecile carolinensis,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,carolinensis,Carolina Chickadee,common_name,Poecile carolinensis
+386,Carolina Wren,Thryothorus ludovicianus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryothorus,ludovicianus,Carolina Wren,common_name,Thryothorus ludovicianus
+245,Caspian Tern,Hydroprogne caspia,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,caspia,caspian tern,common_name,Sterna caspia
+408,Cassin's Finch,Haemorhous cassinii,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,cassinii,Cassin's Finch,common_name,Haemorhous cassinii
+701,Cassin's Kingbird,Tyrannus vociferans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,vociferans,Cassin's Kingbird,common_name,Tyrannus vociferans
+563,Cassin's Vireo,Vireo cassinii,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,cassinii,Cassin's Vireo,common_name,Vireo cassinii
+148,Cattle Egret,Bubulcus ibis,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus,ibis,Cattle Egret,common_name,Bubulcus ibis
+707,Cave Swallow,Petrochelidon fulva,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,fulva,Cave Swallow,common_name,Petrochelidon fulva
+597,Cedar Waxwing,Bombycilla cedrorum,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,Bombycilla,cedrorum,Cedar Waxwing,common_name,Bombycilla cedrorum
+406,Chestnut-backed Chickadee,Poecile rufescens,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,rufescens,Chestnut-backed Chickadee,common_name,Poecile rufescens
+577,Chestnut-sided Warbler,Setophaga pensylvanica,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,pensylvanica,Chestnut-sided Warbler,common_name,Setophaga pensylvanica
+725,Chihuahuan Raven,Corvus cryptoleucus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,cryptoleucus,Chihuahuan Raven,common_name,Corvus cryptoleucus
+34,Chimney Swift,Chaetura pelagica,Animalia,Chordata,Aves,Apodiformes,Apodidae,Chaetura,pelagica,Chimney Swift,common_name,Chaetura pelagica
+403,Chipping Sparrow,Spizella passerina,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,passerina,Chipping Sparrow,common_name,Spizella passerina
+122,Cinnamon Teal,Spatula cyanoptera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,cyanoptera,cinnamon teal,common_name,Anas cyanoptera
+215,Clark's Grebe,Aechmophorus clarkii,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Aechmophorus,clarkii,Clark's Grebe,common_name,Aechmophorus clarkii
+428,Clark's Nutcracker,Nucifraga columbiana,Animalia,Chordata,Aves,Passeriformes,Corvidae,Nucifraga,columbiana,Clark's Nutcracker,common_name,Nucifraga columbiana
+410,Clay-colored Sparrow,Spizella pallida,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,pallida,Clay-colored Sparrow,common_name,Spizella pallida
+592,Cliff Swallow,Petrochelidon pyrrhonota,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,Cliff Swallow,common_name,Petrochelidon pyrrhonota
+179,Common Eider,Somateria mollissima,Animalia,Chordata,Aves,Anseriformes,Anatidae,Somateria,mollissima,Pacific Eider,binomial,Somateria mollissima
+110,Common Gallinule,Gallinula chloropus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,galeata,Common Gallinule,common_name,Gallinula galeata
+214,Common Goldeneye,Bucephala clangula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,clangula,Common Goldeneye,common_name,Bucephala clangula
+429,Common Grackle,Quiscalus quiscula,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,quiscula,Common Grackle,common_name,Quiscalus quiscula
+222,Common Ground-Dove,Columbina passerina,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,passerina,Common Ground-Dove,common_name,Columbina passerina
+194,Common Loon,Gavia immer,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,immer,Common Loon,common_name,Gavia immer
+229,Common Merganser,Mergus merganser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,merganser,Common Merganser,common_name,Mergus merganser
+141,Common Nighthawk,Chordeiles minor,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,minor,Common Nighthawk,common_name,Chordeiles minor
+739,Common Raven,Corvus corax,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,corax,Common Raven,common_name,Corvus corax
+585,Common Redpoll,Acanthis flammea,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,flammea,common redpoll,common_name,Carduelis flammea
+247,Common Tern,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,hirundo,Common Tern,common_name,Sterna hirundo
+391,Common Yellowthroat,Geothlypis trichas,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,trichas,Common Yellowthroat,common_name,Geothlypis trichas
+155,Cooper's Hawk,Accipiter cooperii,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,cooperii,Cooper's Hawk,common_name,Accipiter cooperii
+312,Cordilleran Flycatcher,Empidonax occidentalis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,occidentalis,Cordilleran Flycatcher,common_name,Empidonax occidentalis
+167,Costa's Hummingbird,Calypte costae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Calypte,costae,Costa's Hummingbird,common_name,Calypte costae
+54,Crested Caracara,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,cheriway,crested caracara,common_name,Caracara cheriway
+596,Curve-billed Thrasher,Toxostoma curvirostre,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,curvirostre,Curve-billed Thrasher,common_name,Toxostoma curvirostre
+744,Dark-eyed Junco,Junco hyemalis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Junco,hyemalis,Dark-eyed Junco,common_name,Junco hyemalis
+738,Dickcissel,Spiza americana,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Spiza,americana,Dickcissel,common_name,Spiza americana
+134,Double-crested Cormorant,Phalacrocorax auritus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,auritus,double-crested cormorant,common_name,Phalacrocorax auritus
+188,Downy Woodpecker,Dryobates pubescens,Animalia,Chordata,Aves,Piciformes,Picidae,Picoides,pubescens,downy woodpecker,common_name,Picoides pubescens
+129,Dunlin,Calidris alpina,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,alpina,Dunlin,common_name,Calidris alpina
+157,Eared Grebe,Podiceps nigricollis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,nigricollis,Eared Grebe,common_name,Podiceps nigricollis
+262,Eastern Bluebird,Sialia sialis,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,sialis,Eastern Bluebird,common_name,Sialia sialis
+727,Eastern Kingbird,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,tyrannus,Eastern Kingbird,common_name,Tyrannus tyrannus
+277,Eastern Meadowlark,Sturnella magna,Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,magna,Eastern Meadowlark,common_name,Sturnella magna
+420,Eastern Phoebe,Sayornis phoebe,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,phoebe,Eastern Phoebe,common_name,Sayornis phoebe
+88,Eastern Screech-Owl,Megascops asio,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,asio,Eastern Screech-Owl,common_name,Megascops asio
+267,Eastern Towhee,Pipilo erythrophthalmus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,erythrophthalmus,Eastern Towhee,common_name,Pipilo erythrophthalmus
+270,Eastern Wood-Pewee,Contopus virens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Contopus,virens,Eastern Wood Pewee,binomial,Contopus virens
+105,Eurasian Collared-Dove,Streptopelia decaocto,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia,decaocto,Eurasian Collared-Dove,common_name,Streptopelia decaocto
+439,European Starling,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,vulgaris,European Starling,common_name,Sturnus vulgaris
+740,Evening Grosbeak,Hesperiphona vespertina,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Coccothraustes,vespertinus,Evening Grosbeak,common_name,Coccothraustes vespertinus
+426,Field Sparrow,Spizella pusilla,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,pusilla,Field Sparrow,common_name,Spizella pusilla
+710,Fish Crow,Corvus ossifragus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,ossifragus,Fish Crow,common_name,Corvus ossifragus
+301,Florida Scrub-Jay,Aphelocoma coerulescens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,coerulescens,Florida Scrub Jay,binomial,Aphelocoma coerulescens
+248,Forster's Tern,Sterna forsteri,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,forsteri,Forster's Tern,common_name,Sterna forsteri
+591,Fox Sparrow,Passerella iliaca,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Passerella,iliaca,Fox Sparrow,common_name,Passerella iliaca
+87,Gadwall,Mareca strepera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,strepera,gadwall,common_name,Anas strepera
+103,Gambel's Quail,Callipepla gambelii,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,gambelii,Gambel's Quail,common_name,Callipepla gambelii
+63,Gila Woodpecker,Melanerpes uropygialis,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,uropygialis,Gila Woodpecker,common_name,Melanerpes uropygialis
+243,Glaucous-winged Gull,Larus glaucescens,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,glaucescens,Glaucous-winged Gull,common_name,Larus glaucescens
+208,Glossy Ibis,Plegadis falcinellus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus,Glossy Ibis,common_name,Plegadis falcinellus
+234,Golden Eagle,Aquila chrysaetos,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Aquila,chrysaetos,Golden Eagle,common_name,Aquila chrysaetos
+388,Golden-crowned Kinglet,Regulus satrapa,Animalia,Chordata,Aves,Passeriformes,Regulidae,Regulus,satrapa,Golden-crowned Kinglet,common_name,Regulus satrapa
+737,Golden-crowned Sparrow,Zonotrichia atricapilla,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,atricapilla,Golden-crowned Sparrow,common_name,Zonotrichia atricapilla
+79,Golden-fronted Woodpecker,Melanerpes aurifrons,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,aurifrons,Golden-fronted Woodpecker,common_name,Melanerpes aurifrons
+275,Gray Catbird,Dumetella carolinensis,Animalia,Chordata,Aves,Passeriformes,Mimidae,Dumetella,carolinensis,Gray Catbird,common_name,Dumetella carolinensis
+257,Gray Jay,Perisoreus canadensis,Animalia,Chordata,Aves,Passeriformes,Corvidae,Perisoreus,canadensis,Gray Jay,common_name,Perisoreus canadensis
+255,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,tephrocotis,Gray-crowned Rosy-Finch,common_name,Leucosticte tephrocotis
+244,Great Black-backed Gull,Larus marinus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,marinus,Great Black-backed Gull,common_name,Larus marinus
+58,Great Blue Heron,Ardea herodias,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,herodias,Great Blue Heron,common_name,Ardea herodias
+170,Great Cormorant,Phalacrocorax carbo,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,carbo,Great Cormorant,common_name,Phalacrocorax carbo
+684,Great Crested Flycatcher,Myiarchus crinitus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,crinitus,Great Crested Flycatcher,common_name,Myiarchus crinitus
+71,Great Egret,Ardea alba,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,alba,Great Egret,common_name,Ardea alba
+111,Great Horned Owl,Bubo virginianus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,virginianus,Great Horned Owl,common_name,Bubo virginianus
+578,Great-tailed Grackle,Quiscalus mexicanus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,mexicanus,Great-tailed Grackle,common_name,Quiscalus mexicanus
+197,Greater Roadrunner,Geococcyx californianus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Geococcyx,californianus,Greater Roadrunner,common_name,Geococcyx californianus
+168,Greater Scaup,Aythya marila,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,marila,Greater Scaup,common_name,Aythya marila
+27,Greater White-fronted Goose,Anser albifrons,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,albifrons,Greater White-fronted Goose,common_name,Anser albifrons
+65,Greater Yellowlegs,Tringa melanoleuca,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,melanoleuca,Greater Yellowlegs,common_name,Tringa melanoleuca
+160,Green Heron,Butorides virescens,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,virescens,Green Heron,common_name,Butorides virescens
+252,Green-tailed Towhee,Pipilo chlorurus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,chlorurus,Green-tailed Towhee,common_name,Pipilo chlorurus
+147,Green-winged Teal,Anas carolinensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,carolinensis,Green-winged Teal,common_name,Anas carolinensis
+206,Hairy Woodpecker,Leuconotopicus villosus,Animalia,Chordata,Aves,Piciformes,Picidae,Leuconotopicus,villosus,hairy woodpecker,common_name,Leuconotopicus villosus
+181,Harlequin Duck,Histrionicus histrionicus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Histrionicus,histrionicus,Harlequin Duck,common_name,Histrionicus histrionicus
+166,Harris's Hawk,Parabuteo unicinctus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Parabuteo,unicinctus,Harris' Hawk,binomial,Parabuteo unicinctus
+722,Harris's Sparrow,Zonotrichia querula,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,querula,Harris' Sparrow,binomial,Zonotrichia querula
+232,Heermann's Gull,Larus heermanni,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,heermanni,Heermann's Gull,common_name,Larus heermanni
+588,Hermit Thrush,Catharus guttatus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,guttatus,Hermit Thrush,common_name,Catharus guttatus
+724,Hermit Warbler,Setophaga occidentalis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,occidentalis,Hermit Warbler,common_name,Setophaga occidentalis
+242,Herring Gull,Larus argentatus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,argentatus,Herring Gull,common_name,Larus argentatus
+685,Hoary Redpoll,Acanthis hornemanni,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,hornemanni,hoary redpoll,common_name,Carduelis hornemanni
+225,Hooded Merganser,Lophodytes cucullatus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Lophodytes,cucullatus,Hooded Merganser,common_name,Lophodytes cucullatus
+719,Hooded Oriole,Icterus cucullatus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,cucullatus,Hooded Oriole,common_name,Icterus cucullatus
+405,Hooded Warbler,Setophaga citrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,citrina,Hooded Warbler,common_name,Setophaga citrina
+84,Horned Grebe,Podiceps auritus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,auritus,Horned Grebe,common_name,Podiceps auritus
+432,Horned Lark,Eremophila alpestris,Animalia,Chordata,Aves,Passeriformes,Alaudidae,Eremophila,alpestris,California horned lark,binomial,Eremophila alpestris
+419,House Finch,Haemorhous mexicanus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,mexicanus,House Finch,common_name,Haemorhous mexicanus
+445,House Sparrow,Passer domesticus,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,House Sparrow,common_name,Passer domesticus
+572,House Wren,Troglodytes aedon,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,aedon,St Lucia House Wren,binomial,Troglodytes aedon
+689,Hutton's Vireo,Vireo huttoni,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,huttoni,Hutton's Vireo,common_name,Vireo huttoni
+196,Inca Dove,Columbina inca,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,inca,Inca Dove,common_name,Columbina inca
+706,Indigo Bunting,Passerina cyanea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,cyanea,Indigo Bunting,common_name,Passerina cyanea
+692,Juniper Titmouse,Baeolophus ridgwayi,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,ridgwayi,juniper titmouse,common_name,Parus ridgwayi
+30,Killdeer,Charadrius vociferus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,vociferus,Killdeer,common_name,Charadrius vociferus
+164,Ladder-backed Woodpecker,Dryobates scalaris,Animalia,Chordata,Aves,Piciformes,Picidae,Picoides,scalaris,ladder-backed woodpecker,common_name,Picoides scalaris
+576,Lark Bunting,Calamospiza melanocorys,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Calamospiza,melanocorys,Lark Bunting,common_name,Calamospiza melanocorys
+567,Lark Sparrow,Chondestes grammacus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Chondestes,grammacus,Lark Sparrow,common_name,Chondestes grammacus
+218,Laughing Gull,Leucophaeus atricilla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,atricilla,laughing gull,common_name,Larus atricilla
+687,Lazuli Bunting,Passerina amoena,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,amoena,Lazuli Bunting,common_name,Passerina amoena
+281,Least Flycatcher,Empidonax minimus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,minimus,Least Flycatcher,common_name,Empidonax minimus
+126,Least Sandpiper,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,minutilla,Least Sandpiper,common_name,Calidris minutilla
+715,Lesser Goldfinch,Spinus psaltria,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,psaltria,lesser goldfinch,common_name,Carduelis psaltria
+174,Lesser Scaup,Aythya affinis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,affinis,Lesser Scaup,common_name,Aythya affinis
+78,Lesser Yellowlegs,Tringa flavipes,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,flavipes,Lesser Yellowlegs,common_name,Tringa flavipes
+694,Lincoln's Sparrow,Melospiza lincolnii,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,lincolnii,Lincoln's Sparrow,common_name,Melospiza lincolnii
+99,Little Blue Heron,Egretta caerulea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,caerulea,Little Blue Heron,common_name,Egretta caerulea
+383,Loggerhead Shrike,Lanius ludovicianus,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,ludovicianus,San Clemente Loggerhead Shrike,binomial,Lanius ludovicianus
+86,Long-billed Curlew,Numenius americanus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,americanus,Long-billed Curlew,common_name,Numenius americanus
+203,Long-tailed Duck,Clangula hyemalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Clangula,hyemalis,Long-tailed Duck,common_name,Clangula hyemalis
+253,Louisiana Waterthrush,Parkesia motacilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,motacilla,Louisiana Waterthrush,common_name,Parkesia motacilla
+305,MacGillivray's Warbler,Geothlypis tolmiei,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,tolmiei,MacGillivray's Warbler,common_name,Geothlypis tolmiei
+430,Magnolia Warbler,Setophaga magnolia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,magnolia,Magnolia Warbler,common_name,Setophaga magnolia
+102,Mallard,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,platyrhynchos,Mallard,common_name,Anas platyrhynchos
+91,Marbled Godwit,Limosa fedoa,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,fedoa,Marbled Godwit,common_name,Limosa fedoa
+731,Marsh Wren,Cistothorus palustris,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,palustris,Marsh Wren,common_name,Cistothorus palustris
+136,Merlin,Falco columbarius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,columbarius,Merlin,common_name,Falco columbarius
+237,Mew Gull,Larus canus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,canus,Common Gull,binomial,Larus canus
+415,Mexican Jay,Aphelocoma wollweberi,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,wollweberi,Mexican Jay,common_name,Aphelocoma wollweberi
+93,Mississippi Kite,Ictinia mississippiensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,mississippiensis,Mississippi Kite,common_name,Ictinia mississippiensis
+138,Monk Parakeet,Myiopsitta monachus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,monachus,Monk Parakeet,common_name,Myiopsitta monachus
+109,Mottled Duck,Anas fulvigula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,fulvigula,Mottled Duck,common_name,Anas fulvigula
+304,Mountain Bluebird,Sialia currucoides,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,currucoides,Mountain Bluebird,common_name,Sialia currucoides
+303,Mountain Chickadee,Poecile gambeli,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,gambeli,Mountain Chickadee,common_name,Poecile gambeli
+171,Mourning Dove,Zenaida macroura,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,macroura,Mourning Dove,common_name,Zenaida macroura
+308,Mourning Warbler,Geothlypis philadelphia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,philadelphia,Mourning Warbler,common_name,Geothlypis philadelphia
+60,Mute Swan,Cygnus olor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,olor,Mute Swan,common_name,Cygnus olor
+293,Nashville Warbler,Leiothlypis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Oreothlypis,ruficapilla,nashville warbler,common_name,Oreothlypis ruficapilla
+104,Neotropic Cormorant,Phalacrocorax brasilianus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,brasilianus,neotropic cormorant,common_name,Phalacrocorax brasilianus
+131,Northern Bobwhite,Colinus virginianus,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Colinus,virginianus,Masked Bobwhite,binomial,Colinus virginianus
+310,Northern Cardinal,Cardinalis cardinalis,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,cardinalis,Northern Cardinal,common_name,Cardinalis cardinalis
+216,Northern Flicker,Colaptes auratus,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,auratus,Northern Flicker,common_name,Colaptes auratus
+44,Northern Gannet,Morus bassanus,Animalia,Chordata,Aves,Suliformes,Sulidae,Morus,bassanus,Northern Gannet,common_name,Morus bassanus
+120,Northern Harrier,Circus cyaneus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,hudsonius,Northern Harrier,common_name,Circus hudsonius
+389,Northern Mockingbird,Mimus polyglottos,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,polyglottos,Northern Mockingbird,common_name,Mimus polyglottos
+423,Northern Parula,Setophaga americana,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,americana,Northern Parula,common_name,Setophaga americana
+130,Northern Pintail,Anas acuta,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,acuta,Northern Pintail,common_name,Anas acuta
+163,Northern Pygmy-Owl,Glaucidium gnoma,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium,gnoma,Mountain Pygmy Owl,binomial,Glaucidium gnoma
+421,Northern Rough-winged Swallow,Stelgidopteryx serripennis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Stelgidopteryx,serripennis,Northern Rough-winged Swallow,common_name,Stelgidopteryx serripennis
+226,Northern Saw-whet Owl,Aegolius acadicus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Aegolius,acadicus,Northern Saw-whet Owl,common_name,Aegolius acadicus
+128,Northern Shoveler,Spatula clypeata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,clypeata,northern shoveler,common_name,Anas clypeata
+682,Northern Shrike,Lanius borealis,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,borealis,Northern Shrike,common_name,Lanius borealis
+260,Northern Waterthrush,Parkesia noveboracensis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,noveboracensis,Northern Waterthrush,common_name,Parkesia noveboracensis
+695,Northwestern Crow,Corvus caurinus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,caurinus,Northwestern Crow,common_name,Corvus caurinus
+177,Nuttall's Woodpecker,Dryobates nuttallii,Animalia,Chordata,Aves,Piciformes,Picidae,Picoides,nuttallii,nuttall's woodpecker,common_name,Picoides nuttallii
+587,Oak Titmouse,Baeolophus inornatus,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,inornatus,Oak Titmouse,common_name,Baeolophus inornatus
+289,Orange-crowned Warbler,Leiothlypis celata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Oreothlypis,celata,orange-crowned warbler,common_name,Oreothlypis celata
+704,Orchard Oriole,Icterus spurius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,spurius,Ochre Oriole,binomial,Icterus spurius
+53,Osprey,Pandion haliaetus,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,haliaetus,Osprey,common_name,Pandion haliaetus
+251,Ovenbird,Seiurus aurocapilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Seiurus,aurocapilla,Ovenbird,common_name,Seiurus aurocapilla
+132,Pacific Loon,Gavia pacifica,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,pacifica,Pacific Diver,binomial,Gavia pacifica
+593,Pacific Wren,Troglodytes pacificus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,pacificus,Pacific Wren,common_name,Troglodytes pacificus
+300,Pacific-slope Flycatcher,Empidonax difficilis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,difficilis,Pacific-slope Flycatcher,common_name,Empidonax difficilis
+723,Painted Bunting,Passerina ciris,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,ciris,Painted Bunting,common_name,Passerina ciris
+598,Palm Warbler,Setophaga palmarum,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,palmarum,Palm Warbler,common_name,Setophaga palmarum
+195,Pelagic Cormorant,Phalacrocorax pelagicus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,pelagicus,pelagic cormorant,common_name,Phalacrocorax pelagicus
+176,Peregrine Falcon,Falco peregrinus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,peregrinus,Eurasian Peregrine Falcon,binomial,Falco peregrinus
+441,Phainopepla,Phainopepla nitens,Animalia,Chordata,Aves,Passeriformes,Ptiliogonatidae,Phainopepla,nitens,Phainopepla,common_name,Phainopepla nitens
+49,Pied-billed Grebe,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus,podiceps,Pied-billed Grebe,common_name,Podilymbus podiceps
+190,Pigeon Guillemot,Cepphus columba,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,columba,Pigeon Guillemot,common_name,Cepphus columba
+230,Pileated Woodpecker,Dryocopus pileatus,Animalia,Chordata,Aves,Piciformes,Picidae,Dryocopus,pileatus,Pileated Woodpecker,common_name,Dryocopus pileatus
+294,Pine Grosbeak,Pinicola enucleator,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Pinicola,enucleator,Pine Grosbeak,common_name,Pinicola enucleator
+703,Pine Siskin,Spinus pinus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,pinus,pine siskin,common_name,Carduelis pinus
+688,Pine Warbler,Setophaga pinus,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,pinus,Pine Warbler,common_name,Setophaga pinus
+414,Plumbeous Vireo,Vireo plumbeus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,plumbeus,Plumbeous Vireo,common_name,Vireo plumbeus
+211,Prairie Falcon,Falco mexicanus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,mexicanus,Prairie Falcon,common_name,Falco mexicanus
+709,Prairie Warbler,Setophaga discolor,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,discolor,Prairie Warbler,common_name,Setophaga discolor
+276,Prothonotary Warbler,Protonotaria citrea,Animalia,Chordata,Aves,Passeriformes,Parulidae,Protonotaria,citrea,Prothonotary Warbler,common_name,Protonotaria citrea
+311,Purple Finch,Haemorhous purpureus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,purpureus,Purple Finch,common_name,Haemorhous purpureus
+61,Purple Gallinule,Porphyrio martinica,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,martinica,Purple Gallinule,common_name,Porphyrio martinica
+264,Purple Martin,Progne subis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,subis,Purple Martin,common_name,Progne subis
+579,Pygmy Nuthatch,Sitta pygmaea,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,pygmaea,Pygmy Nuthatch,common_name,Sitta pygmaea
+411,Pyrrhuloxia,Cardinalis sinuatus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,sinuatus,Pyrrhuloxia,common_name,Cardinalis sinuatus
+444,Red Crossbill,Loxia curvirostra,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Loxia,curvirostra,Red Crossbill,common_name,Loxia curvirostra
+95,Red-bellied Woodpecker,Melanerpes carolinus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,carolinus,Red-bellied Woodpecker,common_name,Melanerpes carolinus
+235,Red-breasted Merganser,Mergus serrator,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,serrator,Red-breasted Merganser,common_name,Mergus serrator
+284,Red-breasted Nuthatch,Sitta canadensis,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,canadensis,Red-breasted Nuthatch,common_name,Sitta canadensis
+150,Red-breasted Sapsucker,Sphyrapicus ruber,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,ruber,Red-breasted Sapsucker,common_name,Sphyrapicus ruber
+733,Red-eyed Vireo,Vireo olivaceus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,olivaceus,Red-eyed Vireo,common_name,Vireo olivaceus
+31,Red-headed Woodpecker,Melanerpes erythrocephalus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,erythrocephalus,Red-headed Woodpecker,common_name,Melanerpes erythrocephalus
+124,Red-naped Sapsucker,Sphyrapicus nuchalis,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,nuchalis,Red-naped Sapsucker,common_name,Sphyrapicus nuchalis
+118,Red-necked Grebe,Podiceps grisegena,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,grisegena,Red-necked Grebe,common_name,Podiceps grisegena
+175,Red-shouldered Hawk,Buteo lineatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,lineatus,Red-shouldered Hawk,common_name,Buteo lineatus
+210,Red-tailed Hawk,Buteo jamaicensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,jamaicensis,Red-tailed Hawk,common_name,Buteo jamaicensis
+74,Red-throated Loon,Gavia stellata,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,stellata,Red-throated Diver,binomial,Gavia stellata
+268,Red-winged Blackbird,Agelaius phoeniceus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaius,phoeniceus,Red-winged Blackbird,common_name,Agelaius phoeniceus
+127,Reddish Egret,Egretta rufescens,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,rufescens,Reddish Egret,common_name,Egretta rufescens
+159,Redhead,Aythya americana,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,americana,Redhead,common_name,Aythya americana
+240,Ring-billed Gull,Larus delawarensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,delawarensis,Ring-billed Gull,common_name,Larus delawarensis
+161,Ring-necked Duck,Aythya collaris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,collaris,Ring-necked Duck,common_name,Aythya collaris
+169,Ring-necked Pheasant,Phasianus colchicus,Animalia,Chordata,Aves,Galliformes,Phasianidae,Phasianus,colchicus,Ring-necked Pheasant,common_name,Phasianus colchicus
+45,Rock Pigeon,Columba livia,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,livia,Rock Pigeon,common_name,Columba livia
+427,Rose-breasted Grosbeak,Pheucticus ludovicianus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,ludovicianus,Rose-breasted Grosbeak,common_name,Pheucticus ludovicianus
+233,Roseate Spoonbill,Platalea ajaja,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea,ajaja,Roseate Spoonbill,common_name,Platalea ajaja
+36,Ross's Goose,Anser rossii,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,rossii,Ross's Goose,common_name,Anser rossii
+224,Rough-legged Hawk,Buteo lagopus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,lagopus,Rough-legged Hawk,common_name,Buteo lagopus
+249,Royal Tern,Thalasseus maximus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,maxima,royal tern,common_name,Sterna maxima
+595,Ruby-crowned Kinglet,Regulus calendula,Animalia,Chordata,Aves,Passeriformes,Regulidae,Regulus,calendula,ruby-crowned kinglet,common_name,Regulus calendula
+107,Ruby-throated Hummingbird,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,colubris,Ruby-throated Hummingbird,common_name,Archilochus colubris
+238,Ruddy Duck,Oxyura jamaicensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura,jamaicensis,Ruddy Duck,common_name,Oxyura jamaicensis
+97,Ruddy Turnstone,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,interpres,Ruddy Turnstone,common_name,Arenaria interpres
+193,Ruffed Grouse,Bonasa umbellus,Animalia,Chordata,Aves,Galliformes,Phasianidae,Bonasa,umbellus,Ruffed Grouse,common_name,Bonasa umbellus
+213,Rufous Hummingbird,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,rufus,Rufous Hummingbird,common_name,Selasphorus rufus
+273,Rufous-crowned Sparrow,Aimophila ruficeps,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Aimophila,ruficeps,Rufous-crowned Sparrow,common_name,Aimophila ruficeps
+404,Rusty Blackbird,Euphagus carolinus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Euphagus,carolinus,Rusty Blackbird,common_name,Euphagus carolinus
+114,Sanderling,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,alba,Sanderling,common_name,Calidris alba
+204,Sandhill Crane,Grus canadensis,Animalia,Chordata,Aves,Gruiformes,Gruidae,Antigone,canadensis,Sandhill Crane,common_name,Antigone canadensis
+583,Savannah Sparrow,Passerculus sandwichensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Passerculus,sandwichensis,Large-billed Sparrow,binomial,Passerculus sandwichensis
+562,Say's Phoebe,Sayornis saya,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,saya,Say's Phoebe,common_name,Sayornis saya
+43,Scaled Quail,Callipepla squamata,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,squamata,Scaled Quail,common_name,Callipepla squamata
+274,Scarlet Tanager,Piranga olivacea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,olivacea,Scarlet Tanager,common_name,Piranga olivacea
+741,Scissor-tailed Flycatcher,Tyrannus forficatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,forficatus,Scissor-tailed Flycatcher,common_name,Tyrannus forficatus
+26,Semipalmated Plover,Charadrius semipalmatus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,semipalmatus,Semipalmated Plover,common_name,Charadrius semipalmatus
+117,Semipalmated Sandpiper,Calidris pusilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,pusilla,Semipalmated Sandpiper,common_name,Calidris pusilla
+135,Sharp-shinned Hawk,Accipiter striatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,striatus,Sharp-shinned Hawk,common_name,Accipiter striatus
+146,Short-billed Dowitcher,Limnodromus griseus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limnodromus,griseus,Short-billed Dowitcher,common_name,Limnodromus griseus
+442,Snow Bunting,Plectrophenax nivalis,Animalia,Chordata,Aves,Passeriformes,Calcariidae,Plectrophenax,nivalis,Snow Bunting,common_name,Plectrophenax nivalis
+33,Snow Goose,Anser caerulescens,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,caerulescens,Snow Goose,common_name,Anser caerulescens
+85,Snowy Egret,Egretta thula,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,thula,Snowy Egret,common_name,Egretta thula
+140,Snowy Owl,Bubo scandiacus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,scandiacus,Snowy Owl,common_name,Bubo scandiacus
+59,Solitary Sandpiper,Tringa solitaria,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,solitaria,Solitary Sandpiper,common_name,Tringa solitaria
+686,Song Sparrow,Melospiza melodia,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,melodia,Song Sparrow,common_name,Melospiza melodia
+56,Spotted Sandpiper,Actitis macularius,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,macularius,Spotted Sandpiper,common_name,Actitis macularius
+258,Spotted Towhee,Pipilo maculatus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,maculatus,Spotted Towhee,common_name,Pipilo maculatus
+271,Steller's Jay,Cyanocitta stelleri,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,stelleri,Steller's Jay,common_name,Cyanocitta stelleri
+259,Summer Tanager,Piranga rubra,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,rubra,Summer Tanager,common_name,Piranga rubra
+187,Surf Scoter,Melanitta perspicillata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,perspicillata,Surf Scoter,common_name,Melanitta perspicillata
+106,Surfbird,Calidris virgata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,virgata,Surfbird,common_name,Calidris virgata
+202,Swainson's Hawk,Buteo swainsoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,swainsoni,Swainson's Hawk,common_name,Buteo swainsoni
+570,Swainson's Thrush,Catharus ustulatus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,ustulatus,Swainson's Thrush,common_name,Catharus ustulatus
+66,Swallow-tailed Kite,Elanoides forficatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanoides,forficatus,American Swallow-tailed Kite,binomial,Elanoides forficatus
+705,Swamp Sparrow,Melospiza georgiana,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,georgiana,Coastal Plain Swamp Sparrow,binomial,Melospiza georgiana
+283,Tennessee Warbler,Leiothlypis peregrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Oreothlypis,peregrina,tennessee warbler,common_name,Oreothlypis peregrina
+407,Townsend's Solitaire,Myadestes townsendi,Animalia,Chordata,Aves,Passeriformes,Turdidae,Myadestes,townsendi,Townsend's Solitaire,common_name,Myadestes townsendi
+721,Townsend's Warbler,Setophaga townsendi,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,townsendi,Townsend's Warbler,common_name,Setophaga townsendi
+287,Tree Swallow,Tachycineta bicolor,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,bicolor,Tree Swallow,common_name,Tachycineta bicolor
+115,Tricolored Heron,Egretta tricolor,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,tricolor,Tricolored Heron,common_name,Egretta tricolor
+67,Trumpeter Swan,Cygnus buccinator,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,buccinator,Trumpeter Swan,common_name,Cygnus buccinator
+717,Tufted Titmouse,Baeolophus bicolor,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus,bicolor,tufted titmouse,common_name,Parus bicolor
+72,Tundra Swan,Cygnus columbianus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,columbianus,Tundra Swan,common_name,Cygnus columbianus
+40,Turkey Vulture,Cathartes aura,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,aura,Turkey Vulture,common_name,Cathartes aura
+735,Varied Thrush,Ixoreus naevius,Animalia,Chordata,Aves,Passeriformes,Turdidae,Ixoreus,naevius,Varied Thrush,common_name,Ixoreus naevius
+52,Vaux's Swift,Chaetura vauxi,Animalia,Chordata,Aves,Apodiformes,Apodidae,Chaetura,vauxi,Vaux's Swift,common_name,Chaetura vauxi
+425,Veery,Catharus fuscescens,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,fuscescens,Veery,common_name,Catharus fuscescens
+433,Verdin,Auriparus flaviceps,Animalia,Chordata,Aves,Passeriformes,Remizidae,Auriparus,flaviceps,Verdin,common_name,Auriparus flaviceps
+575,Vermilion Flycatcher,Pyrocephalus rubinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,rubinus,Vermilion Flycatcher,common_name,Pyrocephalus rubinus
+431,Vesper Sparrow,Pooecetes gramineus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pooecetes,gramineus,Vesper Sparrow,common_name,Pooecetes gramineus
+385,Violet-green Swallow,Tachycineta thalassina,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,thalassina,Violet-green Swallow,common_name,Tachycineta thalassina
+712,Warbling Vireo,Vireo gilvus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,gilvus,Warbling Vireo,common_name,Vireo gilvus
+279,Western Bluebird,Sialia mexicana,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Western Bluebird,common_name,Sialia mexicana
+185,Western Grebe,Aechmophorus occidentalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis,Western Grebe,common_name,Aechmophorus occidentalis
+239,Western Gull,Larus occidentalis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,occidentalis,Western Gull,common_name,Larus occidentalis
+716,Western Kingbird,Tyrannus verticalis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,verticalis,Western Kingbird,common_name,Tyrannus verticalis
+292,Western Meadowlark,Sturnella neglecta,Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,neglecta,Western Meadowlark,common_name,Sturnella neglecta
+121,Western Sandpiper,Calidris mauri,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,mauri,Western Sandpiper,common_name,Calidris mauri
+62,Western Screech-Owl,Megascops kennicottii,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,kennicottii,Western Screech-Owl,common_name,Megascops kennicottii
+384,Western Scrub-Jay,Aphelocoma californica,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,californica,California Scrub-Jay,binomial,Aphelocoma californica
+291,Western Tanager,Piranga ludoviciana,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,ludoviciana,Western Tanager,common_name,Piranga ludoviciana
+256,Western Wood-Pewee,Contopus sordidulus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Contopus,sordidulus,Western Wood-Pewee,common_name,Contopus sordidulus
+82,Whimbrel,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,phaeopus,Whimbrel,common_name,Numenius phaeopus
+198,White Ibis,Eudocimus albus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Eudocimus,albus,American White Ibis,binomial,Eudocimus albus
+413,White-breasted Nuthatch,Sitta carolinensis,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,carolinensis,White-breasted Nuthatch,common_name,Sitta carolinensis
+729,White-crowned Sparrow,Zonotrichia leucophrys,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,leucophrys,White-crowned Sparrow,common_name,Zonotrichia leucophrys
+263,White-eyed Vireo,Vireo griseus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,griseus,White-eyed Vireo,common_name,Vireo griseus
+223,White-faced Ibis,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,chihi,White-faced Ibis,common_name,Plegadis chihi
+83,White-tailed Kite,Elanus leucurus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus,leucurus,White-tailed Kite,common_name,Elanus leucurus
+714,White-throated Sparrow,Zonotrichia albicollis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,albicollis,White-throated Sparrow,common_name,Zonotrichia albicollis
+68,White-throated Swift,Aeronautes saxatalis,Animalia,Chordata,Aves,Apodiformes,Apodidae,Aeronautes,saxatalis,White-throated Swift,common_name,Aeronautes saxatalis
+574,White-winged Crossbill,Loxia leucoptera,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Loxia,leucoptera,White-winged Crossbill,common_name,Loxia leucoptera
+137,White-winged Dove,Zenaida asiatica,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,asiatica,White-winged Dove,common_name,Zenaida asiatica
+192,White-winged Scoter,Melanitta deglandi,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,deglandi,White-winged Scoter,common_name,Melanitta deglandi
+220,Wild Turkey,Meleagris gallopavo,Animalia,Chordata,Aves,Galliformes,Phasianidae,Meleagris,gallopavo,Wild Turkey,common_name,Meleagris gallopavo
+70,Willet,Tringa semipalmata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,semipalmata,Willet,common_name,Tringa semipalmata
+158,Wilson's Phalarope,Phalaropus tricolor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Phalaropus,tricolor,Wilson's Phalarope,common_name,Phalaropus tricolor
+149,Wilson's Snipe,Gallinago delicata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,delicata,Wilson's Snipe,common_name,Gallinago delicata
+743,Wilson's Warbler,Cardellina pusilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Cardellina,pusilla,Wilson's Warbler,common_name,Cardellina pusilla
+708,Winter Wren,Troglodytes hiemalis,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,hiemalis,Winter Wren,common_name,Troglodytes hiemalis
+81,Wood Duck,Aix sponsa,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aix,sponsa,Wood Duck,common_name,Aix sponsa
+133,Wood Stork,Mycteria americana,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria,americana,Wood Stork,common_name,Mycteria americana
+693,Wood Thrush,Hylocichla mustelina,Animalia,Chordata,Aves,Passeriformes,Turdidae,Hylocichla,mustelina,Wood Thrush,common_name,Hylocichla mustelina
+437,Wrentit,Chamaea fasciata,Animalia,Chordata,Aves,Passeriformes,Paradoxornithidae,Chamaea,fasciata,Wrentit,common_name,Chamaea fasciata
+573,Yellow Warbler,Setophaga petechia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,petechia,Barbados Yellow Warbler,binomial,Setophaga petechia
+112,Yellow-bellied Sapsucker,Sphyrapicus varius,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,varius,Yellow-bellied Sapsucker,common_name,Sphyrapicus varius
+77,Yellow-billed Cuckoo,Coccyzus americanus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,americanus,Yellow-billed Cuckoo,common_name,Coccyzus americanus
+581,Yellow-billed Magpie,Pica nuttalli,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,nuttalli,Yellow-billed Magpie,common_name,Pica nuttalli
+745,Yellow-breasted Chat,Icteria virens,Animalia,Chordata,Aves,Passeriformes,Icteriidae,Icteria,virens,Yellow-breasted Chat,common_name,Icteria virens
+184,Yellow-crowned Night-Heron,Nyctanassa violacea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nyctanassa,violacea,Yellow-crowned Night-Heron,common_name,Nyctanassa violacea
+306,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthocephalus,xanthocephalus,Yellow-headed Blackbird,common_name,Xanthocephalus xanthocephalus
+691,Yellow-rumped Warbler,Setophaga coronata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Dendroica,coronata,yellow-rumped warbler,common_name,Dendroica coronata
+307,Yellow-throated Vireo,Vireo flavifrons,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,flavifrons,Yellow-throated Vireo,common_name,Vireo flavifrons
+702,Yellow-throated Warbler,Setophaga dominica,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,dominica,Yellow-throated Warbler,common_name,Setophaga dominica

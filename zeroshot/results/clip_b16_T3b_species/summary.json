@@ -1,0 +1,11 @@
+{
+  "run": "clip_b16_T3b_species",
+  "model": "clip_b16",
+  "level": "T3b",
+  "space": "species",
+  "taxo": "gbif",
+  "n_test": 24633,
+  "n_classes": 404,
+  "top1_accuracy": 0.41456582633053224,
+  "top5_accuracy": 0.7604433077578857
+}

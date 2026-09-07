@@ -1,0 +1,37 @@
+{
+  "run": "ensemble",
+  "n_test": 24633,
+  "n_classes": 555,
+  "top1_accuracy": 0.899971582836033,
+  "top5_accuracy": 0.9883489627735152,
+  "balanced_accuracy": 0.8806721272007594,
+  "cohen_kappa": 0.8997721278063091,
+  "macro_precision": 0.895168890455483,
+  "macro_recall": 0.8806721272007594,
+  "macro_f1": 0.8823551621845231,
+  "micro_precision": 0.899971582836033,
+  "micro_recall": 0.899971582836033,
+  "micro_f1": 0.899971582836033,
+  "weighted_precision": 0.9034688798737285,
+  "weighted_recall": 0.899971582836033,
+  "weighted_f1": 0.8979053933563632,
+  "species_404_accuracy": 0.9175902244955954,
+  "order_22_accuracy": 0.9953314659197012,
+  "model": "ensemble",
+  "img_size": 224,
+  "params_M": 0.0,
+  "pretrained": true,
+  "use_bbox": false,
+  "epochs": 0,
+  "batch_size": 0,
+  "train_minutes": 0.0,
+  "members": [
+    "vit_b_16_in21k_448"
+  ],
+  "tta": {
+    "vit_b_16_in21k_448": "flip"
+  },
+  "errors_total": 2464,
+  "errors_within_same_species_pct": 17.613636363636363,
+  "errors_within_same_order_pct": 95.33279220779221
+}

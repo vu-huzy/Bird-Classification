@@ -1,0 +1,6 @@
+split,img,txt,level,lora_params_M,epochs,peak_vram_GB,minutes,zsl_unseen_acc,gzsl_harmonic,vp81_bal,all555_top1
+species,bioclip,bioclip,T2,1.77,6.0,5.4,11.96,74.61,57.62,90.87,76.38
+species,bioclip,clip_b16,T0s,1.77,6.0,5.4,11.91,66.23,47.24,91.06,68.91
+variant,bioclip,bioclip,T2,1.77,6.0,5.4,12.12,64.14,26.09,65.69,73.46
+variant,bioclip,clip_b16,T0s,1.77,6.0,5.4,12.71,61.44,36.43,77.36,69.36
+variant,bioclip2,bioclip2,T2,4.72,4.0,9.96,27.59,91.34,62.36,72.83,87.54

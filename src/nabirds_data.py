@@ -26,7 +26,8 @@ class NABirds(Dataset):
 
     def __init__(self, root=nio.DEFAULT_ROOT, split='train', transform=None,
                  image_dir='images_r448', use_bbox=False, bbox_margin=0.15,
-                 indices=None):
+                 indices=None, paste_p=0.0, paste_pool=None, paste_scale=(0.3, 0.7),
+                 paste_mean=IMAGENET_MEAN, paste_std=IMAGENET_STD):
         self.root = root
         self.transform = transform
         self.use_bbox = use_bbox
@@ -57,6 +58,26 @@ class NABirds(Dataset):
         if indices is not None:
             self.samples = [self.samples[k] for k in indices]
         self.split = split
+
+        # --- CMO: dán chim của LỚP HIẾM lên ảnh của lớp nhiều ảnh -------------
+        # Park et al., CVPR 2022 — "The Majority Can Help The Minority". Ý tưởng:
+        # lớp thiểu số thiếu BỐI CẢNH đa dạng, nên mượn nền của lớp đa số.
+        # Khác bản gốc ở một điểm quan trọng: CMO cắt một Ô NGẪU NHIÊN từ ảnh
+        # thiểu số (nên có thể trượt mất con chim), còn ở đây repo có BBOX THẬT
+        # cho mọi ảnh nên dán được đúng con chim.
+        self.paste_p = paste_p
+        self.paste_pool = paste_pool or []
+        self.paste_scale = paste_scale
+        if paste_p > 0:
+            if not self.paste_pool:
+                raise ValueError('paste_p > 0 nhung paste_pool rong')
+            # bbox cần cho việc cắt, dù use_bbox=False ở nhánh chính
+            self.sizes = self.sizes or nio.load_image_sizes(root)
+            self.bboxes = self.bboxes or nio.load_bounding_box_annotations(root)
+            # Miếng dán đã được resize thủ công nên chỉ cần chuẩn hoá, KHÔNG
+            # thêm phép hình học nào nữa.
+            self.transform_paste = transforms.Compose([
+                transforms.ToTensor(), transforms.Normalize(paste_mean, paste_std)])
 
     # -- tên lớp theo chỉ số 0..554, dùng cho bảng kết quả ------------------
     @property
@@ -90,20 +111,48 @@ class NABirds(Dataset):
             return img
         return img.crop((left, top, right, bottom))
 
-    def __getitem__(self, i):
-        image_id, rel, label = self.samples[i]
+    def _load(self, k):
+        image_id, rel, label = self.samples[k]
         path = os.path.join(self.img_root, rel)
         if not os.path.exists(path):
             path = os.path.join(self.orig_root, rel)
-        img = Image.open(path).convert('RGB')
+        return Image.open(path).convert('RGB'), image_id, label
+
+    def __getitem__(self, i):
+        img, image_id, label = self._load(i)
         if self.use_bbox:
             img = self._crop_bbox(img, image_id)
         if self.transform is not None:
             img = self.transform(img)
-        return img, label
+        # `getattr` chứ không phải `self.paste_p`: trên Windows, DataLoader worker
+        # được SPAWN — nó import lại module (code MỚI) rồi unpickle object dataset
+        # (đã dựng bằng code CŨ). Nếu sửa file nguồn trong lúc một sweep đang chạy
+        # thì object cũ thiếu thuộc tính mới và worker chết giữa chừng. Đã mất một
+        # run vì đúng lỗi này (`convnext_tiny_in22k_224_noerase`, exit 1).
+        if getattr(self, 'paste_p', 0.0) <= 0:
+            return img, label
+
+        # Dán SAU khi transform (trên tensor). Nếu dán trước thì
+        # RandomResizedCrop có thể cắt mất đúng con chim vừa dán -> nhãn thành
+        # nhiễu, đúng điểm yếu mà SnapMix chỉ ra ở CutMix.
+        import random
+        if random.random() >= self.paste_p:
+            return img, label, label, 1.0
+        src, src_id, src_label = self._load(random.choice(self.paste_pool))
+        crop = self._crop_bbox(src, src_id)
+        H, W = img.shape[1], img.shape[2]
+        r = random.uniform(*self.paste_scale)
+        h2, w2 = max(8, int(H * r)), max(8, int(W * r))
+        patch = self.transform_paste(crop.resize((w2, h2), Image.BILINEAR))
+        y0, x0 = random.randint(0, H - h2), random.randint(0, W - w2)
+        img = img.clone()
+        img[:, y0:y0 + h2, x0:x0 + w2] = patch
+        lam = 1.0 - (h2 * w2) / (H * W)      # trọng số còn lại của nhãn GỐC
+        return img, label, src_label, lam
 
 
-def build_transforms(img_size, train, aug='standard'):
+def build_transforms(img_size, train, aug='standard', mean=IMAGENET_MEAN,
+                     std=IMAGENET_STD, erasing_p=0.25, hue=0.02, rotate=0.0):
     """Augmentation cho FGVC.
 
     Khác với recipe ImageNet mặc định ở 2 điểm quan trọng:
@@ -118,13 +167,19 @@ def build_transforms(img_size, train, aug='standard'):
                                          ratio=(3 / 4, 4 / 3)),
             transforms.RandomHorizontalFlip(0.5),
         ]
+        # `rotate` mặc định 0: chim có hướng chuẩn, xoay mạnh là phá nhãn. Nếu
+        # bật thì giữ <= 15 độ (PLAN mục E).
+        if rotate > 0:
+            ops.append(transforms.RandomRotation(rotate))
         if aug == 'standard':
             ops.append(transforms.ColorJitter(brightness=0.2, contrast=0.2,
-                                              saturation=0.1, hue=0.02))
-        ops += [transforms.ToTensor(),
-                transforms.Normalize(IMAGENET_MEAN, IMAGENET_STD)]
-        if aug == 'standard':
-            ops.append(transforms.RandomErasing(p=0.25, scale=(0.02, 0.15)))
+                                              saturation=0.1, hue=hue))
+        ops += [transforms.ToTensor(), transforms.Normalize(mean, std)]
+        # erasing_p=0 -> tắt hẳn. Đây là ablation E1: tài liệu ghi Cutout làm
+        # ResNet-50 mất ~2 điểm trên CUB vì có xác suất xoá TRÚNG vùng phân biệt,
+        # mà vùng phân biệt của chim rất nhỏ. Repo bật 0.25 từ đầu, chưa ai kiểm.
+        if aug == 'standard' and erasing_p > 0:
+            ops.append(transforms.RandomErasing(p=erasing_p, scale=(0.02, 0.15)))
         return transforms.Compose(ops)
 
     resize = int(round(img_size * 1.14))         # 224 -> 256, 299 -> 341
@@ -132,7 +187,7 @@ def build_transforms(img_size, train, aug='standard'):
         transforms.Resize(resize),
         transforms.CenterCrop(img_size),
         transforms.ToTensor(),
-        transforms.Normalize(IMAGENET_MEAN, IMAGENET_STD),
+        transforms.Normalize(mean, std),
     ])
 
 
@@ -173,7 +228,10 @@ def stratified_val_split(samples, val_frac, seed=0, min_class_size=20):
 
 def build_loaders(img_size, batch_size, workers=8, use_bbox=False, aug='standard',
                   root=nio.DEFAULT_ROOT, val_frac=0.0, seed=0,
-                  image_dir='images_r448', val_min_class=20):
+                  image_dir='images_r448', val_min_class=20,
+                  mean=IMAGENET_MEAN, std=IMAGENET_STD,
+                  erasing_p=0.25, hue=0.02, rotate=0.0,
+                  cmo_p=0.0, cmo_tail_max=30):
     """Trả về (train_set, val_set, test_set, train_loader, val_loader, test_loader).
 
     `val_frac > 0` tách một phần tập train ra làm validation. Val dùng để chọn
@@ -183,15 +241,34 @@ def build_loaders(img_size, batch_size, workers=8, use_bbox=False, aug='standard
     """
     mk = lambda sp, tf, idx=None: NABirds(root, sp, tf, image_dir=image_dir,
                                          use_bbox=use_bbox, indices=idx)
-    full_train = mk('train', build_transforms(img_size, True, aug))
+    # `mean`/`std` phải theo MODEL: BioCLIP pretrain bằng chuẩn hoá CLIP, đưa ảnh
+    # chuẩn hoá kiểu ImageNet vào là lệch phân phối đầu vào ngay từ epoch 0.
+    tf_train = build_transforms(img_size, True, aug, mean, std,
+                                erasing_p=erasing_p, hue=hue, rotate=rotate)
+    tf_eval = build_transforms(img_size, False, mean=mean, std=std)
+    full_train = mk('train', tf_train)
     if val_frac > 0:
         tr_idx, va_idx = stratified_val_split(full_train.samples, val_frac, seed,
                                               min_class_size=val_min_class)
-        train_set = mk('train', build_transforms(img_size, True, aug), tr_idx)
-        val_set = mk('train', build_transforms(img_size, False), va_idx)
+        train_set = mk('train', tf_train, tr_idx)
+        val_set = mk('train', tf_eval, va_idx)
     else:
-        train_set, val_set = full_train, None
-    test_set = mk('test', build_transforms(img_size, False))
+        tr_idx, train_set, val_set = list(range(len(full_train.samples))), full_train, None
+
+    if cmo_p > 0:
+        # Pool nguồn = mọi ảnh thuộc lớp có < cmo_tail_max ảnh TRAIN. Chỉ số phải
+        # tính TRÊN train_set (đã trừ val), không phải trên full_train.
+        import collections
+        cnt = collections.Counter(lab for _, _, lab in train_set.samples)
+        pool = [k for k, (_, _, lab) in enumerate(train_set.samples)
+                if cnt[lab] < cmo_tail_max]
+        train_set = NABirds(root, 'train', tf_train, image_dir=image_dir,
+                            use_bbox=use_bbox, indices=tr_idx, paste_p=cmo_p,
+                            paste_pool=pool, paste_mean=mean, paste_std=std)
+        n_cls = len({train_set.samples[k][2] for k in pool})
+        print(f'  CMO: pool {len(pool)} anh tu {n_cls} lop co < {cmo_tail_max} '
+              f'anh train, xac suat dan {cmo_p}', flush=True)
+    test_set = mk('test', tf_eval)
     # Mỗi worker chiếm ~765 MB RSS (import torch). Nếu để train và test cùng
     # `persistent_workers=True` với 8 worker thì có 16 process sống song song
     # (~12 GB) -> trên máy 32 GB sẽ hết RAM, hệ thống paging và GPU bị bỏ đói.

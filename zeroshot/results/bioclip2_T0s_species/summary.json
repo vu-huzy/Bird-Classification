@@ -1,0 +1,11 @@
+{
+  "run": "bioclip2_T0s_species",
+  "model": "bioclip2",
+  "level": "T0s",
+  "space": "species",
+  "taxo": "tol",
+  "n_test": 24633,
+  "n_classes": 404,
+  "top1_accuracy": 0.9566435269760077,
+  "top5_accuracy": 0.9981325863678805
+}

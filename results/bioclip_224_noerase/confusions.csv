@@ -1,0 +1,61 @@
+﻿true_class,pred_class,count,same_species,same_order
+Boreal Chickadee,Chestnut-backed Chickadee,36,False,True
+"Allen's Hummingbird (Female, immature)","Rufous Hummingbird (Female, immature)",26,False,True
+Rufous Hummingbird (Adult Male),Allen's Hummingbird (Adult Male),24,False,True
+Greater Scaup (Female/Eclipse male),Lesser Scaup (Female/Eclipse male),23,False,True
+Black-capped Chickadee,Carolina Chickadee,21,False,True
+Barrow's Goldeneye (Female/Eclipse male),Common Goldeneye (Female/Eclipse male),21,False,True
+Chihuahuan Raven,Common Raven,21,False,True
+Pacific-slope Flycatcher,Cordilleran Flycatcher,20,False,True
+MacGillivray's Warbler,Mourning Warbler,20,False,True
+Greater Yellowlegs,Lesser Yellowlegs,19,False,True
+Red-naped Sapsucker,Yellow-bellied Sapsucker,19,False,True
+Hairy Woodpecker,Downy Woodpecker,19,False,True
+Tundra Swan,Trumpeter Swan,19,False,True
+Allen's Hummingbird (Adult Male),Rufous Hummingbird (Adult Male),18,False,True
+Pacific Wren,Winter Wren,18,False,True
+Chimney Swift,Vaux's Swift,17,False,True
+Cooper's Hawk (Adult),Sharp-shinned Hawk (Adult ),16,False,True
+Western Wood-Pewee,Eastern Wood-Pewee,16,False,True
+Barrow's Goldeneye (Breeding male),Common Goldeneye (Breeding male),16,False,True
+Greater Scaup (Breeding male),Lesser Scaup (Breeding male),16,False,True
+Eastern Meadowlark,Western Meadowlark,16,False,True
+Eastern Screech-Owl,Western Screech-Owl,14,False,True
+Harlequin Duck (Female/juvenile),White-winged Scoter (Female/juvenile),14,False,True
+Boat-tailed Grackle,Great-tailed Grackle,13,False,True
+Northwestern Crow,American Crow,13,False,True
+Western Screech-Owl,Eastern Screech-Owl,13,False,True
+Sharp-shinned Hawk (Immature),Cooper's Hawk (Immature),12,False,True
+Cassin's Vireo,Blue-headed Vireo,12,False,True
+"Black-chinned Hummingbird (Female, immature)","Ruby-throated Hummingbird (Female, immature)",12,False,True
+Fish Crow,American Crow,12,False,True
+"Broad-tailed Hummingbird (Female, immature)","Calliope Hummingbird (Female, immature)",12,False,True
+Sharp-shinned Hawk (Adult ),Cooper's Hawk (Adult),12,False,True
+Mourning Warbler,MacGillivray's Warbler,12,False,True
+American Crow,Common Raven,12,False,True
+Common Tern,Forster's Tern,11,False,True
+Great-tailed Grackle,Boat-tailed Grackle,11,False,True
+Pacific Loon (Nonbreeding/juvenile),Common Loon (Nonbreeding/juvenile),11,False,True
+Swainson's Hawk (Light morph ),Swainson's Hawk (Dark morph ),11,True,True
+White-throated Sparrow (Tan-striped/immature),White-throated Sparrow (White-striped),11,True,True
+Yellow-rumped Warbler (Winter/juvenile Audubon's),Yellow-rumped Warbler (Breeding Audubon's),11,True,True
+Western Meadowlark,Eastern Meadowlark,11,False,True
+Black Guillemot (Breeding),Pigeon Guillemot (Breeding),11,False,True
+Golden Eagle (Immature),Golden Eagle (Adult),10,True,True
+Western Gull (Immature),Herring Gull (Immature),10,False,True
+Hoary Redpoll,Common Redpoll,10,False,True
+Cooper's Hawk (Immature),Sharp-shinned Hawk (Immature),10,False,True
+Yellow-rumped Warbler (Breeding Audubon's),Yellow-rumped Warbler (Winter/juvenile Audubon's),10,True,True
+Laughing Gull (Nonbreeding/Immature),Laughing Gull (Breeding),9,True,True
+Downy Woodpecker,Hairy Woodpecker,9,False,True
+Western Sandpiper,Semipalmated Sandpiper,9,False,True
+Fox Sparrow (Thick-billed/Slate-colored),Fox Sparrow (Sooty),9,True,True
+Bank Swallow,Northern Rough-winged Swallow,9,False,True
+"Ruby-throated Hummingbird (Female, immature)","Black-chinned Hummingbird (Female, immature)",9,False,True
+"Anna's Hummingbird (Female, immature)","Black-chinned Hummingbird (Female, immature)",9,False,True
+Great Cormorant (Immature),Double-crested Cormorant (Immature),9,False,True
+American Crow,Fish Crow,9,False,True
+Great Black-backed Gull (Adult),Western Gull (Adult),9,False,True
+Herring Gull (Immature),California Gull (Immature),9,False,True
+"Calliope Hummingbird (Female, immature)","Broad-tailed Hummingbird (Female, immature)",8,False,True
+European Starling (Breeding Adult),European Starling (Nonbreeding Adult),8,True,True

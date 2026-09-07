@@ -1,0 +1,61 @@
+﻿true_class,pred_class,count,same_species,same_order
+Black-capped Chickadee,Carolina Chickadee,32,False,True
+Red-naped Sapsucker,Yellow-bellied Sapsucker,24,False,True
+Hairy Woodpecker,Downy Woodpecker,19,False,True
+Allen's Hummingbird (Adult Male),Rufous Hummingbird (Adult Male),19,False,True
+Western Wood-Pewee,Eastern Wood-Pewee,19,False,True
+Greater Scaup (Female/Eclipse male),Lesser Scaup (Female/Eclipse male),18,False,True
+Eastern Meadowlark,Western Meadowlark,18,False,True
+Greater Yellowlegs,Lesser Yellowlegs,18,False,True
+Common Tern,Forster's Tern,18,False,True
+"Black-chinned Hummingbird (Female, immature)","Ruby-throated Hummingbird (Female, immature)",17,False,True
+Western Screech-Owl,Eastern Screech-Owl,17,False,True
+"Allen's Hummingbird (Female, immature)","Rufous Hummingbird (Female, immature)",16,False,True
+Northern Flicker (Red-shafted),Northern Flicker (Yellow-shafted),15,True,True
+Sharp-shinned Hawk (Adult ),Cooper's Hawk (Adult),15,False,True
+Sharp-shinned Hawk (Immature),Cooper's Hawk (Immature),15,False,True
+Chihuahuan Raven,Common Raven,15,False,True
+Lesser Yellowlegs,Greater Yellowlegs,15,False,True
+Louisiana Waterthrush,Northern Waterthrush,14,False,True
+Rufous Hummingbird (Adult Male),Allen's Hummingbird (Adult Male),14,False,True
+Pacific Wren,Winter Wren,14,False,True
+American Crow,Common Raven,13,False,True
+"Ruby-throated Hummingbird (Female, immature)","Black-chinned Hummingbird (Female, immature)",13,False,True
+Yellow-rumped Warbler (Breeding Audubon's),Yellow-rumped Warbler (Winter/juvenile Audubon's),13,True,True
+Barrow's Goldeneye (Female/Eclipse male),Common Goldeneye (Female/Eclipse male),13,False,True
+Cooper's Hawk (Immature),Sharp-shinned Hawk (Immature),12,False,True
+Boat-tailed Grackle,Great-tailed Grackle,12,False,True
+Eastern Screech-Owl,Western Screech-Owl,12,False,True
+Cooper's Hawk (Adult),Sharp-shinned Hawk (Adult ),12,False,True
+Mourning Warbler,MacGillivray's Warbler,11,False,True
+Great Cormorant (Immature),Double-crested Cormorant (Immature),11,False,True
+Greater Scaup (Breeding male),Lesser Scaup (Breeding male),11,False,True
+Ruby-crowned Kinglet,Hutton's Vireo,11,False,True
+Glossy Ibis,White-faced Ibis,11,False,True
+Yellow-rumped Warbler (Winter/juvenile Audubon's),Yellow-rumped Warbler (Breeding Audubon's),11,True,True
+Fox Sparrow (Thick-billed/Slate-colored),Fox Sparrow (Sooty),11,True,True
+"Broad-tailed Hummingbird (Female, immature)","Calliope Hummingbird (Female, immature)",10,False,True
+Northern Flicker (Yellow-shafted),Northern Flicker (Red-shafted),10,True,True
+White-faced Ibis,Glossy Ibis,10,False,True
+Carolina Chickadee,Black-capped Chickadee,10,False,True
+Great-tailed Grackle,Boat-tailed Grackle,10,False,True
+Ladder-backed Woodpecker,Nuttall's Woodpecker,10,False,True
+Pacific Loon (Nonbreeding/juvenile),Common Loon (Nonbreeding/juvenile),10,False,True
+"Black-chinned Hummingbird (Female, immature)","Anna's Hummingbird (Female, immature)",10,False,True
+California Gull (Adult),Ring-billed Gull (Adult),10,False,True
+Cave Swallow,Cliff Swallow,10,False,True
+Common Raven,American Crow,10,False,True
+Mourning Warbler,Nashville Warbler,10,False,True
+Black Guillemot (Breeding),Pigeon Guillemot (Breeding),10,False,True
+Hooded Oriole (Female/Immature male),Orchard Oriole (Female/Juvenile),10,False,True
+Hermit Thrush,Swainson's Thrush,10,False,True
+Western Scrub-Jay,Florida Scrub-Jay,10,False,True
+Eastern Wood-Pewee,Western Wood-Pewee,10,False,True
+Snow Goose (White morph),Ross's Goose,10,False,True
+Brandt's Cormorant,Pelagic Cormorant,9,False,True
+White-throated Sparrow (Tan-striped/immature),White-throated Sparrow (White-striped),9,True,True
+Forster's Tern,Common Tern,9,False,True
+Royal Tern,Caspian Tern,9,False,True
+Downy Woodpecker,Hairy Woodpecker,9,False,True
+Canyon Towhee,California Towhee,9,False,True
+Nuttall's Woodpecker,Ladder-backed Woodpecker,9,False,True

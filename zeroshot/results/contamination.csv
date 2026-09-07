@@ -1,0 +1,405 @@
+species_class_id,common_name,query_used,scientific_name,kingdom,phylum,class,order,family,genus,match,n_vernacular,in_tol_species,in_tol_genus,in_tol_family,in_tol_common
+302,Abert's Towhee,Abert's Towhee,Melozone aberti,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melozone,vernacular_exact,51,True,True,True,True
+47,Acorn Woodpecker,Acorn Woodpecker,Melanerpes formicivorus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,vernacular_exact,58,True,True,True,True
+228,Allen's Hummingbird,Allen's Hummingbird,Selasphorus sasin,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,vernacular_exact,56,True,True,True,True
+50,American Avocet,American Avocet,Recurvirostra americana,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Recurvirostra,vernacular_exact,82,True,True,True,True
+98,American Black Duck,American Black Duck,Anas rubripes,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,vernacular_exact,132,True,True,True,True
+162,American Coot,American Coot,Fulica americana,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,vernacular_exact,126,True,True,True,True
+683,American Crow,American Crow,Corvus brachyrhynchos,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,vernacular_exact,94,True,True,True,True
+436,American Dipper,American Dipper,Cinclus mexicanus,Animalia,Chordata,Aves,Passeriformes,Cinclidae,Cinclus,vernacular_exact,69,True,True,True,True
+726,American Goldfinch,American Goldfinch,Spinus tristis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus,vernacular_exact,59,True,True,True,True
+94,American Kestrel,American Kestrel,Falco sparverius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,vernacular_exact,142,True,True,True,True
+35,American Oystercatcher,American Oystercatcher,Haematopus palliatus,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,vernacular_exact,100,True,True,True,True
+440,American Pipit,American Pipit,Anthus rubescens,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,vernacular_exact,124,True,True,True,True
+412,American Redstart,American Redstart,Setophaga ruticilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,119,True,True,True,True
+718,American Robin,American Robin,Turdus migratorius,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,vernacular_exact,130,True,True,True,True
+309,American Tree Sparrow,American Tree Sparrow,Spizelloides arborea,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizelloides,vernacular_exact,55,True,True,True,True
+29,American White Pelican,American White Pelican,Pelecanus erythrorhynchos,Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,vernacular_exact,78,True,True,True,True
+92,American Wigeon,American Wigeon,Mareca americana,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mareca,vernacular_exact,114,True,True,True,True
+154,American Woodcock,American Woodcock,Scolopax minor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Scolopax,vernacular_exact,80,True,True,True,True
+221,Anhinga,Anhinga anhinga,Anhinga anhinga,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga,vernacular_exact,95,True,True,True,True
+152,Anna's Hummingbird,Anna's Hummingbird,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Calypte,vernacular_exact,57,True,True,True,True
+586,Ash-throated Flycatcher,Ash-throated Flycatcher,Myiarchus cinerascens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,vernacular_exact,62,True,True,True,True
+108,Bald Eagle,Bald Eagle,Haliaeetus leucocephalus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Haliaeetus,vernacular_exact,145,True,True,True,True
+742,Baltimore Oriole,Baltimore Oriole,Icterus galbula,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,vernacular_exact,113,True,True,True,True
+76,Band-tailed Pigeon,Band-tailed Pigeon,Patagioenas fasciata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,vernacular_exact,70,True,True,True,True
+571,Bank Swallow,Bank Swallow,Riparia riparia,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia,vernacular_exact,285,True,True,True,True
+37,Barn Owl,Barn Owl,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,vernacular_exact,318,True,True,True,True
+730,Barn Swallow,Barn Swallow,Hirundo rustica,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,vernacular_exact,325,True,True,True,True
+205,Barred Owl,Barred Owl,Strix varia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,vernacular_exact,83,True,True,True,True
+219,Barrow's Goldeneye,Barrow's Goldeneye,Bucephala islandica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,vernacular_exact,111,True,True,True,True
+443,Bay-breasted Warbler,Bay-breasted Warbler,Setophaga castanea,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,79,True,True,True,True
+285,Bell's Vireo,Bell's Vireo,Vireo bellii,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,52,True,True,True,False
+142,Belted Kingfisher,Belted Kingfisher,Megaceryle alcyon,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Megaceryle,vernacular_exact,106,True,True,True,True
+422,Bewick's Wren,Bewick's Wren,Thryomanes bewickii,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryomanes,vernacular_exact,59,True,True,True,False
+144,Black Guillemot,Black Guillemot,Cepphus grylle,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,vernacular_exact,170,True,True,True,True
+39,Black Oystercatcher,Black Oystercatcher,Haematopus bachmani,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,vernacular_exact,75,True,True,True,False
+409,Black Phoebe,Black Phoebe,Sayornis nigricans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,vernacular_exact,71,True,True,True,True
+269,Black Rosy-Finch,Black Rosy-Finch,Leucosticte atrata,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,vernacular_exact,55,True,True,True,False
+201,Black Scoter,Black Scoter,Melanitta nigra,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,vernacular_exact,193,True,True,True,True
+250,Black Skimmer,Black Skimmer,Rynchops niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rynchops,vernacular_exact,66,True,True,True,True
+246,Black Tern,Black Tern,Chlidonias niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chlidonias,vernacular_exact,227,True,True,True,True
+100,Black Turnstone,Black Turnstone,Arenaria melanocephala,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,vernacular_exact,71,True,True,True,True
+28,Black Vulture,Coragyps atratus,Coragyps atratus,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Coragyps,vernacular_exact,123,True,True,True,True
+272,Black-and-white Warbler,Black-and-white Warbler,Mniotilta varia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Mniotilta,vernacular_exact,118,True,True,True,True
+23,Black-bellied Plover,Black-bellied Plover,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,vernacular_exact,243,True,True,True,True
+24,Black-bellied Whistling-Duck,Black-bellied Whistling-Duck,Dendrocygna autumnalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,vernacular_exact,143,True,True,True,False
+139,Black-billed Cuckoo,Black-billed Cuckoo,Coccyzus erythropthalmus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,vernacular_exact,109,True,True,True,True
+566,Black-billed Magpie,Pica hudsonia,Pica hudsonia,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,vernacular_exact,67,True,True,True,True
+278,Black-capped Chickadee,Black-capped Chickadee,Poecile atricapillus,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,vernacular_exact,69,True,True,True,True
+123,Black-chinned Hummingbird,Black-chinned Hummingbird,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,vernacular_exact,54,True,True,True,True
+734,Black-crested Titmouse,Black-crested Titmouse,Baeolophus atricristatus,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,vernacular_exact,51,True,True,True,True
+173,Black-crowned Night-Heron,Black-crowned Night-Heron,Nycticorax nycticorax,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,vernacular_exact,284,True,True,True,False
+568,Black-headed Grosbeak,Black-headed Grosbeak,Pheucticus melanocephalus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,vernacular_exact,62,True,True,True,True
+145,Black-legged Kittiwake,Black-legged Kittiwake,Rissa tridactyla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rissa,vernacular_exact,223,True,True,True,True
+46,Black-necked Stilt,Black-necked Stilt,Himantopus mexicanus,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,vernacular_exact,137,True,True,True,True
+594,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,Polioptila melanura,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,vernacular_exact,49,True,True,True,True
+589,Black-throated Blue Warbler,Black-throated Blue Warbler,Setophaga caerulescens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,74,True,True,True,True
+713,Black-throated Gray Warbler,Black-throated Gray Warbler,Setophaga nigrescens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,57,True,True,True,True
+732,Black-throated Green Warbler,Black-throated Green Warbler,Setophaga virens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,76,True,True,True,True
+564,Blackburnian Warbler,Blackburnian Warbler,Setophaga fusca,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,85,True,True,True,True
+582,Blackpoll Warbler,Blackpoll Warbler,Setophaga striata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,103,True,True,True,True
+584,Blue Grosbeak,Blue Grosbeak,Passerina caerulea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,vernacular_exact,84,True,True,True,True
+286,Blue Jay,Blue Jay,Cyanocitta cristata,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,vernacular_exact,107,True,True,True,True
+387,Blue-gray Gnatcatcher,Blue-gray Gnatcatcher,Polioptila caerulea,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,vernacular_exact,75,True,True,True,True
+580,Blue-headed Vireo,Blue-headed Vireo,Vireo solitarius,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,72,True,True,True,True
+116,Blue-winged Teal,Blue-winged Teal,Spatula discors,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,vernacular_exact,128,True,True,True,True
+266,Blue-winged Warbler,Blue-winged Warbler,Vermivora cyanoptera,Animalia,Chordata,Aves,Passeriformes,Parulidae,Vermivora,vernacular_exact,70,True,True,True,True
+565,Boat-tailed Grackle,Boat-tailed Grackle,Quiscalus major,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,vernacular_exact,69,True,True,True,True
+254,Bobolink,Bobolink,Dolichonyx oryzivorus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,vernacular_exact,98,True,True,True,True
+390,Bohemian Waxwing,Bohemian Waxwing,Bombycilla garrulus,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,Bombycilla,vernacular_exact,182,True,True,True,True
+191,Bonaparte's Gull,Bonaparte's Gull,Chroicocephalus philadelphia,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus,vernacular_exact,97,True,True,True,True
+424,Boreal Chickadee,Boreal Chickadee,Poecile hudsonicus,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,vernacular_exact,21,True,True,True,True
+75,Brandt's Cormorant,Brandt's Cormorant,Urile penicillatus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Urile,vernacular_exact,61,False,True,True,True
+42,Brant,Brant,Branta bernicla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,vernacular_exact,210,True,True,True,True
+416,Brewer's Blackbird,Brewer's Blackbird,Euphagus cyanocephalus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Euphagus,vernacular_exact,68,True,True,True,True
+418,Brewer's Sparrow,Brewer's Sparrow,Spizella breweri,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,vernacular_exact,56,True,True,True,False
+569,Bridled Titmouse,Bridled Titmouse,Baeolophus wollweberi,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,vernacular_exact,55,True,True,True,True
+90,Broad-billed Hummingbird,Broad-billed Hummingbird,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Cynanthus,vernacular_exact,54,True,True,True,True
+200,Broad-tailed Hummingbird,Broad-tailed Hummingbird,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,vernacular_exact,52,True,True,True,True
+186,Broad-winged Hawk,Broad-winged Hawk,Buteo platypterus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,vernacular_exact,87,True,True,True,True
+590,Bronzed Cowbird,Bronzed Cowbird,Molothrus aeneus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,vernacular_exact,70,True,True,True,False
+435,Brown Creeper,Brown Creeper,Certhia americana,Animalia,Chordata,Aves,Passeriformes,Certhiidae,Certhia,vernacular_exact,79,True,True,True,True
+41,Brown Pelican,Brown Pelican,Pelecanus occidentalis,Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,vernacular_exact,97,True,True,True,True
+438,Brown Thrasher,Brown Thrasher,Toxostoma rufum,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,vernacular_exact,96,True,True,True,True
+280,Brown-capped Rosy-Finch,Brown-capped Rosy-Finch,Leucosticte australis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,vernacular_exact,53,True,True,True,False
+690,Brown-headed Cowbird,Brown-headed Cowbird,Molothrus ater,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,vernacular_exact,88,True,True,True,True
+711,Brown-headed Nuthatch,Brown-headed Nuthatch,Sitta pusilla,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,vernacular_exact,50,True,True,True,True
+209,Bufflehead,Bufflehead,Bucephala albeola,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,vernacular_exact,106,True,True,True,True
+728,Bullock's Oriole,Bullock's Oriole,Icterus bullockii,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,vernacular_exact,60,True,True,True,True
+182,Burrowing Owl,Burrowing Owl,Athene cunicularia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,vernacular_exact,108,True,True,True,True
+434,Bushtit,Bushtit,Psaltriparus minimus,Animalia,Chordata,Aves,Passeriformes,Aegithalidae,Psaltriparus,vernacular_exact,67,True,True,True,True
+51,Cackling Goose,Cackling Goose,Branta hutchinsii,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,vernacular_exact,92,True,True,True,False
+265,Cactus Wren,Cactus Wren,Campylorhynchus brunneicapillus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Campylorhynchus,vernacular_exact,50,True,True,True,False
+241,California Gull,California Gull,Larus californicus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,64,True,True,True,True
+73,California Quail,California Quail,Callipepla californica,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,vernacular_exact,90,True,True,True,True
+720,California Thrasher,California Thrasher,Toxostoma redivivum,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,vernacular_exact,51,True,True,True,True
+290,California Towhee,California Towhee,Melozone crissalis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melozone,vernacular_exact,49,True,True,True,True
+180,Calliope Hummingbird,Calliope Hummingbird,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,vernacular_exact,42,True,True,True,True
+57,Canada Goose,Canada Goose,Branta canadensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,vernacular_exact,214,True,True,True,True
+736,Canada Warbler,Canada Warbler,Cardellina canadensis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Cardellina,vernacular_exact,73,True,True,True,True
+153,Canvasback,Canvasback,Aythya valisineria,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,vernacular_exact,111,True,True,True,True
+282,Canyon Towhee,Canyon Towhee,Melozone fusca,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melozone,vernacular_exact,56,True,True,True,True
+288,Canyon Wren,Canyon Wren,Catherpes mexicanus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Catherpes,vernacular_exact,47,True,True,True,True
+417,Cape May Warbler,Cape May Warbler,Setophaga tigrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,74,True,True,True,True
+261,Carolina Chickadee,Carolina Chickadee,Poecile carolinensis,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,vernacular_exact,49,True,True,True,True
+386,Carolina Wren,Carolina Wren,Thryothorus ludovicianus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryothorus,vernacular_exact,71,True,True,True,True
+245,Caspian Tern,Caspian Tern,Hydroprogne caspia,Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydroprogne,vernacular_exact,162,True,True,True,True
+408,Cassin's Finch,Cassin's Finch,Haemorhous cassinii,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,vernacular_exact,47,True,True,True,True
+701,Cassin's Kingbird,Cassin's Kingbird,Tyrannus vociferans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,vernacular_exact,58,True,True,True,True
+563,Cassin's Vireo,Cassin's Vireo,Vireo cassinii,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,44,True,True,True,True
+148,Cattle Egret,Cattle Egret,Bubulcus ibis,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus,vernacular_exact,103,True,True,True,True
+707,Cave Swallow,Cave Swallow,Petrochelidon fulva,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,vernacular_exact,67,True,True,True,True
+597,Cedar Waxwing,Cedar Waxwing,Bombycilla cedrorum,Animalia,Chordata,Aves,Passeriformes,Bombycillidae,Bombycilla,vernacular_exact,96,True,True,True,True
+406,Chestnut-backed Chickadee,Chestnut-backed Chickadee,Poecile rufescens,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,vernacular_exact,45,True,True,True,True
+577,Chestnut-sided Warbler,Chestnut-sided Warbler,Setophaga pensylvanica,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,78,True,True,True,True
+725,Chihuahuan Raven,Chihuahuan Raven,Corvus cryptoleucus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,vernacular_exact,56,True,True,True,True
+34,Chimney Swift,Chimney Swift,Chaetura pelagica,Animalia,Chordata,Aves,Apodiformes,Apodidae,Chaetura,vernacular_exact,118,True,True,True,True
+403,Chipping Sparrow,Chipping Sparrow,Spizella passerina,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,vernacular_exact,75,True,True,True,True
+122,Cinnamon Teal,Cinnamon Teal,Spatula cyanoptera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,vernacular_exact,87,True,True,True,True
+215,Clark's Grebe,Clark's Grebe,Aechmophorus clarkii,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Aechmophorus,vernacular_exact,56,True,True,True,True
+428,Clark's Nutcracker,Clark's Nutcracker,Nucifraga columbiana,Animalia,Chordata,Aves,Passeriformes,Corvidae,Nucifraga,vernacular_exact,72,True,True,True,True
+410,Clay-colored Sparrow,Clay-colored Sparrow,Spizella pallida,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,vernacular_exact,65,True,True,True,True
+592,Cliff Swallow,Cliff Swallow,Petrochelidon pyrrhonota,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,vernacular_exact,123,True,True,True,True
+179,Common Eider,Common Eider,Somateria mollissima,Animalia,Chordata,Aves,Anseriformes,Anatidae,Somateria,vernacular_exact,233,True,True,True,False
+110,Common Gallinule,Common Gallinule,Gallinula chloropus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,vernacular_exact,193,True,True,True,True
+214,Common Goldeneye,Common Goldeneye,Bucephala clangula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,vernacular_exact,213,True,True,True,True
+429,Common Grackle,Common Grackle,Quiscalus quiscula,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,vernacular_exact,81,True,True,True,True
+222,Common Ground-Dove,Common Ground-Dove,Columbina passerina,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,vernacular_exact,82,True,True,True,True
+194,Common Loon,Common Loon,Gavia immer,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,vernacular_exact,209,True,True,True,True
+229,Common Merganser,Common Merganser,Mergus merganser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,vernacular_exact,203,True,True,True,True
+141,Common Nighthawk,Common Nighthawk,Chordeiles minor,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,vernacular_exact,115,True,True,True,True
+739,Common Raven,Common Raven,Corvus corax,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,vernacular_exact,286,True,True,True,True
+585,Common Redpoll,Common Redpoll,Acanthis flammea,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Acanthis,vernacular_exact,174,True,True,True,True
+247,Common Tern,Common Tern,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,vernacular_exact,216,True,True,True,True
+391,Common Yellowthroat,Common Yellowthroat,Geothlypis trichas,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,vernacular_exact,125,True,True,True,True
+155,Cooper's Hawk,Cooper's Hawk,Accipiter cooperii,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,vernacular_exact,25,True,True,True,True
+312,Cordilleran Flycatcher,Empidonax occidentalis,Empidonax occidentalis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,vernacular_exact,11,True,True,True,True
+167,Costa's Hummingbird,Costa's Hummingbird,Calypte costae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Calypte,vernacular_exact,53,True,True,True,True
+54,Crested Caracara,Crested Caracara,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,vernacular_exact,114,True,True,True,True
+596,Curve-billed Thrasher,Curve-billed Thrasher,Toxostoma curvirostre,Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,vernacular_exact,56,True,True,True,True
+744,Dark-eyed Junco,Dark-eyed Junco,Junco hyemalis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Junco,vernacular_exact,102,True,True,True,True
+738,Dickcissel,Dickcissel,Spiza americana,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Spiza,vernacular_exact,85,True,True,True,True
+134,Double-crested Cormorant,Double-crested Cormorant,Phalacrocorax auritus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,vernacular_exact,39,True,True,True,True
+188,Downy Woodpecker,Downy Woodpecker,Dryobates pubescens,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,vernacular_exact,50,True,True,True,True
+129,Dunlin,Dunlin,Calidris alpina,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,238,True,True,True,True
+157,Eared Grebe,Eared Grebe,Podiceps nigricollis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,vernacular_exact,213,True,True,True,True
+262,Eastern Bluebird,Eastern Bluebird,Sialia sialis,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,vernacular_exact,83,True,True,True,True
+727,Eastern Kingbird,Eastern Kingbird,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,vernacular_exact,99,True,True,True,True
+277,Eastern Meadowlark,Eastern Meadowlark,Sturnella magna,Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,vernacular_exact,95,True,True,True,True
+420,Eastern Phoebe,Eastern Phoebe,Sayornis phoebe,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,vernacular_exact,76,True,True,True,True
+88,Eastern Screech-Owl,Eastern Screech-Owl,Megascops asio,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,vernacular_exact,81,True,True,True,True
+267,Eastern Towhee,Eastern Towhee,Pipilo erythrophthalmus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,vernacular_exact,91,True,True,True,True
+270,Eastern Wood-Pewee,Eastern Wood-Pewee,Contopus virens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Contopus,vernacular_exact,90,True,True,True,False
+105,Eurasian Collared-Dove,Eurasian Collared-Dove,Streptopelia decaocto,Animalia,Chordata,Aves,Columbiformes,Columbidae,Streptopelia,vernacular_exact,211,True,True,True,True
+439,European Starling,European Starling,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,vernacular_exact,290,True,True,True,True
+740,Evening Grosbeak,Evening Grosbeak,Hesperiphona vespertina,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Hesperiphona,vernacular_exact,52,True,True,True,True
+426,Field Sparrow,Field Sparrow,Spizella pusilla,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Spizella,vernacular_exact,68,True,True,True,True
+710,Fish Crow,Fish Crow,Corvus ossifragus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,vernacular_exact,59,True,True,True,True
+301,Florida Scrub-Jay,Florida Scrub-Jay,Aphelocoma coerulescens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,vernacular_exact,84,True,True,True,False
+248,Forster's Tern,Forster's Tern,Sterna forsteri,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,vernacular_exact,129,True,True,True,True
+591,Fox Sparrow,Fox Sparrow,Passerella iliaca,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Passerella,vernacular_exact,106,True,True,True,True
+87,Gadwall,Gadwall,Mareca strepera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mareca,vernacular_exact,151,True,True,True,True
+103,Gambel's Quail,Gambel's Quail,Callipepla gambelii,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,vernacular_exact,69,True,True,True,True
+63,Gila Woodpecker,Gila Woodpecker,Melanerpes uropygialis,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,vernacular_exact,47,True,True,True,True
+243,Glaucous-winged Gull,Glaucous-winged Gull,Larus glaucescens,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,81,True,True,True,True
+208,Glossy Ibis,Glossy Ibis,Plegadis falcinellus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,vernacular_exact,216,True,True,True,True
+234,Golden Eagle,Golden Eagle,Aquila chrysaetos,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Aquila,vernacular_exact,245,True,True,True,True
+388,Golden-crowned Kinglet,Golden-crowned Kinglet,Regulus satrapa,Animalia,Chordata,Aves,Passeriformes,Regulidae,Regulus,vernacular_exact,68,True,True,True,True
+737,Golden-crowned Sparrow,Golden-crowned Sparrow,Zonotrichia atricapilla,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,vernacular_exact,61,True,True,True,True
+79,Golden-fronted Woodpecker,Golden-fronted Woodpecker,Melanerpes aurifrons,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,vernacular_exact,55,True,True,True,True
+275,Gray Catbird,Gray Catbird,Dumetella carolinensis,Animalia,Chordata,Aves,Passeriformes,Mimidae,Dumetella,vernacular_exact,114,True,True,True,True
+257,Gray Jay,Gray Jay,Perisoreus canadensis,Animalia,Chordata,Aves,Passeriformes,Corvidae,Perisoreus,vernacular_exact,94,True,True,True,True
+255,Gray-crowned Rosy-Finch,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Leucosticte,vernacular_exact,61,True,True,True,True
+244,Great Black-backed Gull,Great Black-backed Gull,Larus marinus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,197,True,True,True,True
+58,Great Blue Heron,Great Blue Heron,Ardea herodias,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,vernacular_exact,122,True,True,True,True
+170,Great Cormorant,Great Cormorant,Phalacrocorax carbo,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,vernacular_exact,291,True,True,True,True
+684,Great Crested Flycatcher,Great Crested Flycatcher,Myiarchus crinitus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,vernacular_exact,71,True,True,True,True
+71,Great Egret,Great Egret,Ardea alba,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,vernacular_exact,148,True,True,True,True
+111,Great Horned Owl,Great Horned Owl,Bubo virginianus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,vernacular_exact,117,True,True,True,True
+578,Great-tailed Grackle,Great-tailed Grackle,Quiscalus mexicanus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,vernacular_exact,85,True,True,True,True
+197,Greater Roadrunner,Greater Roadrunner,Geococcyx californianus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Geococcyx,vernacular_exact,72,True,True,True,True
+168,Greater Scaup,Greater Scaup,Aythya marila,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,vernacular_exact,238,True,True,True,True
+27,Greater White-fronted Goose,Greater White-fronted Goose,Anser albifrons,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,vernacular_exact,226,True,True,True,True
+65,Greater Yellowlegs,Greater Yellowlegs,Tringa melanoleuca,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,vernacular_exact,153,True,True,True,True
+160,Green Heron,Green Heron,Butorides virescens,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,vernacular_exact,153,True,True,True,True
+252,Green-tailed Towhee,Green-tailed Towhee,Pipilo chlorurus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,vernacular_exact,60,True,True,True,True
+147,Green-winged Teal,Anas carolinensis,Anas carolinensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,vernacular_exact,85,True,True,True,True
+206,Hairy Woodpecker,Hairy Woodpecker,Leuconotopicus villosus,Animalia,Chordata,Aves,Piciformes,Picidae,Leuconotopicus,vernacular_exact,49,True,True,True,True
+181,Harlequin Duck,Harlequin Duck,Histrionicus histrionicus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Histrionicus,vernacular_exact,138,True,True,True,True
+166,Harris's Hawk,Harris's Hawk,Parabuteo unicinctus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Parabuteo,vernacular_exact,74,True,True,True,False
+722,Harris's Sparrow,Harris's Sparrow,Zonotrichia querula,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,vernacular_exact,62,True,True,True,False
+232,Heermann's Gull,Heermann's Gull,Larus heermanni,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,70,True,True,True,True
+588,Hermit Thrush,Hermit Thrush,Catharus guttatus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,vernacular_exact,100,True,True,True,True
+724,Hermit Warbler,Hermit Warbler,Setophaga occidentalis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,48,True,True,True,True
+242,Herring Gull,Herring Gull,Larus argentatus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,242,True,True,True,True
+685,Hoary Redpoll,Acanthis hornemanni,Acanthis hornemanni,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Acanthis,vernacular_exact,45,True,True,True,True
+225,Hooded Merganser,Hooded Merganser,Lophodytes cucullatus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Lophodytes,vernacular_exact,111,True,True,True,True
+719,Hooded Oriole,Hooded Oriole,Icterus cucullatus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,vernacular_exact,59,True,True,True,True
+405,Hooded Warbler,Hooded Warbler,Setophaga citrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,70,True,True,True,True
+84,Horned Grebe,Horned Grebe,Podiceps auritus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,vernacular_exact,204,True,True,True,True
+432,Horned Lark,Horned Lark,Eremophila alpestris,Animalia,Chordata,Aves,Passeriformes,Alaudidae,Eremophila,vernacular_exact,217,True,True,True,False
+419,House Finch,House Finch,Haemorhous mexicanus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,vernacular_exact,70,True,True,True,True
+445,House Sparrow,House Sparrow,Passer domesticus,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,vernacular_exact,300,True,True,True,True
+572,House Wren,House Wren,Troglodytes aedon,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,vernacular_exact,98,True,True,True,False
+689,Hutton's Vireo,Hutton's Vireo,Vireo huttoni,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,51,True,True,True,True
+196,Inca Dove,Inca Dove,Columbina inca,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,vernacular_exact,69,True,True,True,True
+706,Indigo Bunting,Indigo Bunting,Passerina cyanea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,vernacular_exact,114,True,True,True,True
+692,Juniper Titmouse,Juniper Titmouse,Baeolophus ridgwayi,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,vernacular_exact,47,True,True,True,True
+30,Killdeer,Killdeer,Charadrius vociferus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,vernacular_exact,147,True,True,True,True
+164,Ladder-backed Woodpecker,Ladder-backed Woodpecker,Dryobates scalaris,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,vernacular_exact,39,True,True,True,True
+576,Lark Bunting,Lark Bunting,Calamospiza melanocorys,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Calamospiza,vernacular_exact,61,True,True,True,True
+567,Lark Sparrow,Lark Sparrow,Chondestes grammacus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Chondestes,vernacular_exact,77,True,True,True,True
+218,Laughing Gull,Laughing Gull,Leucophaeus atricilla,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus,vernacular_exact,126,True,True,True,True
+687,Lazuli Bunting,Lazuli Bunting,Passerina amoena,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,vernacular_exact,65,True,True,True,True
+281,Least Flycatcher,Least Flycatcher,Empidonax minimus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,vernacular_exact,74,True,True,True,True
+126,Least Sandpiper,Least Sandpiper,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,127,True,True,True,True
+715,Lesser Goldfinch,Lesser Goldfinch,Spinus psaltria,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus,vernacular_exact,57,True,True,True,True
+174,Lesser Scaup,Lesser Scaup,Aythya affinis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,vernacular_exact,138,True,True,True,True
+78,Lesser Yellowlegs,Lesser Yellowlegs,Tringa flavipes,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,vernacular_exact,169,True,True,True,True
+694,Lincoln's Sparrow,Lincoln's Sparrow,Melospiza lincolnii,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,vernacular_exact,81,True,True,True,True
+99,Little Blue Heron,Little Blue Heron,Egretta caerulea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,vernacular_exact,113,True,True,True,True
+383,Loggerhead Shrike,Loggerhead Shrike,Lanius ludovicianus,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,vernacular_exact,69,True,True,True,False
+86,Long-billed Curlew,Long-billed Curlew,Numenius americanus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,vernacular_exact,74,True,True,True,True
+203,Long-tailed Duck,Long-tailed Duck,Clangula hyemalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Clangula,vernacular_exact,210,True,True,True,True
+253,Louisiana Waterthrush,Louisiana Waterthrush,Parkesia motacilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,vernacular_exact,72,True,True,True,True
+305,MacGillivray's Warbler,MacGillivray's Warbler,Geothlypis tolmiei,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,vernacular_exact,53,True,True,True,True
+430,Magnolia Warbler,Magnolia Warbler,Setophaga magnolia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,74,True,True,True,True
+102,Mallard,Mallard,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,vernacular_exact,362,True,True,True,True
+91,Marbled Godwit,Marbled Godwit,Limosa fedoa,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,vernacular_exact,84,True,True,True,True
+731,Marsh Wren,Marsh Wren,Cistothorus palustris,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,vernacular_exact,75,True,True,True,True
+136,Merlin,Merlin,Falco columbarius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,vernacular_exact,245,True,True,True,True
+237,Mew Gull,Mew Gull,Larus canus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,217,True,True,True,False
+415,Mexican Jay,Aphelocoma wollweberi,Aphelocoma wollweberi,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,vernacular_exact,52,True,True,True,True
+93,Mississippi Kite,Mississippi Kite,Ictinia mississippiensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,vernacular_exact,31,True,True,True,True
+138,Monk Parakeet,Monk Parakeet,Myiopsitta monachus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,vernacular_exact,107,True,True,True,True
+109,Mottled Duck,Mottled Duck,Anas fulvigula,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,vernacular_exact,69,True,True,True,True
+304,Mountain Bluebird,Mountain Bluebird,Sialia currucoides,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,vernacular_exact,70,True,True,True,True
+303,Mountain Chickadee,Mountain Chickadee,Poecile gambeli,Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,vernacular_exact,53,True,True,True,True
+171,Mourning Dove,Mourning Dove,Zenaida macroura,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,vernacular_exact,114,True,True,True,True
+308,Mourning Warbler,Mourning Warbler,Geothlypis philadelphia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,vernacular_exact,67,True,True,True,True
+60,Mute Swan,Mute Swan,Cygnus olor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,vernacular_exact,201,True,True,True,True
+293,Nashville Warbler,Nashville Warbler,Leiothlypis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,vernacular_exact,62,True,True,True,True
+104,Neotropic Cormorant,Neotropic Cormorant,Phalacrocorax brasilianus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,vernacular_exact,27,True,True,True,True
+131,Northern Bobwhite,Northern Bobwhite,Colinus virginianus,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Colinus,vernacular_exact,118,True,True,True,False
+310,Northern Cardinal,Northern Cardinal,Cardinalis cardinalis,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,vernacular_exact,116,True,True,True,True
+216,Northern Flicker,Northern Flicker,Colaptes auratus,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,vernacular_exact,105,True,True,True,True
+44,Northern Gannet,Northern Gannet,Morus bassanus,Animalia,Chordata,Aves,Suliformes,Sulidae,Morus,vernacular_exact,204,True,True,True,True
+120,Northern Harrier,Northern Harrier,Circus cyaneus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,vernacular_exact,254,True,True,True,True
+389,Northern Mockingbird,Northern Mockingbird,Mimus polyglottos,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,vernacular_exact,103,True,True,True,True
+423,Northern Parula,Northern Parula,Setophaga americana,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,95,True,True,True,True
+130,Northern Pintail,Northern Pintail,Anas acuta,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,vernacular_exact,295,True,True,True,True
+163,Northern Pygmy-Owl,Northern Pygmy-Owl,Glaucidium gnoma,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium,vernacular_exact,74,True,True,True,False
+421,Northern Rough-winged Swallow,Northern Rough-winged Swallow,Stelgidopteryx serripennis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Stelgidopteryx,vernacular_exact,84,True,True,True,True
+226,Northern Saw-whet Owl,Northern Saw-whet Owl,Aegolius acadicus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Aegolius,vernacular_exact,72,True,True,True,True
+128,Northern Shoveler,Northern Shoveler,Spatula clypeata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,vernacular_exact,215,True,True,True,True
+682,Northern Shrike,Lanius borealis,Lanius borealis,Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,vernacular_exact,66,True,True,True,True
+260,Northern Waterthrush,Northern Waterthrush,Parkesia noveboracensis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,vernacular_exact,101,True,True,True,True
+695,Northwestern Crow,Northwestern Crow,Corvus caurinus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,vernacular_exact,9,True,True,True,True
+177,Nuttall's Woodpecker,Nuttall's Woodpecker,Dryobates nuttallii,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,vernacular_exact,41,True,True,True,True
+587,Oak Titmouse,Oak Titmouse,Baeolophus inornatus,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,vernacular_exact,57,True,True,True,True
+289,Orange-crowned Warbler,Orange-crowned Warbler,Leiothlypis celata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,vernacular_exact,52,True,True,True,True
+704,Orchard Oriole,Orchard Oriole,Icterus spurius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,vernacular_exact,79,True,True,True,False
+53,Osprey,Osprey,Pandion haliaetus,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,vernacular_exact,288,True,True,True,True
+251,Ovenbird,Ovenbird,Seiurus aurocapilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Seiurus,vernacular_exact,78,True,True,True,True
+132,Pacific Loon,Pacific Loon,Gavia pacifica,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,vernacular_exact,85,True,True,True,False
+593,Pacific Wren,Pacific Wren,Troglodytes pacificus,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,vernacular_exact,40,True,True,True,True
+300,Pacific-slope Flycatcher,Pacific-slope Flycatcher,Empidonax difficilis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,vernacular_exact,79,True,True,True,True
+723,Painted Bunting,Painted Bunting,Passerina ciris,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,vernacular_exact,76,True,True,True,True
+598,Palm Warbler,Palm Warbler,Setophaga palmarum,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,66,True,True,True,True
+195,Pelagic Cormorant,Pelagic Cormorant,Phalacrocorax pelagicus,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,vernacular_exact,19,True,True,True,True
+176,Peregrine Falcon,Peregrine Falcon,Falco peregrinus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,vernacular_exact,295,True,True,True,False
+441,Phainopepla,Phainopepla,Phainopepla nitens,Animalia,Chordata,Aves,Passeriformes,Ptilogonatidae,Phainopepla,vernacular_exact,58,True,True,True,True
+49,Pied-billed Grebe,Pied-billed Grebe,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus,vernacular_exact,132,True,True,True,True
+190,Pigeon Guillemot,Pigeon Guillemot,Cepphus columba,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,vernacular_exact,62,True,True,True,True
+230,Pileated Woodpecker,Pileated Woodpecker,Dryocopus pileatus,Animalia,Chordata,Aves,Piciformes,Picidae,Dryocopus,vernacular_exact,70,True,True,True,True
+294,Pine Grosbeak,Pine Grosbeak,Pinicola enucleator,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Pinicola,vernacular_exact,120,True,True,True,True
+703,Pine Siskin,Pine Siskin,Spinus pinus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus,vernacular_exact,54,True,True,True,True
+688,Pine Warbler,Pine Warbler,Setophaga pinus,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,61,True,True,True,True
+414,Plumbeous Vireo,Plumbeous Vireo,Vireo plumbeus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,52,True,True,True,True
+211,Prairie Falcon,Prairie Falcon,Falco mexicanus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,vernacular_exact,55,True,True,True,True
+709,Prairie Warbler,Prairie Warbler,Setophaga discolor,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,61,True,True,True,True
+276,Prothonotary Warbler,Prothonotary Warbler,Protonotaria citrea,Animalia,Chordata,Aves,Passeriformes,Parulidae,Protonotaria,vernacular_exact,74,True,True,True,True
+311,Purple Finch,Purple Finch,Haemorhous purpureus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,vernacular_exact,56,True,True,True,True
+61,Purple Gallinule,Porphyrio martinica,Porphyrio martinica,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,vernacular_exact,92,True,True,True,True
+264,Purple Martin,Purple Martin,Progne subis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,vernacular_exact,99,True,True,True,True
+579,Pygmy Nuthatch,Pygmy Nuthatch,Sitta pygmaea,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,vernacular_exact,59,True,True,True,True
+411,Pyrrhuloxia,Pyrrhuloxia,Cardinalis sinuatus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,vernacular_exact,45,True,True,True,True
+444,Red Crossbill,Red Crossbill,Loxia curvirostra,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Loxia,vernacular_exact,181,True,True,True,True
+95,Red-bellied Woodpecker,Red-bellied Woodpecker,Melanerpes carolinus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,vernacular_exact,60,True,True,True,True
+235,Red-breasted Merganser,Red-breasted Merganser,Mergus serrator,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,vernacular_exact,224,True,True,True,True
+284,Red-breasted Nuthatch,Red-breasted Nuthatch,Sitta canadensis,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,vernacular_exact,87,True,True,True,True
+150,Red-breasted Sapsucker,Red-breasted Sapsucker,Sphyrapicus ruber,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,vernacular_exact,52,True,True,True,True
+733,Red-eyed Vireo,Red-eyed Vireo,Vireo olivaceus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,112,True,True,True,True
+31,Red-headed Woodpecker,Red-headed Woodpecker,Melanerpes erythrocephalus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,vernacular_exact,63,True,True,True,True
+124,Red-naped Sapsucker,Red-naped Sapsucker,Sphyrapicus nuchalis,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,vernacular_exact,51,True,True,True,True
+118,Red-necked Grebe,Red-necked Grebe,Podiceps grisegena,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,vernacular_exact,202,True,True,True,True
+175,Red-shouldered Hawk,Red-shouldered Hawk,Buteo lineatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,vernacular_exact,83,True,True,True,True
+210,Red-tailed Hawk,Red-tailed Hawk,Buteo jamaicensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,vernacular_exact,119,True,True,True,True
+74,Red-throated Loon,Red-throated Loon,Gavia stellata,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,vernacular_exact,231,True,True,True,False
+268,Red-winged Blackbird,Red-winged Blackbird,Agelaius phoeniceus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaius,vernacular_exact,94,True,True,True,True
+127,Reddish Egret,Reddish Egret,Egretta rufescens,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,vernacular_exact,83,True,True,True,True
+159,Redhead,Aythya americana,Aythya americana,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,vernacular_exact,101,True,True,True,True
+240,Ring-billed Gull,Ring-billed Gull,Larus delawarensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,146,True,True,True,True
+161,Ring-necked Duck,Ring-necked Duck,Aythya collaris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,vernacular_exact,148,True,True,True,True
+169,Ring-necked Pheasant,Ring-necked Pheasant,Phasianus colchicus,Animalia,Chordata,Aves,Galliformes,Phasianidae,Phasianus,vernacular_exact,208,True,True,True,True
+45,Rock Pigeon,Rock Pigeon,Columba livia,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,vernacular_exact,288,True,True,True,True
+427,Rose-breasted Grosbeak,Rose-breasted Grosbeak,Pheucticus ludovicianus,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,vernacular_exact,135,True,True,True,True
+233,Roseate Spoonbill,Roseate Spoonbill,Platalea ajaja,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea,vernacular_exact,82,True,True,True,True
+36,Ross's Goose,Ross's Goose,Anser rossii,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,vernacular_exact,88,True,True,True,True
+224,Rough-legged Hawk,Rough-legged Hawk,Buteo lagopus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,vernacular_exact,209,True,True,True,True
+249,Royal Tern,Royal Tern,Thalasseus maximus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,vernacular_exact,81,True,True,True,True
+595,Ruby-crowned Kinglet,Ruby-crowned Kinglet,Regulus calendula,Animalia,Chordata,Aves,Passeriformes,Regulidae,Regulus,vernacular_exact,17,True,True,True,True
+107,Ruby-throated Hummingbird,Ruby-throated Hummingbird,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,vernacular_exact,83,True,True,True,True
+238,Ruddy Duck,Ruddy Duck,Oxyura jamaicensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura,vernacular_exact,166,True,True,True,True
+97,Ruddy Turnstone,Ruddy Turnstone,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,vernacular_exact,278,True,True,True,True
+193,Ruffed Grouse,Ruffed Grouse,Bonasa umbellus,Animalia,Chordata,Aves,Galliformes,Phasianidae,Bonasa,vernacular_exact,62,True,True,True,True
+213,Rufous Hummingbird,Rufous Hummingbird,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,vernacular_exact,64,True,True,True,True
+273,Rufous-crowned Sparrow,Rufous-crowned Sparrow,Aimophila ruficeps,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Aimophila,vernacular_exact,55,True,True,True,True
+404,Rusty Blackbird,Rusty Blackbird,Euphagus carolinus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Euphagus,vernacular_exact,77,True,True,True,True
+114,Sanderling,Sanderling,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,215,True,True,True,True
+204,Sandhill Crane,Sandhill Crane,Grus canadensis,Animalia,Chordata,Aves,Gruiformes,Gruidae,Grus,vernacular_exact,33,True,True,True,True
+583,Savannah Sparrow,Savannah Sparrow,Passerculus sandwichensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Passerculus,vernacular_exact,93,True,True,True,False
+562,Say's Phoebe,Say's Phoebe,Sayornis saya,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,vernacular_exact,67,True,True,True,True
+43,Scaled Quail,Scaled Quail,Callipepla squamata,Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,vernacular_exact,58,True,True,True,True
+274,Scarlet Tanager,Scarlet Tanager,Piranga olivacea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,vernacular_exact,95,True,True,True,True
+741,Scissor-tailed Flycatcher,Scissor-tailed Flycatcher,Tyrannus forficatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,vernacular_exact,75,True,True,True,True
+26,Semipalmated Plover,Semipalmated Plover,Charadrius semipalmatus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,vernacular_exact,133,True,True,True,True
+117,Semipalmated Sandpiper,Semipalmated Sandpiper,Calidris pusilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,153,True,True,True,True
+135,Sharp-shinned Hawk,Sharp-shinned Hawk,Accipiter striatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,vernacular_exact,108,True,True,True,True
+146,Short-billed Dowitcher,Short-billed Dowitcher,Limnodromus griseus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limnodromus,vernacular_exact,161,True,True,True,True
+442,Snow Bunting,Snow Bunting,Plectrophenax nivalis,Animalia,Chordata,Aves,Passeriformes,Calcariidae,Plectrophenax,vernacular_exact,177,True,True,True,True
+33,Snow Goose,Snow Goose,Anser caerulescens,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,vernacular_exact,90,True,True,True,True
+85,Snowy Egret,Snowy Egret,Egretta thula,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,vernacular_exact,131,True,True,True,True
+140,Snowy Owl,Snowy Owl,Bubo scandiacus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,vernacular_exact,111,True,True,True,True
+59,Solitary Sandpiper,Solitary Sandpiper,Tringa solitaria,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,vernacular_exact,124,True,True,True,True
+686,Song Sparrow,Song Sparrow,Melospiza melodia,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,vernacular_exact,107,True,True,True,True
+56,Spotted Sandpiper,Spotted Sandpiper,Actitis macularius,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,vernacular_exact,118,True,True,True,True
+258,Spotted Towhee,Spotted Towhee,Pipilo maculatus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pipilo,vernacular_exact,71,True,True,True,True
+271,Steller's Jay,Steller's Jay,Cyanocitta stelleri,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,vernacular_exact,79,True,True,True,True
+259,Summer Tanager,Summer Tanager,Piranga rubra,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,vernacular_exact,101,True,True,True,True
+187,Surf Scoter,Surf Scoter,Melanitta perspicillata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,vernacular_exact,119,True,True,True,True
+106,Surfbird,Surfbird,Calidris virgata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,64,True,True,True,True
+202,Swainson's Hawk,Swainson's Hawk,Buteo swainsoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,vernacular_exact,77,True,True,True,True
+570,Swainson's Thrush,Swainson's Thrush,Catharus ustulatus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,vernacular_exact,151,True,True,True,True
+66,Swallow-tailed Kite,Swallow-tailed Kite,Elanoides forficatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanoides,vernacular_exact,100,True,True,True,False
+705,Swamp Sparrow,Swamp Sparrow,Melospiza georgiana,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Melospiza,vernacular_exact,74,True,True,True,False
+283,Tennessee Warbler,Tennessee Warbler,Leiothlypis peregrina,Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,vernacular_exact,75,True,True,True,True
+407,Townsend's Solitaire,Townsend's Solitaire,Myadestes townsendi,Animalia,Chordata,Aves,Passeriformes,Turdidae,Myadestes,vernacular_exact,63,True,True,True,True
+721,Townsend's Warbler,Townsend's Warbler,Setophaga townsendi,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,60,True,True,True,True
+287,Tree Swallow,Tree Swallow,Tachycineta bicolor,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,vernacular_exact,95,True,True,True,True
+115,Tricolored Heron,Tricolored Heron,Egretta tricolor,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,vernacular_exact,115,True,True,True,True
+67,Trumpeter Swan,Trumpeter Swan,Cygnus buccinator,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,vernacular_exact,74,True,True,True,True
+717,Tufted Titmouse,Tufted Titmouse,Baeolophus bicolor,Animalia,Chordata,Aves,Passeriformes,Paridae,Baeolophus,vernacular_exact,71,True,True,True,True
+72,Tundra Swan,Tundra Swan,Cygnus columbianus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,vernacular_exact,168,True,True,True,True
+40,Turkey Vulture,Turkey Vulture,Cathartes aura,Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Cathartes,vernacular_exact,131,True,True,True,True
+735,Varied Thrush,Varied Thrush,Ixoreus naevius,Animalia,Chordata,Aves,Passeriformes,Turdidae,Ixoreus,vernacular_exact,69,True,True,True,True
+52,Vaux's Swift,Vaux's Swift,Chaetura vauxi,Animalia,Chordata,Aves,Apodiformes,Apodidae,Chaetura,vernacular_exact,57,True,True,True,True
+425,Veery,Catharus fuscescens,Catharus fuscescens,Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,vernacular_exact,99,True,True,True,True
+433,Verdin,Verdin,Auriparus flaviceps,Animalia,Chordata,Aves,Passeriformes,Remizidae,Auriparus,vernacular_exact,57,True,True,True,True
+575,Vermilion Flycatcher,Vermilion Flycatcher,Pyrocephalus rubinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,vernacular_exact,93,True,True,True,True
+431,Vesper Sparrow,Vesper Sparrow,Pooecetes gramineus,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Pooecetes,vernacular_exact,60,True,True,True,True
+385,Violet-green Swallow,Violet-green Swallow,Tachycineta thalassina,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,vernacular_exact,58,True,True,True,True
+712,Warbling Vireo,Warbling Vireo,Vireo gilvus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,75,True,True,True,True
+279,Western Bluebird,Western Bluebird,Sialia mexicana,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,vernacular_exact,69,True,True,True,True
+185,Western Grebe,Western Grebe,Aechmophorus occidentalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Aechmophorus,vernacular_exact,64,True,True,True,True
+239,Western Gull,Western Gull,Larus occidentalis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,vernacular_exact,63,True,True,True,True
+716,Western Kingbird,Western Kingbird,Tyrannus verticalis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,vernacular_exact,72,True,True,True,True
+292,Western Meadowlark,Western Meadowlark,Sturnella neglecta,Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,vernacular_exact,78,True,True,True,True
+121,Western Sandpiper,Western Sandpiper,Calidris mauri,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,vernacular_exact,137,True,True,True,True
+62,Western Screech-Owl,Western Screech-Owl,Megascops kennicottii,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,vernacular_exact,62,True,True,True,True
+384,Western Scrub-Jay,Western Scrub-Jay,Aphelocoma californica,Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,vernacular_exact,68,True,True,True,False
+291,Western Tanager,Western Tanager,Piranga ludoviciana,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,vernacular_exact,76,True,True,True,True
+256,Western Wood-Pewee,Western Wood-Pewee,Contopus sordidulus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Contopus,vernacular_exact,70,True,True,True,True
+82,Whimbrel,Whimbrel,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,vernacular_exact,242,True,True,True,True
+198,White Ibis,White Ibis,Eudocimus albus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Eudocimus,vernacular_exact,88,True,True,True,False
+413,White-breasted Nuthatch,White-breasted Nuthatch,Sitta carolinensis,Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,vernacular_exact,82,True,True,True,True
+729,White-crowned Sparrow,White-crowned Sparrow,Zonotrichia leucophrys,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,vernacular_exact,98,True,True,True,True
+263,White-eyed Vireo,White-eyed Vireo,Vireo griseus,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,70,True,True,True,True
+223,White-faced Ibis,White-faced Ibis,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,vernacular_exact,76,True,True,True,True
+83,White-tailed Kite,White-tailed Kite,Elanus leucurus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus,vernacular_exact,86,True,True,True,True
+714,White-throated Sparrow,White-throated Sparrow,Zonotrichia albicollis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,vernacular_exact,111,True,True,True,True
+68,White-throated Swift,White-throated Swift,Aeronautes saxatalis,Animalia,Chordata,Aves,Apodiformes,Apodidae,Aeronautes,vernacular_exact,50,True,True,True,True
+574,White-winged Crossbill,White-winged Crossbill,Loxia leucoptera,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Loxia,vernacular_exact,118,True,True,True,True
+137,White-winged Dove,White-winged Dove,Zenaida asiatica,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,vernacular_exact,73,True,True,True,True
+192,White-winged Scoter,Melanitta deglandi,Melanitta deglandi,Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,vernacular_exact,94,True,True,True,True
+220,Wild Turkey,Wild Turkey,Meleagris gallopavo,Animalia,Chordata,Aves,Galliformes,Phasianidae,Meleagris,vernacular_exact,174,True,True,True,True
+70,Willet,Willet,Tringa semipalmata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,vernacular_exact,89,True,True,True,True
+158,Wilson's Phalarope,Wilson's Phalarope,Phalaropus tricolor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Phalaropus,vernacular_exact,117,True,True,True,True
+149,Wilson's Snipe,Wilson's Snipe,Gallinago delicata,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,vernacular_exact,110,True,True,True,True
+743,Wilson's Warbler,Wilson's Warbler,Cardellina pusilla,Animalia,Chordata,Aves,Passeriformes,Parulidae,Cardellina,vernacular_exact,67,True,True,True,True
+708,Winter Wren,Troglodytes hiemalis,Troglodytes hiemalis,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,vernacular_exact,47,True,True,True,True
+81,Wood Duck,Wood Duck,Aix sponsa,Animalia,Chordata,Aves,Anseriformes,Anatidae,Aix,vernacular_exact,151,True,True,True,True
+133,Wood Stork,Wood Stork,Mycteria americana,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria,vernacular_exact,110,True,True,True,True
+693,Wood Thrush,Wood Thrush,Hylocichla mustelina,Animalia,Chordata,Aves,Passeriformes,Turdidae,Hylocichla,vernacular_exact,101,True,True,True,True
+437,Wrentit,Wrentit,Chamaea fasciata,Animalia,Chordata,Aves,Passeriformes,Sylviidae,Chamaea,vernacular_exact,54,True,True,True,True
+573,Yellow Warbler,Yellow Warbler,Setophaga petechia,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,140,True,True,True,False
+112,Yellow-bellied Sapsucker,Yellow-bellied Sapsucker,Sphyrapicus varius,Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,vernacular_exact,89,True,True,True,True
+77,Yellow-billed Cuckoo,Yellow-billed Cuckoo,Coccyzus americanus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,vernacular_exact,137,True,True,True,True
+581,Yellow-billed Magpie,Yellow-billed Magpie,Pica nuttalli,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,vernacular_exact,24,True,True,True,True
+745,Yellow-breasted Chat,Yellow-breasted Chat,Icteria virens,Animalia,Chordata,Aves,Passeriformes,Parulidae,Icteria,vernacular_exact,73,True,True,True,True
+184,Yellow-crowned Night-Heron,Yellow-crowned Night-Heron,Nyctanassa violacea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nyctanassa,vernacular_exact,113,True,True,True,True
+306,Yellow-headed Blackbird,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthocephalus,vernacular_exact,85,True,True,True,True
+691,Yellow-rumped Warbler,Yellow-rumped Warbler,Setophaga coronata,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,94,True,True,True,True
+307,Yellow-throated Vireo,Yellow-throated Vireo,Vireo flavifrons,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,vernacular_exact,73,True,True,True,True
+702,Yellow-throated Warbler,Yellow-throated Warbler,Setophaga dominica,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,vernacular_exact,61,True,True,True,True

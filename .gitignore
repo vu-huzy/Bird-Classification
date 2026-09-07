@@ -1,6 +1,12 @@
 CLAUDE.md
 nabirds/
+cub/
 models/
 runs/
 __pycache__/
 *.pyc
+zeroshot/cache/
+zeroshot/results/*/confusions.csv
+zeroshot/results/*/per_class.csv
+zeroshot/results/*/per_order.csv
+zeroshot/results/*/per_species.csv

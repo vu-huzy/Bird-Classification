@@ -1,0 +1,12 @@
+{
+  "run": "supervised_vit_b_16_in21k_224_lora16",
+  "mode": "supervised",
+  "lora_rank": 16,
+  "top1": 0.8505663134819145,
+  "vp_n_leaves": 288,
+  "vp_bal": 0.9289918895356328,
+  "vp_chance": 0.4756944444444444,
+  "vp81_n_leaves": 167,
+  "vp81_bal": 0.9557833027317805,
+  "vp81_chance": 0.48502994011976047
+}

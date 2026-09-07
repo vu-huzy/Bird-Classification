@@ -1,0 +1,556 @@
+﻿class_idx,class_name,species,order,support,TP,FP,FN,precision,recall,f1,accuracy,top5_recall,most_confused_with
+519,Dark-eyed Junco (White-winged),Dark-eyed Junco,Perching Birds,9,1,0,8,1.0000,0.1111,0.2000,0.1111,0.8889,Dark-eyed Junco (Slate-colored) (8)
+208,Western Gull (Immature),Western Gull,"Gulls, Terns, and Allies",26,4,7,22,0.3636,0.1538,0.2162,0.1538,0.6923,Glaucous-winged Gull (Immature) (6)
+236,Barrow's Goldeneye (Female/Eclipse male),Barrow's Goldeneye,"Ducks, Geese, and Swans",25,4,0,21,1.0000,0.1600,0.2759,0.1600,1.0000,Common Goldeneye (Female/Eclipse male) (17)
+209,California Gull (Immature),California Gull,"Gulls, Terns, and Allies",25,6,7,19,0.4615,0.2400,0.3158,0.2400,0.8800,Ring-billed Gull (Immature) (5)
+345,Chihuahuan Raven,Chihuahuan Raven,Perching Birds,27,7,9,20,0.4375,0.2593,0.3256,0.2593,0.9259,Common Raven (15)
+280,"Broad-tailed Hummingbird (Female, immature)",Broad-tailed Hummingbird,Swifts and Hummingbirds,29,13,20,16,0.3939,0.4483,0.4194,0.4483,0.8621,"Calliope Hummingbird (Female, immature) (9)"
+228,Greater Scaup (Female/Eclipse male),Greater Scaup,"Ducks, Geese, and Swans",30,9,3,21,0.7500,0.3000,0.4286,0.3000,0.8333,Lesser Scaup (Female/Eclipse male) (17)
+377,Pacific Wren,Pacific Wren,Perching Birds,21,6,1,15,0.8571,0.2857,0.4286,0.2857,0.9524,Winter Wren (15)
+279,"Calliope Hummingbird (Female, immature)",Calliope Hummingbird,Swifts and Hummingbirds,48,20,24,28,0.4545,0.4167,0.4348,0.4167,0.9167,"Broad-tailed Hummingbird (Female, immature) (15)"
+343,Northwestern Crow,Northwestern Crow,Perching Birds,19,8,9,11,0.4706,0.4211,0.4444,0.4211,1.0000,American Crow (8)
+278,"Costa's Hummingbird (Female, immature)",Costa's Hummingbird,Swifts and Hummingbirds,21,9,7,12,0.5625,0.4286,0.4865,0.4286,1.0000,"Black-chinned Hummingbird (Female, immature) (6)"
+251,Great Cormorant (Immature),Great Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",24,10,7,14,0.5882,0.4167,0.4878,0.4167,0.8750,Double-crested Cormorant (Immature) (7)
+344,Fish Crow,Fish Crow,Perching Birds,30,13,10,17,0.5652,0.4333,0.4906,0.4333,0.9000,American Crow (7)
+288,Swainson's Hawk (Immature),Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",24,10,6,14,0.6250,0.4167,0.5000,0.4167,0.9167,Red-tailed Hawk (Light morph immature) (6)
+100,Tundra Swan,Tundra Swan,"Ducks, Geese, and Swans",28,12,8,16,0.6000,0.4286,0.5000,0.4286,1.0000,Trumpeter Swan (16)
+282,"Allen's Hummingbird (Female, immature)",Allen's Hummingbird,Swifts and Hummingbirds,41,16,6,25,0.7273,0.3902,0.5079,0.3902,0.9756,"Rufous Hummingbird (Female, immature) (20)"
+276,"Black-chinned Hummingbird (Female, immature)",Black-chinned Hummingbird,Swifts and Hummingbirds,59,33,37,26,0.4714,0.5593,0.5116,0.5593,0.8305,"Ruby-throated Hummingbird (Female, immature) (11)"
+351,Bank Swallow,Bank Swallow,Perching Birds,27,10,1,17,0.9091,0.3704,0.5263,0.3704,0.9630,Northern Rough-winged Swallow (7)
+281,"Rufous Hummingbird (Female, immature)",Rufous Hummingbird,Swifts and Hummingbirds,37,25,31,12,0.4464,0.6757,0.5376,0.6757,1.0000,"Calliope Hummingbird (Female, immature) (6)"
+487,Cassin's Vireo,Cassin's Vireo,Perching Birds,36,19,15,17,0.5588,0.5278,0.5429,0.5278,0.9722,Blue-headed Vireo (10)
+115,Neotropic Cormorant,Neotropic Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",38,18,10,20,0.6429,0.4737,0.5455,0.4737,0.9474,Double-crested Cormorant (Immature) (9)
+552,Orchard Oriole (Female/Juvenile),Orchard Oriole,Perching Birds,26,14,11,12,0.5600,0.5385,0.5490,0.5385,0.9615,Hooded Oriole (Female/Immature male) (7)
+262,Broad-winged Hawk (Immature),Broad-winged Hawk,"Hawks, Kites, Eagles, and Allies",29,13,5,16,0.7222,0.4483,0.5532,0.4483,0.8966,Red-shouldered Hawk (Immature) (6)
+177,Western Screech-Owl,Western Screech-Owl,Owls,34,17,10,17,0.6296,0.5000,0.5574,0.5000,1.0000,Eastern Screech-Owl (17)
+471,Cordilleran Flycatcher,Cordilleran Flycatcher,Perching Birds,31,23,26,8,0.4694,0.7419,0.5750,0.7419,0.9677,Least Flycatcher (3)
+187,Vaux's Swift,Vaux's Swift,Swifts and Hummingbirds,28,19,19,9,0.5000,0.6786,0.5758,0.6786,0.9643,Chimney Swift (7)
+211,Glaucous-winged Gull (Immature),Glaucous-winged Gull,"Gulls, Terns, and Allies",22,13,10,9,0.5652,0.5909,0.5778,0.5909,0.9545,Herring Gull (Immature) (5)
+501,American Crow,American Crow,Perching Birds,57,35,29,22,0.5469,0.6140,0.5785,0.6140,0.9474,Common Raven (11)
+550,Fox Sparrow (Thick-billed/Slate-colored),Fox Sparrow,Perching Birds,16,7,1,9,0.8750,0.4375,0.5833,0.4375,1.0000,Fox Sparrow (Sooty) (8)
+41,Great Cormorant (Adult),Great Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",40,21,11,19,0.6562,0.5250,0.5833,0.5250,0.9000,Double-crested Cormorant (Adult) (7)
+553,Yellow-rumped Warbler (Winter/juvenile Audubon's),Yellow-rumped Warbler,Perching Birds,44,28,22,16,0.5600,0.6364,0.5957,0.6364,1.0000,Yellow-rumped Warbler (Breeding Audubon's) (9)
+346,Common Raven,Common Raven,Perching Birds,57,38,31,19,0.5507,0.6667,0.6032,0.6667,0.9649,American Crow (10)
+18,Greater Scaup (Breeding male),Greater Scaup,"Ducks, Geese, and Swans",43,19,1,24,0.9500,0.4419,0.6032,0.4419,0.9535,Lesser Scaup (Breeding male) (22)
+3,Swainson's Hawk (Dark morph ),Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",30,18,11,12,0.6207,0.6000,0.6102,0.6000,0.9667,Swainson's Hawk (Light morph ) (4)
+275,"Ruby-throated Hummingbird (Female, immature)",Ruby-throated Hummingbird,Swifts and Hummingbirds,60,35,19,25,0.6481,0.5833,0.6140,0.5833,0.9500,"Black-chinned Hummingbird (Female, immature) (15)"
+467,Western Wood-Pewee,Western Wood-Pewee,Perching Birds,49,30,18,19,0.6250,0.6122,0.6186,0.6122,0.9796,Eastern Wood-Pewee (16)
+362,Juniper Titmouse,Juniper Titmouse,Perching Birds,25,13,4,12,0.7647,0.5200,0.6190,0.5200,0.9600,Oak Titmouse (8)
+186,Chimney Swift,Chimney Swift,Swifts and Hummingbirds,33,19,9,14,0.6786,0.5758,0.6230,0.5758,1.0000,Vaux's Swift (14)
+535,Hooded Oriole (Female/Immature male),Hooded Oriole,Perching Birds,35,21,9,14,0.7000,0.6000,0.6462,0.6000,1.0000,Orchard Oriole (Female/Juvenile) (9)
+468,Eastern Wood-Pewee,Eastern Wood-Pewee,Perching Birds,49,33,20,16,0.6226,0.6735,0.6471,0.6735,0.9796,Western Wood-Pewee (11)
+457,Boat-tailed Grackle,Boat-tailed Grackle,Perching Birds,60,37,17,23,0.6852,0.6167,0.6491,0.6167,0.9167,Great-tailed Grackle (15)
+82,California Gull (Adult),California Gull,"Gulls, Terns, and Allies",41,25,11,16,0.6944,0.6098,0.6494,0.6098,0.9512,Ring-billed Gull (Adult) (8)
+195,Red-naped Sapsucker,Red-naped Sapsucker,Woodpeckers,54,29,5,25,0.8529,0.5370,0.6591,0.5370,1.0000,Yellow-bellied Sapsucker (22)
+210,Herring Gull (Immature),Herring Gull,"Gulls, Terns, and Allies",44,30,17,14,0.6383,0.6818,0.6593,0.6818,0.9091,Ring-billed Gull (Immature) (6)
+5,Snow Goose (White morph),Snow Goose,"Ducks, Geese, and Swans",26,18,10,8,0.6429,0.6923,0.6667,0.6923,1.0000,Ross's Goose (8)
+215,Ross's Goose,Ross's Goose,"Ducks, Geese, and Swans",23,16,9,7,0.6400,0.6957,0.6667,0.6957,1.0000,Snow Goose (White morph) (7)
+137,Red-tailed Hawk (Dark morph),Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",30,19,8,11,0.7037,0.6333,0.6667,0.6333,0.9667,Rough-legged Hawk (Dark morph) (5)
+244,Pacific Loon (Nonbreeding/juvenile),Pacific Loon,Loons,27,16,5,11,0.7619,0.5926,0.6667,0.5926,0.9259,Common Loon (Nonbreeding/juvenile) (7)
+261,Red-shouldered Hawk (Immature),Red-shouldered Hawk,"Hawks, Kites, Eagles, and Allies",38,28,17,10,0.6222,0.7368,0.6747,0.7368,0.9737,Red-shouldered Hawk (Adult ) (4)
+277,"Anna's Hummingbird (Female, immature)",Anna's Hummingbird,Swifts and Hummingbirds,52,35,16,17,0.6863,0.6731,0.6796,0.6731,1.0000,"Black-chinned Hummingbird (Female, immature) (8)"
+99,Trumpeter Swan,Trumpeter Swan,"Ducks, Geese, and Swans",37,28,17,9,0.6222,0.7568,0.6829,0.7568,0.9730,Tundra Swan (8)
+217,Gadwall (Female/Eclipse male),Gadwall,"Ducks, Geese, and Swans",19,12,4,7,0.7500,0.6316,0.6857,0.6316,1.0000,Northern Shoveler (Female/Eclipse male) (3)
+53,Rough-legged Hawk (Dark morph),Rough-legged Hawk,"Hawks, Kites, Eagles, and Allies",24,16,6,8,0.7273,0.6667,0.6957,0.6667,0.9583,Red-tailed Hawk (Dark morph) (4)
+50,Cooper's Hawk (Adult),Cooper's Hawk,"Hawks, Kites, Eagles, and Allies",57,39,16,18,0.7091,0.6842,0.6964,0.6842,1.0000,Sharp-shinned Hawk (Adult ) (16)
+414,Mourning Warbler,Mourning Warbler,Perching Birds,52,30,4,22,0.8824,0.5769,0.6977,0.5769,0.9423,MacGillivray's Warbler (15)
+356,Black-capped Chickadee,Black-capped Chickadee,Perching Birds,60,34,3,26,0.9189,0.5667,0.7010,0.5667,0.9500,Carolina Chickadee (23)
+267,Purple Gallinule (Immature),Purple Gallinule,Cranes and Rails,11,6,0,5,1.0000,0.5455,0.7059,0.5455,1.0000,Purple Gallinule (Adult) (3)
+71,Rufous Hummingbird (Adult Male),Rufous Hummingbird,Swifts and Hummingbirds,50,39,21,11,0.6500,0.7800,0.7091,0.7800,1.0000,Allen's Hummingbird (Adult Male) (9)
+150,Greater Yellowlegs,Greater Yellowlegs,"Plovers, Sandpipers, and Allies",59,40,13,19,0.7547,0.6780,0.7143,0.6780,1.0000,Lesser Yellowlegs (18)
+87,Mew Gull,Mew Gull,"Gulls, Terns, and Allies",23,15,4,8,0.7895,0.6522,0.7143,0.6522,0.9130,California Gull (Adult) (3)
+152,Lesser Yellowlegs,Lesser Yellowlegs,"Plovers, Sandpipers, and Allies",60,44,19,16,0.6984,0.7333,0.7154,0.7333,1.0000,Greater Yellowlegs (13)
+469,Least Flycatcher,Least Flycatcher,Perching Birds,60,39,10,21,0.7959,0.6500,0.7156,0.6500,0.9500,Cordilleran Flycatcher (8)
+470,Pacific-slope Flycatcher,Pacific-slope Flycatcher,Perching Birds,59,38,9,21,0.8085,0.6441,0.7170,0.6441,0.9831,Cordilleran Flycatcher (16)
+49,Sharp-shinned Hawk (Adult ),Sharp-shinned Hawk,"Hawks, Kites, Eagles, and Allies",58,42,17,16,0.7119,0.7241,0.7179,0.7241,1.0000,Cooper's Hawk (Adult) (11)
+202,"Black Guillemot (Nonbreeding, juvenile)",Black Guillemot,Skuas and Alcids,12,9,4,3,0.6923,0.7500,0.7200,0.7500,0.9167,Royal Tern (1)
+259,Sharp-shinned Hawk (Immature),Sharp-shinned Hawk,"Hawks, Kites, Eagles, and Allies",58,42,16,16,0.7241,0.7241,0.7241,0.7241,1.0000,Cooper's Hawk (Immature) (15)
+458,Great-tailed Grackle,Great-tailed Grackle,Perching Birds,60,46,21,14,0.6866,0.7667,0.7244,0.7667,0.9833,Boat-tailed Grackle (12)
+235,Common Goldeneye (Female/Eclipse male),Common Goldeneye,"Ducks, Geese, and Swans",33,29,18,4,0.6170,0.8788,0.7250,0.8788,1.0000,Common Goldeneye (Breeding male) (3)
+72,Allen's Hummingbird (Adult Male),Allen's Hummingbird,Swifts and Hummingbirds,60,40,10,20,0.8000,0.6667,0.7273,0.6667,1.0000,Rufous Hummingbird (Adult Male) (19)
+463,Brown-capped Rosy-Finch,Brown-capped Rosy-Finch,Perching Birds,34,22,4,12,0.8462,0.6471,0.7333,0.6471,0.9706,Gray-crowned Rosy-Finch (9)
+178,Eastern Screech-Owl,Eastern Screech-Owl,Owls,50,40,19,10,0.6780,0.8000,0.7339,0.8000,1.0000,Western Screech-Owl (10)
+229,Lesser Scaup (Female/Eclipse male),Lesser Scaup,"Ducks, Geese, and Swans",35,31,18,4,0.6327,0.8857,0.7381,0.8857,1.0000,Lesser Scaup (Breeding male) (2)
+353,Cave Swallow,Cave Swallow,Perching Birds,34,24,7,10,0.7742,0.7059,0.7385,0.7059,0.9118,Cliff Swallow (5)
+160,Western Sandpiper,Western Sandpiper,"Plovers, Sandpipers, and Allies",51,34,7,17,0.8293,0.6667,0.7391,0.6667,0.9804,Semipalmated Sandpiper (8)
+266,Peregrine Falcon (Immature),Peregrine Falcon,Caracaras and Falcons,31,23,8,8,0.7419,0.7419,0.7419,0.7419,0.9677,Peregrine Falcon (Adult) (7)
+502,Yellow-rumped Warbler (Breeding Audubon's),Yellow-rumped Warbler,Perching Birds,58,40,9,18,0.8163,0.6897,0.7477,0.6897,1.0000,Yellow-rumped Warbler (Winter/juvenile Audubon's) (16)
+19,Lesser Scaup (Breeding male),Lesser Scaup,"Ducks, Geese, and Swans",44,43,28,1,0.6056,0.9773,0.7478,0.9773,1.0000,Greater Scaup (Breeding male) (1)
+52,Broad-winged Hawk (Adult),Broad-winged Hawk,"Hawks, Kites, Eagles, and Allies",26,18,4,8,0.8182,0.6923,0.7500,0.6923,0.9615,Cooper's Hawk (Adult) (3)
+352,Cliff Swallow,Cliff Swallow,Perching Birds,30,24,10,6,0.7059,0.8000,0.7500,0.8000,0.9667,Cave Swallow (4)
+75,Black Guillemot (Breeding),Black Guillemot,Skuas and Alcids,20,12,0,8,1.0000,0.6000,0.7500,0.6000,0.9000,Pigeon Guillemot (Breeding) (6)
+205,Laughing Gull (Nonbreeding/Immature),Laughing Gull,"Gulls, Terns, and Allies",45,32,8,13,0.8000,0.7111,0.7529,0.7111,0.9778,Laughing Gull (Breeding) (10)
+268,Common Gallinule (Immature),Common Gallinule,Cranes and Rails,15,11,3,4,0.7857,0.7333,0.7586,0.7333,1.0000,Common Gallinule (Adult) (4)
+465,Hoary Redpoll,Hoary Redpoll,Perching Birds,29,21,5,8,0.8077,0.7241,0.7636,0.7241,1.0000,Common Redpoll (8)
+207,Ring-billed Gull (Immature),Ring-billed Gull,"Gulls, Terns, and Allies",36,31,14,5,0.6889,0.8611,0.7654,0.8611,0.9722,Ring-billed Gull (Adult) (2)
+26,Barrow's Goldeneye (Breeding male),Barrow's Goldeneye,"Ducks, Geese, and Swans",35,22,0,13,1.0000,0.6286,0.7719,0.6286,1.0000,Common Goldeneye (Breeding male) (13)
+486,Plumbeous Vireo,Plumbeous Vireo,Perching Birds,41,29,5,12,0.8529,0.7073,0.7733,0.7073,0.9756,Cassin's Vireo (8)
+40,Double-crested Cormorant (Immature),Double-crested Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",52,48,24,4,0.6667,0.9231,0.7742,0.9231,1.0000,Brandt's Cormorant (1)
+203,"Pigeon Guillemot (Nonbreeding, juvenile)",Pigeon Guillemot,Skuas and Alcids,17,12,2,5,0.8571,0.7059,0.7742,0.7059,0.9412,"Black Guillemot (Nonbreeding, juvenile) (3)"
+544,Lesser Goldfinch (Female/juvenile),Lesser Goldfinch,Perching Birds,36,24,2,12,0.9231,0.6667,0.7742,0.6667,0.8889,American Goldfinch (Female/Nonbreeding Male) (5)
+510,"Bay-breasted Warbler (Female, Nonbreeding male, Immature)",Bay-breasted Warbler,Perching Birds,29,19,1,10,0.9500,0.6552,0.7755,0.6552,0.9310,Bay-breasted Warbler (Breeding male) (6)
+230,Harlequin Duck (Female/juvenile),Harlequin Duck,"Ducks, Geese, and Swans",22,14,0,8,1.0000,0.6364,0.7778,0.6364,0.9545,Surf Scoter (Female/immature) (3)
+260,Cooper's Hawk (Immature),Cooper's Hawk,"Hawks, Kites, Eagles, and Allies",60,51,20,9,0.7183,0.8500,0.7786,0.8500,0.9833,Sharp-shinned Hawk (Immature) (7)
+136,Swainson's Hawk (Light morph ),Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",39,30,8,9,0.7895,0.7692,0.7792,0.7692,1.0000,Swainson's Hawk (Dark morph ) (5)
+361,Oak Titmouse,Oak Titmouse,Perching Birds,37,30,10,7,0.7500,0.8108,0.7792,0.8108,0.9730,Juniper Titmouse (3)
+540,Cassin's Finch (Female/immature),Cassin's Finch,Perching Birds,24,16,1,8,0.9412,0.6667,0.7805,0.6667,0.9167,Purple Finch (Female/immature) (6)
+274,"Broad-billed Hummingbird (Female, immature)",Broad-billed Hummingbird,Swifts and Hummingbirds,22,16,3,6,0.8421,0.7273,0.7805,0.7273,1.0000,Broad-billed Hummingbird (Adult Male) (3)
+194,Yellow-bellied Sapsucker,Yellow-bellied Sapsucker,Woodpeckers,59,52,22,7,0.7027,0.8814,0.7820,0.8814,0.9831,Red-naped Sapsucker (5)
+54,Golden Eagle (Adult),Golden Eagle,"Hawks, Kites, Eagles, and Allies",42,38,17,4,0.6909,0.9048,0.7835,0.9048,0.9762,"Northern Harrier (Female, immature) (2)"
+221,Cinnamon Teal (Female/juvenile),Cinnamon Teal,"Ducks, Geese, and Swans",20,13,0,7,1.0000,0.6500,0.7879,0.6500,0.9000,Northern Shoveler (Female/Eclipse male) (2)
+250,Double-crested Cormorant (Adult),Double-crested Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",54,45,15,9,0.7500,0.8333,0.7895,0.8333,1.0000,Double-crested Cormorant (Immature) (4)
+204,Black-legged Kittiwake (Immature),Black-legged Kittiwake,"Gulls, Terns, and Allies",19,15,4,4,0.7895,0.7895,0.7895,0.7895,1.0000,Black-legged Kittiwake (Adult) (4)
+355,Carolina Chickadee,Carolina Chickadee,Perching Birds,58,54,24,4,0.6923,0.9310,0.7941,0.9310,1.0000,Black-capped Chickadee (3)
+289,Red-tailed Hawk (Light morph immature),Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",60,51,17,9,0.7500,0.8500,0.7969,0.8500,0.9667,Red-tailed Hawk (Light morph adult) (3)
+56,Peregrine Falcon (Adult),Peregrine Falcon,Caracaras and Falcons,46,38,11,8,0.7755,0.8261,0.8000,0.8261,0.9565,Peregrine Falcon (Immature) (5)
+359,Boreal Chickadee,Boreal Chickadee,Perching Birds,42,28,0,14,1.0000,0.6667,0.8000,0.6667,1.0000,Chestnut-backed Chickadee (10)
+233,Black Scoter (Female/juvenile),Black Scoter,"Ducks, Geese, and Swans",22,16,2,6,0.8889,0.7273,0.8000,0.7273,1.0000,Black Scoter (Male) (2)
+242,Ring-necked Pheasant (Female/juvenile),Ring-necked Pheasant,"Grouse, Quail, and Allies",14,12,4,2,0.7500,0.8571,0.8000,0.8571,0.9286,Ring-necked Pheasant (Male) (1)
+253,Reddish Egret (White morph),Reddish Egret,"Pelicans, Herons, Ibises, and Allies",23,16,1,7,0.9412,0.6957,0.8000,0.6957,0.8696,Reddish Egret (Dark morph) (2)
+342,Yellow-rumped Warbler (Winter/juvenile Myrtle),Yellow-rumped Warbler,Perching Birds,53,47,17,6,0.7344,0.8868,0.8034,0.8868,1.0000,Yellow-rumped Warbler (Winter/juvenile Audubon's) (4)
+68,Costa's Hummingbird (Adult Male),Costa's Hummingbird,Swifts and Hummingbirds,37,31,9,6,0.7750,0.8378,0.8052,0.8378,1.0000,Black-chinned Hummingbird (Adult Male) (3)
+381,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,Perching Birds,22,21,9,1,0.7000,0.9545,0.8077,0.9545,1.0000,Green-tailed Towhee (1)
+90,Common Tern,Common Tern,"Gulls, Terns, and Allies",60,45,6,15,0.8824,0.7500,0.8108,0.7500,0.9667,Forster's Tern (10)
+533,Brewer's Blackbird (Male),Brewer's Blackbird,Perching Birds,60,45,6,15,0.8824,0.7500,0.8108,0.7500,0.9333,Rusty Blackbird (4)
+298,Phainopepla (Female/juvenile),Phainopepla,Perching Birds,18,15,4,3,0.7895,0.8333,0.8108,0.8333,0.9444,Phainopepla (Male) (3)
+114,Brandt's Cormorant,Brandt's Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",33,26,5,7,0.8387,0.7879,0.8125,0.7879,0.9697,Pelagic Cormorant (3)
+61,Sanderling (Breeding),Sanderling,"Plovers, Sandpipers, and Allies",19,13,0,6,1.0000,0.6842,0.8125,0.6842,1.0000,Sanderling (Nonbreeding/juvenile) (3)
+200,Hairy Woodpecker,Hairy Woodpecker,Woodpeckers,60,48,10,12,0.8276,0.8000,0.8136,0.8000,1.0000,Downy Woodpecker (12)
+247,Red-necked Grebe (Nonbreeding/juvenile),Red-necked Grebe,Grebes,31,24,4,7,0.8571,0.7742,0.8136,0.7742,0.9677,Red-necked Grebe (Breeding) (5)
+413,MacGillivray's Warbler,MacGillivray's Warbler,Perching Birds,46,42,15,4,0.7368,0.9130,0.8155,0.9130,1.0000,Mourning Warbler (4)
+83,Herring Gull (Adult),Herring Gull,"Gulls, Terns, and Allies",57,49,14,8,0.7778,0.8596,0.8167,0.8596,1.0000,Glaucous-winged Gull (Adult) (4)
+350,Northern Rough-winged Swallow,Northern Rough-winged Swallow,Perching Birds,42,36,10,6,0.7826,0.8571,0.8182,0.8571,0.9762,Chimney Swift (2)
+450,Summer Tanager (Female),Summer Tanager,Perching Birds,33,25,3,8,0.8929,0.7576,0.8197,0.7576,1.0000,Scarlet Tanager (Female/Nonbreeding Male) (5)
+527,Lazuli Bunting (Female/juvenile),Lazuli Bunting,Perching Birds,22,16,1,6,0.9412,0.7273,0.8205,0.7273,0.9545,Indigo Bunting (Female/juvenile) (3)
+134,Mississippi Kite,Mississippi Kite,"Hawks, Kites, Eagles, and Allies",50,39,6,11,0.8667,0.7800,0.8211,0.7800,0.9600,Swallow-tailed Kite (3)
+199,Downy Woodpecker,Downy Woodpecker,Woodpeckers,60,51,13,9,0.7969,0.8500,0.8226,0.8500,1.0000,Hairy Woodpecker (8)
+264,Golden Eagle (Immature),Golden Eagle,"Hawks, Kites, Eagles, and Allies",30,21,0,9,1.0000,0.7000,0.8235,0.7000,0.9667,Golden Eagle (Adult) (7)
+232,White-winged Scoter (Female/juvenile),White-winged Scoter,"Ducks, Geese, and Swans",30,24,4,6,0.8571,0.8000,0.8276,0.8000,1.0000,White-winged Scoter (Male) (2)
+258,"Northern Harrier (Female, immature)",Northern Harrier,"Hawks, Kites, Eagles, and Allies",60,58,22,2,0.7250,0.9667,0.8286,0.9667,1.0000,Sharp-shinned Hawk (Immature) (1)
+461,Gray-crowned Rosy-Finch,Gray-crowned Rosy-Finch,Perching Birds,37,34,11,3,0.7556,0.9189,0.8293,0.9189,1.0000,Brown-capped Rosy-Finch (3)
+249,Northern Gannet (Immature/Juvenile),Northern Gannet,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",20,17,4,3,0.8095,0.8500,0.8293,0.8500,0.9500,Black Scoter (Male) (1)
+245,Common Loon (Nonbreeding/juvenile),Common Loon,Loons,60,56,19,4,0.7467,0.9333,0.8296,0.9333,0.9833,Pacific Loon (Nonbreeding/juvenile) (2)
+445,Fox Sparrow (Sooty),Fox Sparrow,Perching Birds,43,39,12,4,0.7647,0.9070,0.8298,0.9070,1.0000,Fox Sparrow (Red) (4)
+440,Brewer's Sparrow,Brewer's Sparrow,Perching Birds,35,30,7,5,0.8108,0.8571,0.8333,0.8571,0.9714,Chipping Sparrow (Immature/nonbreeding adult) (2)
+33,Red-throated Loon (Breeding),Red-throated Loon,Loons,12,10,2,2,0.8333,0.8333,0.8333,0.8333,0.9167,Red-throated Loon (Nonbreeding/juvenile) (2)
+48,Northern Harrier (Adult male),Northern Harrier,"Hawks, Kites, Eagles, and Allies",60,43,0,17,1.0000,0.7167,0.8350,0.7167,0.9667,"Northern Harrier (Female, immature) (14)"
+521,Scarlet Tanager (Female/Nonbreeding Male),Scarlet Tanager,Perching Birds,28,28,11,0,0.7179,1.0000,0.8358,1.0000,1.0000,
+503,Purple Martin (Female/juvenile),Purple Martin,Perching Birds,36,31,7,5,0.8158,0.8611,0.8378,0.8611,1.0000,Northern Rough-winged Swallow (2)
+489,Hutton's Vireo,Hutton's Vireo,Perching Birds,39,34,8,5,0.8095,0.8718,0.8395,0.8718,1.0000,Ruby-crowned Kinglet (4)
+22,White-winged Scoter (Male),White-winged Scoter,"Ducks, Geese, and Swans",27,21,2,6,0.9130,0.7778,0.8400,0.7778,1.0000,Surf Scoter (Male) (3)
+292,European Starling (Breeding Adult),European Starling,Perching Birds,59,48,7,11,0.8727,0.8136,0.8421,0.8136,0.9831,European Starling (Nonbreeding Adult) (9)
+25,Common Goldeneye (Breeding male),Common Goldeneye,"Ducks, Geese, and Swans",51,51,19,0,0.7286,1.0000,0.8430,1.0000,1.0000,
+231,Surf Scoter (Female/immature),Surf Scoter,"Ducks, Geese, and Swans",24,22,6,2,0.7857,0.9167,0.8462,0.9167,1.0000,Black Scoter (Female/juvenile) (1)
+257,"Bald Eagle (Immature, juvenile)",Bald Eagle,"Hawks, Kites, Eagles, and Allies",43,36,6,7,0.8571,0.8372,0.8471,0.8372,0.9767,"Bald Eagle (Adult, subadult) (3)"
+364,Black-crested Titmouse,Black-crested Titmouse,Perching Birds,33,25,1,8,0.9615,0.7576,0.8475,0.7576,1.0000,Tufted Titmouse (7)
+522,Western Tanager (Female/Nonbreeding Male),Western Tanager,Perching Birds,33,25,1,8,0.9615,0.7576,0.8475,0.7576,0.9697,Western Tanager (Breeding Male) (4)
+222,Northern Shoveler (Female/Eclipse male),Northern Shoveler,"Ducks, Geese, and Swans",40,34,6,6,0.8500,0.8500,0.8500,0.8500,0.9750,Northern Shoveler (Breeding male) (4)
+66,Black-chinned Hummingbird (Adult Male),Black-chinned Hummingbird,Swifts and Hummingbirds,50,43,8,7,0.8431,0.8600,0.8515,0.8600,0.9600,Ruby-throated Hummingbird (Adult Male) (3)
+542,Red Crossbill (Female/juvenile),Red Crossbill,Perching Birds,34,26,1,8,0.9630,0.7647,0.8525,0.7647,0.9706,White-winged Crossbill (Female/juvenile) (3)
+92,Royal Tern,Royal Tern,"Gulls, Terns, and Allies",38,32,5,6,0.8649,0.8421,0.8533,0.8421,1.0000,Caspian Tern (6)
+287,Ruddy Duck (Female/juvenile),Ruddy Duck,"Ducks, Geese, and Swans",40,35,7,5,0.8333,0.8750,0.8537,0.8750,0.9750,Gadwall (Breeding male) (1)
+488,Blue-headed Vireo,Blue-headed Vireo,Perching Birds,52,47,11,5,0.8103,0.9038,0.8545,0.9038,0.9808,Cassin's Vireo (2)
+159,Semipalmated Sandpiper,Semipalmated Sandpiper,"Plovers, Sandpipers, and Allies",60,53,11,7,0.8281,0.8833,0.8548,0.8833,1.0000,Western Sandpiper (5)
+51,Red-shouldered Hawk (Adult ),Red-shouldered Hawk,"Hawks, Kites, Eagles, and Allies",38,33,6,5,0.8462,0.8684,0.8571,0.8684,0.9474,Red-shouldered Hawk (Immature) (5)
+23,Black Scoter (Male),Black Scoter,"Ducks, Geese, and Swans",19,18,5,1,0.7826,0.9474,0.8571,0.9474,0.9474,Vaux's Swift (1)
+464,Common Redpoll,Common Redpoll,Perching Birds,40,36,8,4,0.8182,0.9000,0.8571,0.9000,1.0000,Hoary Redpoll (4)
+243,Red-throated Loon (Nonbreeding/juvenile),Red-throated Loon,Loons,47,42,9,5,0.8235,0.8936,0.8571,0.8936,1.0000,Red-throated Loon (Breeding) (2)
+520,Chipping Sparrow (Immature/nonbreeding adult),Chipping Sparrow,Perching Birds,46,39,6,7,0.8667,0.8478,0.8571,0.8478,0.9783,Chipping Sparrow (Breeding) (3)
+435,Canyon Towhee,Canyon Towhee,Perching Birds,46,39,6,7,0.8667,0.8478,0.8571,0.8478,0.9783,California Towhee (7)
+455,Rusty Blackbird,Rusty Blackbird,Perching Birds,48,39,4,9,0.9070,0.8125,0.8571,0.8125,0.9583,Brewer's Blackbird (Male) (2)
+378,Winter Wren,Winter Wren,Perching Birds,54,52,15,2,0.7761,0.9630,0.8595,0.9630,1.0000,House Wren (2)
+349,Violet-green Swallow,Violet-green Swallow,Perching Birds,37,31,4,6,0.8857,0.8378,0.8611,0.8378,0.9189,Tree Swallow (2)
+511,Chestnut-sided Warbler (Female/immature male),Chestnut-sided Warbler,Perching Birds,35,28,2,7,0.9333,0.8000,0.8615,0.8000,1.0000,Chestnut-sided Warbler (Breeding male) (6)
+400,European Starling (Nonbreeding Adult),European Starling,Perching Birds,60,53,10,7,0.8413,0.8833,0.8618,0.8833,0.9833,European Starling (Breeding Adult) (7)
+495,Florida Scrub-Jay,Florida Scrub-Jay,Perching Birds,26,22,3,4,0.8800,0.8462,0.8627,0.8462,1.0000,Western Scrub-Jay (4)
+460,Orchard Oriole (Immature Male),Orchard Oriole,Perching Birds,25,22,4,3,0.8462,0.8800,0.8627,0.8800,1.0000,Hooded Oriole (Female/Immature male) (1)
+286,Long-tailed Duck (Female/juvenile),Long-tailed Duck,"Ducks, Geese, and Swans",23,19,2,4,0.9048,0.8261,0.8636,0.8261,0.9565,Long-tailed Duck (Winter male) (2)
+88,Caspian Tern,Caspian Tern,"Gulls, Terns, and Allies",49,45,10,4,0.8182,0.9184,0.8654,0.9184,1.0000,Royal Tern (3)
+91,Forster's Tern,Forster's Tern,"Gulls, Terns, and Allies",60,55,12,5,0.8209,0.9167,0.8661,0.9167,1.0000,Common Tern (4)
+37,Red-necked Grebe (Breeding),Red-necked Grebe,Grebes,29,26,5,3,0.8387,0.8966,0.8667,0.8966,1.0000,Red-necked Grebe (Nonbreeding/juvenile) (2)
+515,White-throated Sparrow (Tan-striped/immature),White-throated Sparrow,Perching Birds,45,36,2,9,0.9474,0.8000,0.8675,0.8000,1.0000,White-throated Sparrow (White-striped) (8)
+528,Indigo Bunting (Female/juvenile),Indigo Bunting,Perching Birds,39,36,8,3,0.8182,0.9231,0.8675,0.9231,1.0000,Indigo Bunting (Adult Male) (2)
+116,Pelagic Cormorant,Pelagic Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",26,23,4,3,0.8519,0.8846,0.8679,0.8846,0.9615,Neotropic Cormorant (2)
+252,Little Blue Heron (Immature),Little Blue Heron,"Pelicans, Herons, Ibises, and Allies",37,33,6,4,0.8462,0.8919,0.8684,0.8919,1.0000,Great Blue Heron (1)
+84,Glaucous-winged Gull (Adult),Glaucous-winged Gull,"Gulls, Terns, and Allies",38,33,5,5,0.8684,0.8684,0.8684,0.8684,1.0000,Herring Gull (Adult) (5)
+505,Phainopepla (Male),Phainopepla,Perching Birds,35,30,4,5,0.8824,0.8571,0.8696,0.8571,1.0000,Phainopepla (Female/juvenile) (4)
+104,Long-tailed Duck (Summer male),Long-tailed Duck,"Ducks, Geese, and Swans",12,10,1,2,0.9091,0.8333,0.8696,0.8333,1.0000,Long-tailed Duck (Female/juvenile) (2)
+67,Anna's Hummingbird (Adult Male),Anna's Hummingbird,Swifts and Hummingbirds,54,47,7,7,0.8704,0.8704,0.8704,0.8704,0.9630,Costa's Hummingbird (Adult Male) (5)
+484,Bell's Vireo,Bell's Vireo,Perching Birds,29,24,2,5,0.9231,0.8276,0.8727,0.8276,0.9655,Cassin's Vireo (3)
+473,Eastern Phoebe,Eastern Phoebe,Perching Birds,60,52,7,8,0.8814,0.8667,0.8739,0.8667,1.0000,Black Phoebe (5)
+410,Tennessee Warbler,Tennessee Warbler,Perching Birds,60,56,12,4,0.8235,0.9333,0.8750,0.9333,0.9833,Orange-crowned Warbler (1)
+226,Redhead (Female/Eclipse male),Redhead,"Ducks, Geese, and Swans",17,14,1,3,0.9333,0.8235,0.8750,0.8235,0.8824,Ring-necked Duck (Female/Eclipse male) (2)
+543,White-winged Crossbill (Female/juvenile),White-winged Crossbill,Perching Birds,32,28,4,4,0.8750,0.8750,0.8750,0.8750,0.9688,Red Crossbill (Adult Male) (1)
+525,Black-headed Grosbeak (Female/immature male),Black-headed Grosbeak,Perching Birds,48,39,2,9,0.9512,0.8125,0.8764,0.8125,1.0000,Rose-breasted Grosbeak (Female/immature male) (6)
+80,Ring-billed Gull (Adult),Ring-billed Gull,"Gulls, Terns, and Allies",60,57,13,3,0.8143,0.9500,0.8769,0.9500,1.0000,California Gull (Adult) (2)
+263,Rough-legged Hawk (Light morph),Rough-legged Hawk,"Hawks, Kites, Eagles, and Allies",40,36,6,4,0.8571,0.9000,0.8780,0.9000,1.0000,Red-tailed Hawk (Light morph immature) (2)
+212,Great Black-backed Gull (Immature),Great Black-backed Gull,"Gulls, Terns, and Allies",32,29,5,3,0.8529,0.9062,0.8788,0.9062,1.0000,Herring Gull (Adult) (1)
+436,California Towhee,California Towhee,Perching Birds,44,40,7,4,0.8511,0.9091,0.8791,0.9091,1.0000,Canyon Towhee (3)
+4,Red-tailed Hawk (Light morph adult),Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",60,51,5,9,0.9107,0.8500,0.8793,0.8500,1.0000,Red-tailed Hawk (Dark morph) (3)
+224,Green-winged Teal (Female/juvenile),Green-winged Teal,"Ducks, Geese, and Swans",30,26,3,4,0.8966,0.8667,0.8814,0.8667,0.9667,Green-winged Teal (Male) (1)
+516,Harris's Sparrow (Immature),Harris's Sparrow,Perching Birds,34,30,4,4,0.8824,0.8824,0.8824,0.8824,1.0000,Harris's Sparrow (Adult) (3)
+111,Western Grebe,Western Grebe,Grebes,42,34,1,8,0.9714,0.8095,0.8831,0.8095,1.0000,Clark's Grebe (7)
+103,Common Eider (Female/juvenile),Common Eider,"Ducks, Geese, and Swans",22,19,2,3,0.9048,0.8636,0.8837,0.8636,1.0000,Northern Pintail (Female/Eclipse male) (1)
+240,California Quail (Female/juvenile),California Quail,"Grouse, Quail, and Allies",22,19,2,3,0.9048,0.8636,0.8837,0.8636,1.0000,California Quail (Male) (2)
+105,Ruddy Duck (Winter male),Ruddy Duck,"Ducks, Geese, and Swans",28,23,1,5,0.9583,0.8214,0.8846,0.8214,1.0000,Ruddy Duck (Female/juvenile) (4)
+462,Black Rosy-Finch,Black Rosy-Finch,Perching Birds,26,23,3,3,0.8846,0.8846,0.8846,0.8846,1.0000,Gray-crowned Rosy-Finch (2)
+102,Mottled Duck,Mottled Duck,"Ducks, Geese, and Swans",29,27,5,2,0.8438,0.9310,0.8852,0.9310,1.0000,American Black Duck (1)
+303,Bay-breasted Warbler (Breeding male),Bay-breasted Warbler,Perching Birds,33,31,6,2,0.8378,0.9394,0.8857,0.9394,0.9697,Lazuli Bunting (Adult Male) (1)
+127,White-faced Ibis,White-faced Ibis,"Pelicans, Herons, Ibises, and Allies",34,31,5,3,0.8611,0.9118,0.8857,0.9118,1.0000,Glossy Ibis (3)
+140,Prairie Falcon,Prairie Falcon,Caracaras and Falcons,42,35,2,7,0.9459,0.8333,0.8861,0.8333,0.9286,Peregrine Falcon (Immature) (3)
+459,Bronzed Cowbird,Bronzed Cowbird,Perching Birds,32,28,3,4,0.9032,0.8750,0.8889,0.8750,0.9375,Brewer's Blackbird (Female/Juvenile) (1)
+96,Cackling Goose,Cackling Goose,"Ducks, Geese, and Swans",14,12,1,2,0.9231,0.8571,0.8889,0.8571,1.0000,Canada Goose (2)
+526,Blue Grosbeak (Female/juvenile),Blue Grosbeak,Perching Birds,42,36,3,6,0.9231,0.8571,0.8889,0.8571,1.0000,Indigo Bunting (Female/juvenile) (3)
+536,Bullock's Oriole (Female/Immature male),Bullock's Oriole,Perching Birds,36,32,4,4,0.8889,0.8889,0.8889,0.8889,0.9722,Baltimore Oriole (Female/Immature male) (2)
+309,Harris's Sparrow (Adult),Harris's Sparrow,Perching Birds,27,24,3,3,0.8889,0.8889,0.8889,0.8889,1.0000,Harris's Sparrow (Immature) (3)
+453,Eastern Meadowlark,Eastern Meadowlark,Perching Birds,40,33,1,7,0.9706,0.8250,0.8919,0.8250,1.0000,Western Meadowlark (7)
+89,Black Tern,Black Tern,"Gulls, Terns, and Allies",35,29,1,6,0.9667,0.8286,0.8923,0.8286,0.9714,Common Tern (2)
+416,Cape May Warbler,Cape May Warbler,Perching Birds,60,50,2,10,0.9615,0.8333,0.8929,0.8333,0.9667,Yellow-rumped Warbler (Winter/juvenile Myrtle) (2)
+65,Ruby-throated Hummingbird (Adult Male),Ruby-throated Hummingbird,Swifts and Hummingbirds,54,50,8,4,0.8621,0.9259,0.8929,0.9259,1.0000,Black-chinned Hummingbird (Adult Male) (2)
+539,Purple Finch (Female/immature),Purple Finch,Perching Birds,45,42,7,3,0.8571,0.9333,0.8936,0.9333,1.0000,House Finch (Female/immature) (2)
+497,Mexican Jay,Mexican Jay,Perching Birds,26,21,0,5,1.0000,0.8077,0.8936,0.8077,1.0000,Western Scrub-Jay (5)
+174,Black-billed Cuckoo,Black-billed Cuckoo,Cuckoos,32,26,0,6,1.0000,0.8125,0.8966,0.8125,1.0000,Yellow-billed Cuckoo (6)
+77,Black-legged Kittiwake (Adult),Black-legged Kittiwake,"Gulls, Terns, and Allies",23,22,4,1,0.8462,0.9565,0.8980,0.9565,1.0000,Black-legged Kittiwake (Immature) (1)
+126,Glossy Ibis,Glossy Ibis,"Pelicans, Herons, Ibises, and Allies",44,40,5,4,0.8889,0.9091,0.8989,0.9091,1.0000,White-faced Ibis (4)
+256,White Ibis (Immature),White Ibis,"Pelicans, Herons, Ibises, and Allies",33,27,0,6,1.0000,0.8182,0.9000,0.8182,1.0000,White Ibis (Adult) (3)
+69,Calliope Hummingbird (Adult Male),Calliope Hummingbird,Swifts and Hummingbirds,41,36,3,5,0.9231,0.8780,0.9000,0.8780,1.0000,Broad-tailed Hummingbird (Adult Male) (2)
+335,Red Crossbill (Adult Male),Red Crossbill,Perching Birds,25,23,3,2,0.8846,0.9200,0.9020,0.9200,0.9600,White-faced Ibis (1)
+112,Clark's Grebe,Clark's Grebe,Grebes,38,37,7,1,0.8409,0.9737,0.9024,0.9737,0.9737,Ruddy Duck (Breeding male) (1)
+35,Common Loon (Breeding),Common Loon,Loons,60,51,2,9,0.9623,0.8500,0.9027,0.8500,0.9833,Common Loon (Nonbreeding/juvenile) (7)
+132,Swallow-tailed Kite,Swallow-tailed Kite,"Hawks, Kites, Eagles, and Allies",29,28,5,1,0.8485,0.9655,0.9032,0.9655,0.9655,Mississippi Kite (1)
+412,Nashville Warbler,Nashville Warbler,Perching Birds,60,56,8,4,0.8750,0.9333,0.9032,0.9333,0.9667,Orange-crowned Warbler (2)
+76,Pigeon Guillemot (Breeding),Pigeon Guillemot,Skuas and Alcids,42,42,9,0,0.8235,1.0000,0.9032,1.0000,1.0000,
+532,Yellow-headed Blackbird (Female/Immature Male),Yellow-headed Blackbird,Perching Birds,34,28,0,6,1.0000,0.8235,0.9032,0.8235,1.0000,Yellow-headed Blackbird (Adult Male) (3)
+391,Swainson's Thrush,Swainson's Thrush,Perching Birds,58,52,5,6,0.9123,0.8966,0.9043,0.8966,1.0000,Hermit Thrush (3)
+326,Brewer's Blackbird (Female/Juvenile),Brewer's Blackbird,Perching Birds,31,29,4,2,0.8788,0.9355,0.9062,0.9355,1.0000,Common Grackle (1)
+485,Yellow-throated Vireo,Yellow-throated Vireo,Perching Birds,38,34,3,4,0.9189,0.8947,0.9067,0.8947,1.0000,Tennessee Warbler (1)
+358,Chestnut-backed Chickadee,Chestnut-backed Chickadee,Perching Birds,54,54,11,0,0.8308,1.0000,0.9076,1.0000,1.0000,
+366,Bushtit,Bushtit,Perching Birds,60,59,11,1,0.8429,0.9833,0.9077,0.9833,0.9833,Black-headed Grosbeak (Female/immature male) (1)
+299,Snow Bunting (Breeding adult),Snow Bunting,Perching Birds,12,10,0,2,1.0000,0.8333,0.9091,0.8333,1.0000,Snow Bunting (Nonbreeding) (2)
+551,Summer Tanager (Immature Male),Summer Tanager,Perching Birds,17,15,1,2,0.9375,0.8824,0.9091,0.8824,1.0000,Summer Tanager (Female) (2)
+220,Blue-winged Teal (Female/juvenile),Blue-winged Teal,"Ducks, Geese, and Swans",17,15,1,2,0.9375,0.8824,0.9091,0.8824,1.0000,Blue-winged Teal (Male) (2)
+456,Common Grackle,Common Grackle,Perching Birds,58,56,9,2,0.8615,0.9655,0.9106,0.9655,1.0000,Northwestern Crow (1)
+442,Vesper Sparrow,Vesper Sparrow,Perching Birds,60,56,7,4,0.8889,0.9333,0.9106,0.9333,0.9667,Brewer's Sparrow (3)
+537,Baltimore Oriole (Female/Immature male),Baltimore Oriole,Perching Birds,48,46,7,2,0.8679,0.9583,0.9109,0.9583,1.0000,Baltimore Oriole (Adult male) (1)
+524,Rose-breasted Grosbeak (Female/immature male),Rose-breasted Grosbeak,Perching Birds,48,46,7,2,0.8679,0.9583,0.9109,0.9583,1.0000,Rose-breasted Grosbeak (Adult Male) (1)
+308,White-throated Sparrow (White-striped),White-throated Sparrow,Perching Birds,59,57,9,2,0.8636,0.9661,0.9120,0.9661,0.9661,White-throated Sparrow (Tan-striped/immature) (2)
+432,Spotted Towhee,Spotted Towhee,Perching Birds,60,52,2,8,0.9630,0.8667,0.9123,0.8667,0.9667,Eastern Towhee (6)
+509,Magnolia Warbler (Female/immature male),Magnolia Warbler,Perching Birds,45,42,5,3,0.8936,0.9333,0.9130,0.9333,1.0000,Magnolia Warbler (Breeding male) (1)
+78,Laughing Gull (Breeding),Laughing Gull,"Gulls, Terns, and Allies",59,58,10,1,0.8529,0.9831,0.9134,0.9831,1.0000,Laughing Gull (Nonbreeding/Immature) (1)
+496,Western Scrub-Jay,Western Scrub-Jay,Perching Birds,60,58,9,2,0.8657,0.9667,0.9134,0.9667,1.0000,Florida Scrub-Jay (2)
+241,Gambel's Quail (Female/juvenile),Gambel's Quail,"Grouse, Quail, and Allies",17,16,2,1,0.8889,0.9412,0.9143,0.9412,1.0000,California Quail (Female/juvenile) (1)
+477,Cassin's Kingbird,Cassin's Kingbird,Perching Birds,35,32,3,3,0.9143,0.9143,0.9143,0.9143,1.0000,Western Kingbird (3)
+248,Eared Grebe (Nonbreeding/juvenile),Eared Grebe,Grebes,38,32,0,6,1.0000,0.8421,0.9143,0.8421,1.0000,Horned Grebe (Nonbreeding/juvenile) (3)
+223,Northern Pintail (Female/Eclipse male),Northern Pintail,"Ducks, Geese, and Swans",24,22,2,2,0.9167,0.9167,0.9167,0.9167,1.0000,Northern Pintail (Breeding male) (2)
+70,Broad-tailed Hummingbird (Adult Male),Broad-tailed Hummingbird,Swifts and Hummingbirds,44,39,2,5,0.9512,0.8864,0.9176,0.8864,0.9545,Anna's Hummingbird (Adult Male) (2)
+34,Pacific Loon (Breeding),Pacific Loon,Loons,20,17,0,3,1.0000,0.8500,0.9189,0.8500,1.0000,Common Loon (Nonbreeding/juvenile) (2)
+246,Horned Grebe (Nonbreeding/juvenile),Horned Grebe,Grebes,60,57,7,3,0.8906,0.9500,0.9194,0.9500,0.9833,Horned Grebe (Breeding) (1)
+227,Ring-necked Duck (Female/Eclipse male),Ring-necked Duck,"Ducks, Geese, and Swans",24,23,3,1,0.8846,0.9583,0.9200,0.9583,1.0000,Redhead (Female/Eclipse male) (1)
+219,Mallard (Female/Eclipse male),Mallard,"Ducks, Geese, and Swans",60,58,8,2,0.8788,0.9667,0.9206,0.9667,1.0000,Mallard (Breeding male) (1)
+173,Yellow-billed Cuckoo,Yellow-billed Cuckoo,Cuckoos,47,47,8,0,0.8545,1.0000,0.9216,1.0000,1.0000,
+214,Snow Goose (Blue morph),Snow Goose,"Ducks, Geese, and Swans",28,24,0,4,1.0000,0.8571,0.9231,0.8571,1.0000,Snow Goose (White morph) (2)
+133,White-tailed Kite,White-tailed Kite,"Hawks, Kites, Eagles, and Allies",13,12,1,1,0.9231,0.9231,0.9231,0.9231,1.0000,Swallow-tailed Kite (1)
+426,Hermit Warbler,Hermit Warbler,Perching Birds,37,36,5,1,0.8780,0.9730,0.9231,0.9730,1.0000,Black-throated Green Warbler (1)
+534,Brown-headed Cowbird (Female/Juvenile),Brown-headed Cowbird,Perching Birds,49,48,7,1,0.8727,0.9796,0.9231,0.9796,1.0000,Gray Catbird (1)
+58,Common Gallinule (Adult),Common Gallinule,Cranes and Rails,49,49,8,0,0.8596,1.0000,0.9245,1.0000,1.0000,
+518,Golden-crowned Sparrow (Immature),Golden-crowned Sparrow,Perching Birds,60,56,5,4,0.9180,0.9333,0.9256,0.9333,1.0000,Golden-crowned Sparrow (Adult) (3)
+336,White-winged Crossbill (Adult Male),White-winged Crossbill,Perching Birds,20,19,2,1,0.9048,0.9500,0.9268,0.9500,1.0000,Red Crossbill (Adult Male) (1)
+238,Common Merganser (Female/immature male),Common Merganser,"Ducks, Geese, and Swans",42,38,2,4,0.9500,0.9048,0.9268,0.9048,1.0000,Red-breasted Merganser (Female/immature male) (3)
+139,Merlin,Merlin,Caracaras and Falcons,58,51,1,7,0.9808,0.8793,0.9273,0.8793,0.9655,Peregrine Falcon (Adult) (2)
+36,Horned Grebe (Breeding),Horned Grebe,Grebes,35,32,2,3,0.9412,0.9143,0.9275,0.9143,0.9714,Horned Grebe (Nonbreeding/juvenile) (2)
+311,Golden-crowned Sparrow (Adult),Golden-crowned Sparrow,Perching Birds,42,39,3,3,0.9286,0.9286,0.9286,0.9286,1.0000,Golden-crowned Sparrow (Immature) (2)
+16,Redhead (Breeding male),Redhead,"Ducks, Geese, and Swans",27,26,3,1,0.8966,0.9630,0.9286,0.9630,0.9630,Greater Scaup (Female/Eclipse male) (1)
+273,"Wilson's Phalarope (Nonbreeding, juvenile)",Wilson's Phalarope,"Plovers, Sandpipers, and Allies",28,26,2,2,0.9286,0.9286,0.9286,0.9286,1.0000,Wilson's Phalarope (Breeding) (2)
+376,House Wren,House Wren,Perching Birds,54,52,6,2,0.8966,0.9630,0.9286,0.9630,1.0000,Canyon Wren (1)
+433,Eastern Towhee,Eastern Towhee,Perching Birds,54,52,6,2,0.8966,0.9630,0.9286,0.9630,1.0000,Spotted Towhee (2)
+161,Least Sandpiper,Least Sandpiper,"Plovers, Sandpipers, and Allies",60,59,8,1,0.8806,0.9833,0.9291,0.9833,1.0000,Semipalmated Sandpiper (1)
+348,Tree Swallow,Tree Swallow,Perching Birds,56,53,5,3,0.9138,0.9464,0.9298,0.9464,0.9821,Yellow-billed Cuckoo (1)
+290,Dark-eyed Junco (Slate-colored),Dark-eyed Junco,Perching Birds,60,60,9,0,0.8696,1.0000,0.9302,1.0000,1.0000,
+517,White-crowned Sparrow (Immature),White-crowned Sparrow,Perching Birds,60,55,3,5,0.9483,0.9167,0.9322,0.9167,1.0000,Golden-crowned Sparrow (Immature) (3)
+392,Hermit Thrush,Hermit Thrush,Perching Birds,60,56,4,4,0.9333,0.9333,0.9333,0.9333,0.9833,Swainson's Thrush (3)
+401,American Pipit,American Pipit,Perching Birds,58,56,6,2,0.9032,0.9655,0.9333,0.9655,1.0000,Solitary Sandpiper (1)
+239,Red-breasted Merganser (Female/immature male),Red-breasted Merganser,"Ducks, Geese, and Swans",44,42,4,2,0.9130,0.9545,0.9333,0.9545,1.0000,Common Merganser (Female/immature male) (2)
+198,Nuttall's Woodpecker,Nuttall's Woodpecker,Woodpeckers,45,42,3,3,0.9333,0.9333,0.9333,0.9333,1.0000,Hairy Woodpecker (2)
+285,Common Eider (Immature/Eclipse male),Common Eider,"Ducks, Geese, and Swans",22,21,2,1,0.9130,0.9545,0.9333,0.9545,1.0000,Common Eider (Female/juvenile) (1)
+478,Western Kingbird,Western Kingbird,Perching Birds,52,49,4,3,0.9245,0.9423,0.9333,0.9423,1.0000,Cassin's Kingbird (1)
+293,Fox Sparrow (Red),Fox Sparrow,Perching Birds,60,57,5,3,0.9194,0.9500,0.9344,0.9500,1.0000,Fox Sparrow (Sooty) (3)
+545,American Goldfinch (Female/Nonbreeding Male),American Goldfinch,Perching Birds,60,57,5,3,0.9194,0.9500,0.9344,0.9500,0.9833,Tennessee Warbler (1)
+512,Blackpoll Warbler (Female/juvenile),Blackpoll Warbler,Perching Birds,60,58,6,2,0.9062,0.9667,0.9355,0.9667,1.0000,Tennessee Warbler (2)
+97,Canada Goose,Canada Goose,"Ducks, Geese, and Swans",31,29,2,2,0.9355,0.9355,0.9355,0.9355,0.9355,Black Scoter (Male) (1)
+514,Lark Bunting (Female/Nonbreeding male),Lark Bunting,Perching Birds,32,29,1,3,0.9667,0.9062,0.9355,0.9062,0.9688,Vesper Sparrow (2)
+449,Dark-eyed Junco (Pink-sided),Dark-eyed Junco,Perching Birds,31,29,2,2,0.9355,0.9355,0.9355,0.9355,1.0000,Dark-eyed Junco (Oregon) (2)
+421,Pine Warbler,Pine Warbler,Perching Birds,48,44,2,4,0.9565,0.9167,0.9362,0.9167,0.9583,Brandt's Cormorant (1)
+363,Tufted Titmouse,Tufted Titmouse,Perching Birds,60,59,7,1,0.8939,0.9833,0.9365,0.9833,1.0000,Black-crested Titmouse (1)
+454,Western Meadowlark,Western Meadowlark,Perching Birds,60,59,7,1,0.8939,0.9833,0.9365,0.9833,1.0000,Eastern Meadowlark (1)
+117,Anhinga,Anhinga,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",60,59,7,1,0.8939,0.9833,0.9365,0.9833,1.0000,Double-crested Cormorant (Adult) (1)
+21,Surf Scoter (Male),Surf Scoter,"Ducks, Geese, and Swans",37,37,5,0,0.8810,1.0000,0.9367,1.0000,1.0000,
+319,Blue Grosbeak (Adult Male),Blue Grosbeak,Perching Birds,58,52,1,6,0.9811,0.8966,0.9369,0.8966,1.0000,Blue Grosbeak (Female/juvenile) (3)
+291,Yellow-rumped Warbler (Breeding Myrtle),Yellow-rumped Warbler,Perching Birds,59,53,1,6,0.9815,0.8983,0.9381,0.8983,0.9661,Yellow-rumped Warbler (Winter/juvenile Myrtle) (6)
+122,Snowy Egret,Snowy Egret,"Pelicans, Herons, Ibises, and Allies",49,46,3,3,0.9388,0.9388,0.9388,0.9388,1.0000,Little Blue Heron (Immature) (2)
+81,Western Gull (Adult),Western Gull,"Gulls, Terns, and Allies",33,31,2,2,0.9394,0.9394,0.9394,0.9394,1.0000,Herring Gull (Adult) (1)
+388,Mountain Bluebird,Mountain Bluebird,Perching Birds,49,47,4,2,0.9216,0.9592,0.9400,0.9592,1.0000,Blue Grosbeak (Adult Male) (1)
+85,Great Black-backed Gull (Adult),Great Black-backed Gull,"Gulls, Terns, and Allies",41,40,4,1,0.9091,0.9756,0.9412,0.9756,1.0000,Great Black-backed Gull (Immature) (1)
+271,Sanderling (Nonbreeding/juvenile),Sanderling,"Plovers, Sandpipers, and Allies",49,48,5,1,0.9057,0.9796,0.9412,0.9796,0.9796,Semipalmated Sandpiper (1)
+313,Chipping Sparrow (Breeding),Chipping Sparrow,Perching Birds,60,56,3,4,0.9492,0.9333,0.9412,0.9333,0.9833,Chipping Sparrow (Immature/nonbreeding adult) (3)
+418,Blackburnian Warbler,Blackburnian Warbler,Perching Birds,51,48,3,3,0.9412,0.9412,0.9412,0.9412,0.9804,Tennessee Warbler (1)
+38,Eared Grebe (Breeding),Eared Grebe,Grebes,42,40,3,2,0.9302,0.9524,0.9412,0.9524,1.0000,Redhead (Breeding male) (1)
+151,Willet,Willet,"Plovers, Sandpipers, and Allies",60,57,4,3,0.9344,0.9500,0.9421,0.9500,1.0000,Whimbrel (1)
+548,"Vermilion Flycatcher (Female, immature)",Vermilion Flycatcher,Perching Birds,36,33,1,3,0.9706,0.9167,0.9429,0.9167,0.9722,Northern Flicker (Yellow-shafted) (1)
+74,Northern Flicker (Yellow-shafted),Northern Flicker,Woodpeckers,59,58,6,1,0.9062,0.9831,0.9431,0.9831,1.0000,Northern Flicker (Red-shafted) (1)
+507,Common Yellowthroat (Female/immature male),Common Yellowthroat,Perching Birds,60,58,5,2,0.9206,0.9667,0.9431,0.9667,1.0000,Common Yellowthroat (Adult Male) (2)
+541,House Finch (Female/immature),House Finch,Perching Birds,52,50,4,2,0.9259,0.9615,0.9434,0.9615,1.0000,House Finch (Adult Male) (1)
+500,Yellow-billed Magpie,Yellow-billed Magpie,Perching Birds,27,25,1,2,0.9615,0.9259,0.9434,0.9259,1.0000,Black-billed Magpie (2)
+101,American Black Duck,American Black Duck,"Ducks, Geese, and Swans",37,34,1,3,0.9714,0.9189,0.9444,0.9189,1.0000,Mottled Duck (3)
+43,Reddish Egret (Dark morph),Reddish Egret,"Pelicans, Herons, Ibises, and Allies",52,51,5,1,0.9107,0.9808,0.9444,0.9808,1.0000,Tricolored Heron (1)
+7,Gadwall (Breeding male),Gadwall,"Ducks, Geese, and Swans",56,52,2,4,0.9630,0.9286,0.9455,0.9286,0.9643,Gadwall (Female/Eclipse male) (2)
+315,Western Tanager (Breeding Male),Western Tanager,Perching Birds,53,52,5,1,0.9123,0.9811,0.9455,0.9811,1.0000,Western Tanager (Female/Nonbreeding Male) (1)
+369,Pygmy Nuthatch,Pygmy Nuthatch,Perching Birds,38,35,1,3,0.9722,0.9211,0.9459,0.9211,0.9737,Bushtit (2)
+284,Northern Flicker (Red-shafted),Northern Flicker,Woodpeckers,59,54,1,5,0.9818,0.9153,0.9474,0.9153,1.0000,Northern Flicker (Yellow-shafted) (5)
+225,Canvasback (Female/Eclipse male),Canvasback,"Ducks, Geese, and Swans",29,27,1,2,0.9643,0.9310,0.9474,0.9310,1.0000,Canvasback (Breeding male) (1)
+389,Townsend's Solitaire,Townsend's Solitaire,Perching Birds,37,36,3,1,0.9231,0.9730,0.9474,0.9730,1.0000,American Robin (Juvenile) (1)
+406,Northern Waterthrush,Northern Waterthrush,Perching Birds,56,54,4,2,0.9310,0.9643,0.9474,0.9643,0.9821,Yellow-rumped Warbler (Winter/juvenile Myrtle) (1)
+430,Yellow-breasted Chat,Yellow-breasted Chat,Perching Birds,60,55,1,5,0.9821,0.9167,0.9483,0.9167,0.9833,Yellow-rumped Warbler (Winter/juvenile Audubon's) (2)
+255,Yellow-crowned Night-Heron (Immature),Yellow-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",39,37,2,2,0.9487,0.9487,0.9487,0.9487,1.0000,Yellow-crowned Night-Heron (Adult) (1)
+188,White-throated Swift,White-throated Swift,Swifts and Hummingbirds,40,37,1,3,0.9737,0.9250,0.9487,0.9250,1.0000,American Wigeon (Breeding male) (1)
+417,Northern Parula,Northern Parula,Perching Birds,60,56,2,4,0.9655,0.9333,0.9492,0.9333,0.9667,Veery (1)
+408,Black-and-white Warbler,Black-and-white Warbler,Perching Birds,60,56,2,4,0.9655,0.9333,0.9492,0.9333,1.0000,Blackpoll Warbler (Breeding male) (2)
+427,Black-throated Green Warbler,Black-throated Green Warbler,Perching Birds,60,56,2,4,0.9655,0.9333,0.9492,0.9333,0.9833,Hermit Warbler (3)
+411,Orange-crowned Warbler,Orange-crowned Warbler,Perching Birds,58,56,4,2,0.9333,0.9655,0.9492,0.9655,1.0000,Tennessee Warbler (1)
+423,Prairie Warbler,Prairie Warbler,Perching Birds,60,56,2,4,0.9655,0.9333,0.9492,0.9333,1.0000,Tennessee Warbler (1)
+424,Black-throated Gray Warbler,Black-throated Gray Warbler,Perching Birds,41,38,1,3,0.9744,0.9268,0.9500,0.9268,0.9756,Northern Mockingbird (1)
+434,Rufous-crowned Sparrow,Rufous-crowned Sparrow,Perching Birds,41,38,1,3,0.9744,0.9268,0.9500,0.9268,1.0000,Canyon Towhee (1)
+64,Broad-billed Hummingbird (Adult Male),Broad-billed Hummingbird,Swifts and Hummingbirds,49,48,4,1,0.9231,0.9796,0.9505,0.9796,1.0000,"Broad-billed Hummingbird (Female, immature) (1)"
+337,Lesser Goldfinch (Adult Male),Lesser Goldfinch,Perching Birds,59,58,5,1,0.9206,0.9831,0.9508,0.9831,0.9831,American Goldfinch (Breeding Male) (1)
+529,Painted Bunting (Female/juvenile),Painted Bunting,Perching Birds,39,39,4,0,0.9070,1.0000,0.9512,1.0000,1.0000,
+12,Northern Shoveler (Breeding male),Northern Shoveler,"Ducks, Geese, and Swans",60,59,5,1,0.9219,0.9833,0.9516,0.9833,1.0000,Northern Shoveler (Female/Eclipse male) (1)
+482,Northern Shrike,Northern Shrike,Perching Birds,60,59,5,1,0.9219,0.9833,0.9516,0.9833,1.0000,Loggerhead Shrike (1)
+328,Hooded Oriole (Adult male),Hooded Oriole,Perching Birds,43,40,1,3,0.9756,0.9302,0.9524,0.9302,1.0000,Orchard Oriole (Immature Male) (2)
+321,Indigo Bunting (Adult Male),Indigo Bunting,Perching Birds,60,60,6,0,0.9091,1.0000,0.9524,1.0000,1.0000,
+405,Louisiana Waterthrush,Louisiana Waterthrush,Perching Birds,42,40,2,2,0.9524,0.9524,0.9524,0.9524,1.0000,Northern Waterthrush (2)
+304,Chestnut-sided Warbler (Breeding male),Chestnut-sided Warbler,Perching Birds,60,60,6,0,0.9091,1.0000,0.9524,1.0000,1.0000,
+10,Blue-winged Teal (Male),Blue-winged Teal,"Ducks, Geese, and Swans",42,41,3,1,0.9318,0.9762,0.9535,0.9762,1.0000,Blue-winged Teal (Female/juvenile) (1)
+206,Heermann's Gull (Immature),Heermann's Gull,"Gulls, Terns, and Allies",22,21,1,1,0.9545,0.9545,0.9545,0.9545,0.9545,Mississippi Kite (1)
+135,Harris's Hawk,Harris's Hawk,"Hawks, Kites, Eagles, and Allies",43,42,3,1,0.9333,0.9767,0.9545,0.9767,1.0000,Swainson's Hawk (Dark morph ) (1)
+149,Solitary Sandpiper,Solitary Sandpiper,"Plovers, Sandpipers, and Allies",56,53,2,3,0.9636,0.9464,0.9550,0.9464,0.9821,Lesser Yellowlegs (1)
+86,Bonaparte's Gull,Bonaparte's Gull,"Gulls, Terns, and Allies",58,55,2,3,0.9649,0.9483,0.9565,0.9483,1.0000,Black-legged Kittiwake (Immature) (3)
+168,White-winged Dove,White-winged Dove,Pigeons and Doves,57,55,3,2,0.9483,0.9649,0.9565,0.9649,1.0000,Mississippi Kite (1)
+380,Blue-gray Gnatcatcher,Blue-gray Gnatcatcher,Perching Birds,60,55,0,5,1.0000,0.9167,0.9565,0.9167,0.9833,Black-tailed Gnatcatcher (5)
+283,Red-headed Woodpecker (Immature),Red-headed Woodpecker,Woodpeckers,35,33,1,2,0.9706,0.9429,0.9565,0.9429,1.0000,Red-headed Woodpecker (Adult) (2)
+387,Western Bluebird,Western Bluebird,Perching Birds,59,56,2,3,0.9655,0.9492,0.9573,0.9492,0.9831,Mountain Bluebird (3)
+547,House Sparrow (Female/Juvenile),House Sparrow,Perching Birds,57,56,4,1,0.9333,0.9825,0.9573,0.9825,1.0000,Bushtit (1)
+439,Clay-colored Sparrow,Clay-colored Sparrow,Perching Birds,60,56,1,4,0.9825,0.9333,0.9573,0.9333,1.0000,Savannah Sparrow (2)
+320,Lazuli Bunting (Adult Male),Lazuli Bunting,Perching Birds,46,45,3,1,0.9375,0.9783,0.9574,0.9783,1.0000,Indigo Bunting (Adult Male) (1)
+272,Dunlin (Nonbreeding/juvenile),Dunlin,"Plovers, Sandpipers, and Allies",58,57,4,1,0.9344,0.9828,0.9580,0.9828,0.9828,Spotted Sandpiper (Nonbreeding/juvenile) (1)
+447,Lincoln's Sparrow,Lincoln's Sparrow,Perching Birds,60,57,2,3,0.9661,0.9500,0.9580,0.9500,1.0000,Vesper Sparrow (2)
+481,Loggerhead Shrike,Loggerhead Shrike,Perching Birds,60,57,2,3,0.9661,0.9500,0.9580,0.9500,1.0000,Northern Shrike (3)
+379,Marsh Wren,Marsh Wren,Perching Birds,60,57,2,3,0.9661,0.9500,0.9580,0.9500,0.9667,American Goldfinch (Breeding Male) (1)
+419,Yellow Warbler,Yellow Warbler,Perching Birds,60,57,2,3,0.9661,0.9500,0.9580,0.9500,0.9833,Palm Warbler (1)
+444,Savannah Sparrow,Savannah Sparrow,Perching Birds,60,58,3,2,0.9508,0.9667,0.9587,0.9667,1.0000,Vesper Sparrow (2)
+384,Ruby-crowned Kinglet,Ruby-crowned Kinglet,Perching Birds,60,59,4,1,0.9365,0.9833,0.9593,0.9833,1.0000,Hutton's Vireo (1)
+472,Black Phoebe,Black Phoebe,Perching Birds,60,60,5,0,0.9231,1.0000,0.9600,1.0000,1.0000,
+197,Ladder-backed Woodpecker,Ladder-backed Woodpecker,Woodpeckers,50,48,2,2,0.9600,0.9600,0.9600,0.9600,1.0000,Nuttall's Woodpecker (2)
+499,Black-billed Magpie,Black-billed Magpie,Perching Birds,38,37,2,1,0.9487,0.9737,0.9610,0.9737,1.0000,Yellow-billed Magpie (1)
+153,Whimbrel,Whimbrel,"Plovers, Sandpipers, and Allies",51,50,3,1,0.9434,0.9804,0.9615,0.9804,1.0000,Long-billed Curlew (1)
+492,Gray Jay,Gray Jay,Perching Birds,54,50,0,4,1.0000,0.9259,0.9615,0.9259,0.9630,Townsend's Solitaire (3)
+476,Great Crested Flycatcher,Great Crested Flycatcher,Perching Birds,53,51,2,2,0.9623,0.9623,0.9623,0.9623,1.0000,Ash-throated Flycatcher (2)
+254,Black-crowned Night-Heron (Immature),Black-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",54,51,1,3,0.9808,0.9444,0.9623,0.9444,1.0000,Yellow-crowned Night-Heron (Immature) (2)
+475,Ash-throated Flycatcher,Ash-throated Flycatcher,Perching Birds,41,40,2,1,0.9524,0.9756,0.9639,0.9756,1.0000,Eastern Phoebe (1)
+57,Purple Gallinule (Adult),Purple Gallinule,Cranes and Rails,40,40,3,0,0.9302,1.0000,0.9639,1.0000,1.0000,
+13,Northern Pintail (Breeding male),Northern Pintail,"Ducks, Geese, and Swans",42,41,2,1,0.9535,0.9762,0.9647,0.9762,1.0000,Green-winged Teal (Male) (1)
+109,Wild Turkey,Wild Turkey,"Grouse, Quail, and Allies",60,56,0,4,1.0000,0.9333,0.9655,0.9333,0.9833,Ring-necked Pheasant (Female/juvenile) (3)
+431,Green-tailed Towhee,Green-tailed Towhee,Perching Birds,28,28,2,0,0.9333,1.0000,0.9655,1.0000,1.0000,
+437,Abert's Towhee,Abert's Towhee,Perching Birds,29,28,1,1,0.9655,0.9655,0.9655,0.9655,1.0000,Canyon Towhee (1)
+141,American Coot,American Coot,Cranes and Rails,60,56,0,4,1.0000,0.9333,0.9655,0.9333,1.0000,Common Gallinule (Adult) (4)
+340,House Sparrow (Male),House Sparrow,Perching Birds,59,56,1,3,0.9825,0.9492,0.9655,0.9492,1.0000,House Sparrow (Female/Juvenile) (3)
+196,Red-breasted Sapsucker,Red-breasted Sapsucker,Woodpeckers,42,42,3,0,0.9333,1.0000,0.9655,1.0000,1.0000,
+42,Little Blue Heron (Adult),Little Blue Heron,"Pelicans, Herons, Ibises, and Allies",60,57,1,3,0.9828,0.9500,0.9661,0.9500,0.9833,Reddish Egret (Dark morph) (2)
+39,"Northern Gannet (Adult, Subadult)",Northern Gannet,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",60,57,1,3,0.9828,0.9500,0.9661,0.9500,0.9833,Northern Gannet (Immature/Juvenile) (2)
+169,Mourning Dove,Mourning Dove,Pigeons and Doves,60,57,1,3,0.9828,0.9500,0.9661,0.9500,1.0000,American Kestrel (Adult male) (1)
+120,Great Blue Heron,Great Blue Heron,"Pelicans, Herons, Ibises, and Allies",60,57,1,3,0.9828,0.9500,0.9661,0.9500,0.9667,Anhinga (1)
+393,Wood Thrush,Wood Thrush,Perching Birds,46,43,0,3,1.0000,0.9348,0.9663,0.9348,1.0000,Veery (1)
+479,Eastern Kingbird,Eastern Kingbird,Perching Birds,60,58,2,2,0.9667,0.9667,0.9667,0.9667,1.0000,Cassin's Kingbird (1)
+73,Red-headed Woodpecker (Adult),Red-headed Woodpecker,Woodpeckers,59,58,3,1,0.9508,0.9831,0.9667,0.9831,1.0000,Red-headed Woodpecker (Immature) (1)
+504,American Robin (Juvenile),American Robin,Perching Birds,60,58,2,2,0.9667,0.9667,0.9667,0.9667,0.9833,Ruffed Grouse (1)
+490,Warbling Vireo,Warbling Vireo,Perching Birds,60,58,2,2,0.9667,0.9667,0.9667,0.9667,1.0000,Tennessee Warbler (1)
+9,Mallard (Breeding male),Mallard,"Ducks, Geese, and Swans",60,58,2,2,0.9667,0.9667,0.9667,0.9667,1.0000,Redhead (Breeding male) (1)
+216,Wood Duck (Female/Eclipse male),Wood Duck,"Ducks, Geese, and Swans",46,44,1,2,0.9778,0.9565,0.9670,0.9565,1.0000,Mallard (Female/Eclipse male) (1)
+121,Great Egret,Great Egret,"Pelicans, Herons, Ibises, and Allies",60,59,3,1,0.9516,0.9833,0.9672,0.9833,1.0000,Cattle Egret (1)
+47,"Bald Eagle (Adult, subadult)",Bald Eagle,"Hawks, Kites, Eagles, and Allies",60,59,3,1,0.9516,0.9833,0.9672,0.9833,0.9833,"Bald Eagle (Immature, juvenile) (1)"
+395,Gray Catbird,Gray Catbird,Perching Birds,60,59,3,1,0.9516,0.9833,0.9672,0.9833,0.9833,House Wren (1)
+55,American Kestrel (Adult male),American Kestrel,Caracaras and Falcons,60,60,4,0,0.9375,1.0000,0.9677,1.0000,1.0000,
+365,Verdin,Verdin,Perching Birds,32,30,0,2,1.0000,0.9375,0.9677,0.9375,1.0000,Oak Titmouse (1)
+1,Long-tailed Duck (Winter male),Long-tailed Duck,"Ducks, Geese, and Swans",30,30,2,0,0.9375,1.0000,0.9677,1.0000,1.0000,
+409,Prothonotary Warbler,Prothonotary Warbler,Perching Birds,46,46,3,0,0.9388,1.0000,0.9684,1.0000,1.0000,
+146,Black Oystercatcher,Black Oystercatcher,"Plovers, Sandpipers, and Allies",49,46,0,3,1.0000,0.9388,0.9684,0.9388,0.9796,Spotted Sandpiper (Breeding) (2)
+270,Spotted Sandpiper (Nonbreeding/juvenile),Spotted Sandpiper,"Plovers, Sandpipers, and Allies",47,46,2,1,0.9583,0.9787,0.9684,0.9787,1.0000,Spotted Sandpiper (Breeding) (1)
+331,Pine Grosbeak (Adult Male),Pine Grosbeak,Perching Birds,33,31,0,2,1.0000,0.9394,0.9688,0.9394,1.0000,White-winged Crossbill (Adult Male) (2)
+192,Golden-fronted Woodpecker,Golden-fronted Woodpecker,Woodpeckers,33,31,0,2,1.0000,0.9394,0.9688,0.9394,1.0000,Gila Woodpecker (2)
+312,Dark-eyed Junco (Oregon),Dark-eyed Junco,Perching Birds,49,48,2,1,0.9600,0.9796,0.9697,0.9796,1.0000,Dark-eyed Junco (Slate-colored) (1)
+325,Yellow-headed Blackbird (Adult Male),Yellow-headed Blackbird,Perching Birds,49,49,3,0,0.9423,1.0000,0.9703,1.0000,1.0000,
+191,Gila Woodpecker,Gila Woodpecker,Woodpeckers,50,49,2,1,0.9608,0.9800,0.9703,0.9800,0.9800,Broad-billed Hummingbird (Adult Male) (1)
+329,Bullock's Oriole (Adult male),Bullock's Oriole,Perching Birds,51,50,2,1,0.9615,0.9804,0.9709,0.9804,0.9804,"Ruby-throated Hummingbird (Female, immature) (1)"
+171,Common Ground-Dove,Common Ground-Dove,Pigeons and Doves,35,34,1,1,0.9714,0.9714,0.9714,0.9714,1.0000,Green-tailed Towhee (1)
+176,Barn Owl,Barn Owl,Owls,52,51,2,1,0.9623,0.9808,0.9714,0.9808,1.0000,Fox Sparrow (Sooty) (1)
+154,Long-billed Curlew,Long-billed Curlew,"Plovers, Sandpipers, and Allies",53,51,1,2,0.9808,0.9623,0.9714,0.9623,1.0000,Whimbrel (2)
+506,Snow Bunting (Nonbreeding),Snow Bunting,Perching Birds,52,51,2,1,0.9623,0.9808,0.9714,0.9808,0.9808,Pacific-slope Flycatcher (1)
+549,European Starling (Juvenile),European Starling,Perching Birds,35,34,1,1,0.9714,0.9714,0.9714,0.9714,1.0000,European Starling (Nonbreeding Adult) (1)
+296,Purple Martin (Adult male),Purple Martin,Perching Birds,35,34,1,1,0.9714,0.9714,0.9714,0.9714,1.0000,Purple Martin (Female/juvenile) (1)
+60,Spotted Sandpiper (Breeding),Spotted Sandpiper,"Plovers, Sandpipers, and Allies",51,51,3,0,0.9444,1.0000,0.9714,1.0000,1.0000,
+59,Black-bellied Plover (Breeding),Black-bellied Plover,"Plovers, Sandpipers, and Allies",35,34,1,1,0.9714,0.9714,0.9714,0.9714,1.0000,Black-bellied Plover (Nonbreeding/juvenile) (1)
+63,Wilson's Phalarope (Breeding),Wilson's Phalarope,"Plovers, Sandpipers, and Allies",53,52,2,1,0.9630,0.9811,0.9720,0.9811,1.0000,"Wilson's Phalarope (Nonbreeding, juvenile) (1)"
+138,Crested Caracara,Crested Caracara,Caracaras and Falcons,54,52,1,2,0.9811,0.9630,0.9720,0.9630,0.9815,Fish Crow (1)
+357,Mountain Chickadee,Mountain Chickadee,Perching Birds,53,53,3,0,0.9464,1.0000,0.9725,1.0000,1.0000,
+106,Scaled Quail,Scaled Quail,"Grouse, Quail, and Allies",19,18,0,1,1.0000,0.9474,0.9730,0.9474,1.0000,California Quail (Female/juvenile) (1)
+218,American Wigeon (Female/Eclipse male),American Wigeon,"Ducks, Geese, and Swans",19,18,0,1,1.0000,0.9474,0.9730,0.9474,1.0000,Northern Pintail (Female/Eclipse male) (1)
+333,Cassin's Finch (Adult Male),Cassin's Finch,Perching Birds,38,36,0,2,1.0000,0.9474,0.9730,0.9474,1.0000,Purple Finch (Adult Male) (1)
+474,Say's Phoebe,Say's Phoebe,Perching Birds,58,56,1,2,0.9825,0.9655,0.9739,0.9655,1.0000,Cassin's Kingbird (1)
+483,White-eyed Vireo,White-eyed Vireo,Perching Birds,57,56,2,1,0.9655,0.9825,0.9739,0.9825,1.0000,Cassin's Vireo (1)
+508,American Redstart (Female/juvenile),American Redstart,Perching Birds,59,57,1,2,0.9828,0.9661,0.9744,0.9661,0.9831,American Redstart (Adult Male) (1)
+422,Yellow-throated Warbler,Yellow-throated Warbler,Perching Birds,60,57,0,3,1.0000,0.9500,0.9744,0.9500,0.9667,Black-and-white Warbler (1)
+330,Baltimore Oriole (Adult male),Baltimore Oriole,Perching Birds,59,57,1,2,0.9828,0.9661,0.9744,0.9661,1.0000,Bullock's Oriole (Adult male) (1)
+2,Ruddy Duck (Breeding male),Ruddy Duck,"Ducks, Geese, and Swans",38,38,2,0,0.9500,1.0000,0.9744,1.0000,1.0000,
+425,Townsend's Warbler,Townsend's Warbler,Perching Birds,60,57,0,3,1.0000,0.9500,0.9744,0.9500,1.0000,Cape May Warbler (1)
+167,Eurasian Collared-Dove,Eurasian Collared-Dove,Pigeons and Doves,59,58,2,1,0.9667,0.9831,0.9748,0.9831,1.0000,White-winged Dove (1)
+386,Eastern Bluebird,Eastern Bluebird,Perching Birds,60,58,1,2,0.9831,0.9667,0.9748,0.9667,1.0000,Western Bluebird (2)
+318,Black-headed Grosbeak (Adult Male),Black-headed Grosbeak,Perching Birds,58,58,3,0,0.9508,1.0000,0.9748,1.0000,1.0000,
+46,White Ibis (Adult),White Ibis,"Pelicans, Herons, Ibises, and Allies",58,58,3,0,0.9508,1.0000,0.9748,1.0000,1.0000,
+302,Magnolia Warbler (Breeding male),Magnolia Warbler,Perching Birds,60,58,1,2,0.9831,0.9667,0.9748,0.9667,1.0000,Nashville Warbler (1)
+347,Horned Lark,Horned Lark,Perching Birds,60,58,1,2,0.9831,0.9667,0.9748,0.9667,0.9833,American Pipit (1)
+158,Surfbird,Surfbird,"Plovers, Sandpipers, and Allies",40,39,1,1,0.9750,0.9750,0.9750,0.9750,1.0000,Black-bellied Plover (Breeding) (1)
+334,House Finch (Adult Male),House Finch,Perching Birds,60,59,2,1,0.9672,0.9833,0.9752,0.9833,1.0000,Purple Finch (Adult Male) (1)
+396,Northern Mockingbird,Northern Mockingbird,Perching Birds,60,59,2,1,0.9672,0.9833,0.9752,0.9833,1.0000,"Anna's Hummingbird (Female, immature) (1)"
+297,American Robin (Adult),American Robin,Perching Birds,59,59,3,0,0.9516,1.0000,0.9752,1.0000,1.0000,
+491,Red-eyed Vireo,Red-eyed Vireo,Perching Birds,60,59,2,1,0.9672,0.9833,0.9752,0.9833,1.0000,Northern Waterthrush (1)
+448,Swamp Sparrow,Swamp Sparrow,Perching Birds,60,59,2,1,0.9672,0.9833,0.9752,0.9833,1.0000,Lincoln's Sparrow (1)
+429,Wilson's Warbler,Wilson's Warbler,Perching Birds,60,60,3,0,0.9524,1.0000,0.9756,1.0000,1.0000,
+14,Green-winged Teal (Male),Green-winged Teal,"Ducks, Geese, and Swans",41,41,2,0,0.9535,1.0000,0.9762,1.0000,1.0000,
+390,Veery,Veery,Perching Birds,41,41,2,0,0.9535,1.0000,0.9762,1.0000,1.0000,
+29,Red-breasted Merganser (Breeding male),Red-breasted Merganser,"Ducks, Geese, and Swans",41,41,2,0,0.9535,1.0000,0.9762,1.0000,1.0000,
+15,Canvasback (Breeding male),Canvasback,"Ducks, Geese, and Swans",43,42,1,1,0.9767,0.9767,0.9767,0.9767,1.0000,Redhead (Breeding male) (1)
+305,Blackpoll Warbler (Breeding male),Blackpoll Warbler,Perching Birds,43,43,2,0,0.9556,1.0000,0.9773,1.0000,1.0000,
+180,Snowy Owl,Snowy Owl,Owls,46,44,0,2,1.0000,0.9565,0.9778,0.9565,0.9565,Royal Tern (1)
+498,Clark's Nutcracker,Clark's Nutcracker,Perching Birds,46,45,1,1,0.9783,0.9783,0.9783,0.9783,1.0000,"Northern Gannet (Adult, Subadult) (1)"
+157,Black Turnstone,Black Turnstone,"Plovers, Sandpipers, and Allies",47,45,0,2,1.0000,0.9574,0.9783,0.9574,1.0000,Ruddy Turnstone (2)
+179,Great Horned Owl,Great Horned Owl,Owls,46,45,1,1,0.9783,0.9783,0.9783,0.9783,0.9783,American Kestrel (Adult male) (1)
+415,Hooded Warbler,Hooded Warbler,Perching Birds,49,47,0,2,1.0000,0.9592,0.9792,0.9592,1.0000,Wilson's Warbler (2)
+145,American Oystercatcher,American Oystercatcher,"Plovers, Sandpipers, and Allies",49,47,0,2,1.0000,0.9592,0.9792,0.9592,0.9592,Least Sandpiper (1)
+142,Sandhill Crane,Sandhill Crane,Cranes and Rails,25,24,0,1,1.0000,0.9600,0.9796,0.9600,0.9600,Wood Stork (1)
+124,Cattle Egret,Cattle Egret,"Pelicans, Herons, Ibises, and Allies",49,48,1,1,0.9796,0.9796,0.9796,0.9796,1.0000,Little Blue Heron (Immature) (1)
+170,Inca Dove,Inca Dove,Pigeons and Doves,50,48,0,2,1.0000,0.9600,0.9796,0.9600,0.9800,Eurasian Collared-Dove (1)
+131,Osprey,Osprey,"Hawks, Kites, Eagles, and Allies",52,52,2,0,0.9630,1.0000,0.9811,1.0000,1.0000,
+373,Canyon Wren,Canyon Wren,Perching Birds,26,26,1,0,0.9630,1.0000,0.9811,1.0000,1.0000,
+332,Purple Finch (Adult Male),Purple Finch,Perching Birds,52,52,2,0,0.9630,1.0000,0.9811,1.0000,1.0000,
+118,American White Pelican,American White Pelican,"Pelicans, Herons, Ibises, and Allies",28,27,0,1,1.0000,0.9643,0.9818,0.9643,0.9643,Mississippi Kite (1)
+156,Ruddy Turnstone,Ruddy Turnstone,"Plovers, Sandpipers, and Allies",55,55,2,0,0.9649,1.0000,0.9821,1.0000,1.0000,
+265,"American Kestrel (Female, immature)",American Kestrel,Caracaras and Falcons,55,55,2,0,0.9649,1.0000,0.9821,1.0000,1.0000,
+30,California Quail (Male),California Quail,"Grouse, Quail, and Allies",56,56,2,0,0.9655,1.0000,0.9825,1.0000,1.0000,
+113,Wood Stork,Wood Stork,Storks,56,56,2,0,0.9655,1.0000,0.9825,1.0000,1.0000,
+183,Barred Owl,Barred Owl,Owls,60,58,0,2,1.0000,0.9667,0.9831,0.9667,1.0000,Eastern Screech-Owl (2)
+368,White-breasted Nuthatch,White-breasted Nuthatch,Perching Birds,60,58,0,2,1.0000,0.9667,0.9831,0.9667,1.0000,Black-tailed Gnatcatcher (1)
+523,Northern Cardinal (Female/Juvenile),Northern Cardinal,Perching Birds,60,59,1,1,0.9833,0.9833,0.9833,0.9833,1.0000,Pyrrhuloxia (1)
+466,Pine Siskin,Pine Siskin,Perching Birds,60,59,1,1,0.9833,0.9833,0.9833,0.9833,0.9833,Hoary Redpoll (1)
+45,Yellow-crowned Night-Heron (Adult),Yellow-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",60,59,1,1,0.9833,0.9833,0.9833,0.9833,1.0000,Black-crowned Night-Heron (Adult) (1)
+324,Red-winged Blackbird (Male),Red-winged Blackbird,Perching Birds,59,59,2,0,0.9672,1.0000,0.9833,1.0000,1.0000,
+493,Steller's Jay,Steller's Jay,Perching Birds,60,59,1,1,0.9833,0.9833,0.9833,0.9833,1.0000,Florida Scrub-Jay (1)
+123,Tricolored Heron,Tricolored Heron,"Pelicans, Herons, Ibises, and Allies",60,59,1,1,0.9833,0.9833,0.9833,0.9833,1.0000,Green Heron (1)
+446,Song Sparrow,Song Sparrow,Perching Birds,60,59,1,1,0.9833,0.9833,0.9833,0.9833,1.0000,Lincoln's Sparrow (1)
+338,American Goldfinch (Breeding Male),American Goldfinch,Perching Birds,60,60,2,0,0.9677,1.0000,0.9836,1.0000,1.0000,
+360,Bridled Titmouse,Bridled Titmouse,Perching Birds,31,30,0,1,1.0000,0.9677,0.9836,0.9677,1.0000,Mountain Chickadee (1)
+300,Common Yellowthroat (Adult Male),Common Yellowthroat,Perching Birds,60,60,2,0,0.9677,1.0000,0.9836,1.0000,1.0000,
+44,Black-crowned Night-Heron (Adult),Black-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",60,60,2,0,0.9677,1.0000,0.9836,1.0000,1.0000,
+374,Carolina Wren,Carolina Wren,Perching Birds,60,60,2,0,0.9677,1.0000,0.9836,1.0000,1.0000,
+28,Common Merganser (Breeding male),Common Merganser,"Ducks, Geese, and Swans",32,31,0,1,1.0000,0.9688,0.9841,0.9688,1.0000,Red-breasted Merganser (Female/immature male) (1)
+513,Black-throated Blue Warbler (Female/Immature male),Black-throated Blue Warbler,Perching Birds,32,31,0,1,1.0000,0.9688,0.9841,0.9688,1.0000,Painted Bunting (Female/juvenile) (1)
+95,Brant,Brant,"Ducks, Geese, and Swans",32,31,0,1,1.0000,0.9688,0.9841,0.9688,1.0000,Great Cormorant (Immature) (1)
+234,Bufflehead (Female/immature male),Bufflehead,"Ducks, Geese, and Swans",33,32,0,1,1.0000,0.9697,0.9846,0.9697,1.0000,Common Goldeneye (Female/Eclipse male) (1)
+237,Hooded Merganser (Female/immature male),Hooded Merganser,"Ducks, Geese, and Swans",33,33,1,0,0.9706,1.0000,0.9851,1.0000,1.0000,
+530,Bobolink (Female/juvenile/nonbreeding male),Bobolink,Perching Birds,33,33,1,0,0.9706,1.0000,0.9851,1.0000,1.0000,
+62,Dunlin (Breeding),Dunlin,"Plovers, Sandpipers, and Allies",35,34,0,1,1.0000,0.9714,0.9855,0.9714,1.0000,Dunlin (Nonbreeding/juvenile) (1)
+385,Wrentit,Wrentit,Perching Birds,37,36,0,1,1.0000,0.9730,0.9863,0.9730,0.9730,Bushtit (1)
+480,Scissor-tailed Flycatcher,Scissor-tailed Flycatcher,Perching Birds,37,37,1,0,0.9737,1.0000,0.9867,1.0000,1.0000,
+370,Brown-headed Nuthatch,Brown-headed Nuthatch,Perching Birds,38,37,0,1,1.0000,0.9737,0.9867,0.9737,1.0000,Pygmy Nuthatch (1)
+185,Common Nighthawk,Common Nighthawk,Nightjars,39,38,0,1,1.0000,0.9744,0.9870,0.9744,0.9744,Red-shouldered Hawk (Adult ) (1)
+79,Heermann's Gull (Adult),Heermann's Gull,"Gulls, Terns, and Allies",39,39,1,0,0.9750,1.0000,0.9873,1.0000,1.0000,
+108,Ruffed Grouse,Ruffed Grouse,"Grouse, Quail, and Allies",40,40,1,0,0.9756,1.0000,0.9877,1.0000,1.0000,
+538,Pine Grosbeak (Female/juvenile),Pine Grosbeak,Perching Birds,41,40,0,1,1.0000,0.9756,0.9877,0.9756,1.0000,Pine Warbler (1)
+269,Black-bellied Plover (Nonbreeding/juvenile),Black-bellied Plover,"Plovers, Sandpipers, and Allies",42,42,1,0,0.9767,1.0000,0.9882,1.0000,1.0000,
+554,Dark-eyed Junco (Red-backed/Gray-headed),Dark-eyed Junco,Perching Birds,43,42,0,1,1.0000,0.9767,0.9882,0.9767,1.0000,Dark-eyed Junco (Pink-sided) (1)
+20,Harlequin Duck (Male),Harlequin Duck,"Ducks, Geese, and Swans",43,43,1,0,0.9773,1.0000,0.9885,1.0000,1.0000,
+184,Northern Saw-whet Owl,Northern Saw-whet Owl,Owls,45,44,0,1,1.0000,0.9778,0.9888,0.9778,1.0000,Great Horned Owl (1)
+420,Palm Warbler,Palm Warbler,Perching Birds,44,44,1,0,0.9778,1.0000,0.9888,1.0000,1.0000,
+17,Ring-necked Duck (Breeding male),Ring-necked Duck,"Ducks, Geese, and Swans",44,44,1,0,0.9778,1.0000,0.9888,1.0000,1.0000,
+8,American Wigeon (Breeding male),American Wigeon,"Ducks, Geese, and Swans",45,45,1,0,0.9783,1.0000,0.9890,1.0000,1.0000,
+398,Curve-billed Thrasher,Curve-billed Thrasher,Perching Birds,46,45,0,1,1.0000,0.9783,0.9890,0.9783,1.0000,Northern Mockingbird (1)
+32,Ring-necked Pheasant (Male),Ring-necked Pheasant,"Grouse, Quail, and Allies",47,47,1,0,0.9792,1.0000,0.9895,1.0000,1.0000,
+451,Pyrrhuloxia,Pyrrhuloxia,Perching Birds,48,48,1,0,0.9796,1.0000,0.9897,1.0000,1.0000,
+441,Field Sparrow,Field Sparrow,Perching Birds,51,50,0,1,1.0000,0.9804,0.9901,0.9804,1.0000,Clay-colored Sparrow (1)
+181,Northern Pygmy-Owl,Northern Pygmy-Owl,Owls,50,50,1,0,0.9804,1.0000,0.9901,1.0000,1.0000,
+27,Hooded Merganser (Breeding male),Hooded Merganser,"Ducks, Geese, and Swans",53,52,0,1,1.0000,0.9811,0.9905,0.9811,1.0000,Bufflehead (Breeding male) (1)
+93,Black Skimmer,Black Skimmer,"Gulls, Terns, and Allies",53,52,0,1,1.0000,0.9811,0.9905,0.9811,0.9811,Little Blue Heron (Immature) (1)
+403,Cedar Waxwing,Cedar Waxwing,Perching Birds,54,53,0,1,1.0000,0.9815,0.9907,0.9815,1.0000,American Robin (Juvenile) (1)
+323,Bobolink (Breeding male),Bobolink,Perching Birds,55,55,1,0,0.9821,1.0000,0.9910,1.0000,1.0000,
+11,Cinnamon Teal (Male),Cinnamon Teal,"Ducks, Geese, and Swans",55,55,1,0,0.9821,1.0000,0.9910,1.0000,1.0000,
+394,Varied Thrush,Varied Thrush,Perching Birds,56,55,0,1,1.0000,0.9821,0.9910,0.9821,1.0000,Northern Shrike (1)
+397,Brown Thrasher,Brown Thrasher,Perching Birds,57,56,0,1,1.0000,0.9825,0.9912,0.9825,1.0000,House Wren (1)
+375,Bewick's Wren,Bewick's Wren,Perching Birds,58,57,0,1,1.0000,0.9828,0.9913,0.9828,1.0000,House Wren (1)
+190,Acorn Woodpecker,Acorn Woodpecker,Woodpeckers,58,58,1,0,0.9831,1.0000,0.9915,1.0000,1.0000,
+130,Turkey Vulture,Turkey Vulture,"Hawks, Kites, Eagles, and Allies",59,58,0,1,1.0000,0.9831,0.9915,0.9831,1.0000,Anhinga (1)
+201,Pileated Woodpecker,Pileated Woodpecker,Woodpeckers,60,59,0,1,1.0000,0.9833,0.9916,0.9833,0.9833,Phainopepla (Male) (1)
+546,Evening Grosbeak (Female/Juvenile),Evening Grosbeak,Perching Birds,60,59,0,1,1.0000,0.9833,0.9916,0.9833,1.0000,Evening Grosbeak (Adult Male) (1)
+98,Mute Swan,Mute Swan,"Ducks, Geese, and Swans",60,59,0,1,1.0000,0.9833,0.9916,0.9833,1.0000,Trumpeter Swan (1)
+494,Blue Jay,Blue Jay,Perching Birds,60,59,0,1,1.0000,0.9833,0.9916,0.9833,1.0000,Steller's Jay (1)
+428,Canada Warbler,Canada Warbler,Perching Birds,60,59,0,1,1.0000,0.9833,0.9916,0.9833,1.0000,Magnolia Warbler (Female/immature male) (1)
+144,Killdeer,Killdeer,"Plovers, Sandpipers, and Allies",60,59,0,1,1.0000,0.9833,0.9916,0.9833,0.9833,Great Black-backed Gull (Adult) (1)
+404,Ovenbird,Ovenbird,Perching Birds,60,59,0,1,1.0000,0.9833,0.9916,0.9833,0.9833,Lazuli Bunting (Female/juvenile) (1)
+162,Short-billed Dowitcher,Short-billed Dowitcher,"Plovers, Sandpipers, and Allies",60,59,0,1,1.0000,0.9833,0.9916,0.9833,1.0000,Least Sandpiper (1)
+452,Dickcissel,Dickcissel,Perching Birds,60,59,0,1,1.0000,0.9833,0.9916,0.9833,0.9833,Rose-breasted Grosbeak (Female/immature male) (1)
+155,Marbled Godwit,Marbled Godwit,"Plovers, Sandpipers, and Allies",60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+327,Brown-headed Cowbird (Male),Brown-headed Cowbird,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+310,White-crowned Sparrow (Adult),White-crowned Sparrow,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+339,Evening Grosbeak (Adult Male),Evening Grosbeak,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+193,Red-bellied Woodpecker,Red-bellied Woodpecker,Woodpeckers,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+125,Green Heron,Green Heron,"Pelicans, Herons, Ibises, and Allies",60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+531,Red-winged Blackbird (Female/juvenile),Red-winged Blackbird,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+110,Pied-billed Grebe,Pied-billed Grebe,Grebes,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+317,Rose-breasted Grosbeak (Adult Male),Rose-breasted Grosbeak,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+24,Bufflehead (Breeding male),Bufflehead,"Ducks, Geese, and Swans",60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+301,American Redstart (Adult Male),American Redstart,Perching Birds,60,60,1,0,0.9836,1.0000,0.9917,1.0000,1.0000,
+294,Summer Tanager (Adult Male),Summer Tanager,Perching Birds,50,50,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+31,Gambel's Quail (Male),Gambel's Quail,"Grouse, Quail, and Allies",35,35,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+306,Black-throated Blue Warbler (Adult Male),Black-throated Blue Warbler,Perching Birds,59,59,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+295,Orchard Oriole (Adult Male),Orchard Oriole,Perching Birds,42,42,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+322,Painted Bunting (Adult Male),Painted Bunting,Perching Birds,59,59,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+383,Golden-crowned Kinglet,Golden-crowned Kinglet,Perching Birds,51,51,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+341,Vermilion Flycatcher (Adult male),Vermilion Flycatcher,Perching Birds,53,53,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+371,Brown Creeper,Brown Creeper,Perching Birds,58,58,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+367,Red-breasted Nuthatch,Red-breasted Nuthatch,Perching Birds,60,60,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+307,Lark Bunting (Breeding male),Lark Bunting,Perching Birds,19,19,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+314,Scarlet Tanager (Breeding Male),Scarlet Tanager,Perching Birds,49,49,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+354,Barn Swallow,Barn Swallow,Perching Birds,57,57,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+316,Northern Cardinal (Adult Male),Northern Cardinal,Perching Birds,60,60,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+213,Black-bellied Whistling-Duck,Black-bellied Whistling-Duck,"Ducks, Geese, and Swans",20,20,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+164,American Woodcock,American Woodcock,"Plovers, Sandpipers, and Allies",30,30,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+189,Belted Kingfisher,Belted Kingfisher,Kingfishers and Allies,60,60,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+402,Bohemian Waxwing,Bohemian Waxwing,Perching Birds,60,60,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+372,Cactus Wren,Cactus Wren,Perching Birds,43,43,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+399,California Thrasher,California Thrasher,Perching Birds,32,32,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+182,Burrowing Owl,Burrowing Owl,Owls,43,43,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+382,American Dipper,American Dipper,Perching Birds,31,31,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+438,American Tree Sparrow,American Tree Sparrow,Perching Birds,59,59,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+165,Rock Pigeon,Rock Pigeon,Pigeons and Doves,58,58,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+166,Band-tailed Pigeon,Band-tailed Pigeon,Pigeons and Doves,40,40,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+148,American Avocet,American Avocet,"Plovers, Sandpipers, and Allies",54,54,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+163,Wilson's Snipe,Wilson's Snipe,"Plovers, Sandpipers, and Allies",55,55,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+407,Blue-winged Warbler,Blue-winged Warbler,Perching Birds,38,38,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+443,Lark Sparrow,Lark Sparrow,Perching Birds,59,59,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+172,Monk Parakeet,Monk Parakeet,Parrots,28,28,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+175,Greater Roadrunner,Greater Roadrunner,Cuckoos,34,34,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+143,Semipalmated Plover,Semipalmated Plover,"Plovers, Sandpipers, and Allies",54,54,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+128,Roseate Spoonbill,Roseate Spoonbill,"Pelicans, Herons, Ibises, and Allies",29,29,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+94,Greater White-fronted Goose,Greater White-fronted Goose,"Ducks, Geese, and Swans",33,33,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+107,Northern Bobwhite,Northern Bobwhite,"Grouse, Quail, and Allies",32,32,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+119,Brown Pelican,Brown Pelican,"Pelicans, Herons, Ibises, and Allies",34,34,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+147,Black-necked Stilt,Black-necked Stilt,"Plovers, Sandpipers, and Allies",33,33,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+129,Black Vulture,Black Vulture,"Hawks, Kites, Eagles, and Allies",48,48,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+6,Wood Duck (Breeding male),Wood Duck,"Ducks, Geese, and Swans",60,60,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,
+0,Common Eider (Adult male),Common Eider,"Ducks, Geese, and Swans",29,29,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,

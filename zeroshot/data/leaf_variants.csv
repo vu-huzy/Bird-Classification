@@ -1,0 +1,556 @@
+class_id,leaf_name,base_name,species_name,order_name,variant_raw,phrase,sex,age,season,morph,form,female_side,male_only,n_train,n_test
+295,Common Eider (Adult male),Common Eider,Common Eider,"Ducks, Geese, and Swans",Adult male,adult male,male,adult,,,,False,True,24,29
+296,Long-tailed Duck (Winter male),Long-tailed Duck,Long-tailed Duck,"Ducks, Geese, and Swans",Winter male,winter male,male,,nonbreeding,,,False,True,34,30
+297,Ruddy Duck (Breeding male),Ruddy Duck,Ruddy Duck,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,49,38
+298,Swainson's Hawk (Dark morph ),Swainson's Hawk,Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",Dark morph,dark morph,,,,dark,,False,False,37,30
+299,Red-tailed Hawk (Light morph adult),Red-tailed Hawk,Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",Light morph adult,light morph adult,,adult,,light,,False,False,60,60
+313,Snow Goose (White morph),Snow Goose,Snow Goose,"Ducks, Geese, and Swans",White morph,white morph,,,,white,,False,False,21,26
+314,Wood Duck (Breeding male),Wood Duck,Wood Duck,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,60,60
+315,Gadwall (Breeding male),Gadwall,Gadwall,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,60,56
+316,American Wigeon (Breeding male),American Wigeon,American Wigeon,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,51,45
+317,Mallard (Breeding male),Mallard,Mallard,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,60,60
+318,Blue-winged Teal (Male),Blue-winged Teal,Blue-winged Teal,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,41,42
+319,Cinnamon Teal (Male),Cinnamon Teal,Cinnamon Teal,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,51,55
+320,Northern Shoveler (Breeding male),Northern Shoveler,Northern Shoveler,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,60,60
+321,Northern Pintail (Breeding male),Northern Pintail,Northern Pintail,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,45,42
+322,Green-winged Teal (Male),Green-winged Teal,Green-winged Teal,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,56,41
+323,Canvasback (Breeding male),Canvasback,Canvasback,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,46,43
+324,Redhead (Breeding male),Redhead,Redhead,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,39,27
+325,Ring-necked Duck (Breeding male),Ring-necked Duck,Ring-necked Duck,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,38,44
+326,Greater Scaup (Breeding male),Greater Scaup,Greater Scaup,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,29,43
+327,Lesser Scaup (Breeding male),Lesser Scaup,Lesser Scaup,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,41,44
+328,Harlequin Duck (Male),Harlequin Duck,Harlequin Duck,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,49,43
+329,Surf Scoter (Male),Surf Scoter,Surf Scoter,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,33,37
+330,White-winged Scoter (Male),White-winged Scoter,White-winged Scoter,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,17,27
+331,Black Scoter (Male),Black Scoter,Black Scoter,"Ducks, Geese, and Swans",Male,male,male,,,,,False,True,22,19
+332,Bufflehead (Breeding male),Bufflehead,Bufflehead,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,46,60
+333,Common Goldeneye (Breeding male),Common Goldeneye,Common Goldeneye,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,54,51
+334,Barrow's Goldeneye (Breeding male),Barrow's Goldeneye,Barrow's Goldeneye,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,10,35
+335,Hooded Merganser (Breeding male),Hooded Merganser,Hooded Merganser,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,53,53
+336,Common Merganser (Breeding male),Common Merganser,Common Merganser,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,31,32
+337,Red-breasted Merganser (Breeding male),Red-breasted Merganser,Red-breasted Merganser,"Ducks, Geese, and Swans",Breeding male,breeding male,male,,breeding,,,False,True,36,41
+338,California Quail (Male),California Quail,California Quail,"Grouse, Quail, and Allies",Male,male,male,,,,,False,True,60,56
+339,Gambel's Quail (Male),Gambel's Quail,Gambel's Quail,"Grouse, Quail, and Allies",Male,male,male,,,,,False,True,36,35
+340,Ring-necked Pheasant (Male),Ring-necked Pheasant,Ring-necked Pheasant,"Grouse, Quail, and Allies",Male,male,male,,,,,False,True,46,47
+341,Red-throated Loon (Breeding),Red-throated Loon,Red-throated Loon,Loons,Breeding,breeding,,,breeding,,,False,False,11,12
+342,Pacific Loon (Breeding),Pacific Loon,Pacific Loon,Loons,Breeding,breeding,,,breeding,,,False,False,11,20
+343,Common Loon (Breeding),Common Loon,Common Loon,Loons,Breeding,breeding,,,breeding,,,False,False,34,60
+344,Horned Grebe (Breeding),Horned Grebe,Horned Grebe,Grebes,Breeding,breeding,,,breeding,,,False,False,41,35
+345,Red-necked Grebe (Breeding),Red-necked Grebe,Red-necked Grebe,Grebes,Breeding,breeding,,,breeding,,,False,False,25,29
+346,Eared Grebe (Breeding),Eared Grebe,Eared Grebe,Grebes,Breeding,breeding,,,breeding,,,False,False,31,42
+347,"Northern Gannet (Adult, Subadult)",Northern Gannet,Northern Gannet,"Frigatebirds, Boobies, Cormorants, Darters, and Allies","Adult, Subadult",adult or subadult,,subadult/adult,,,,False,False,46,60
+348,Double-crested Cormorant (Immature),Double-crested Cormorant,Double-crested Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",Immature,immature,,immature,,,,False,False,57,52
+349,Great Cormorant (Adult),Great Cormorant,Great Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",Adult,adult,,adult,,,,False,False,35,40
+350,Little Blue Heron (Adult),Little Blue Heron,Little Blue Heron,"Pelicans, Herons, Ibises, and Allies",Adult,adult,,adult,,,,False,False,60,60
+351,Reddish Egret (Dark morph),Reddish Egret,Reddish Egret,"Pelicans, Herons, Ibises, and Allies",Dark morph,dark morph,,,,dark,,False,False,58,52
+352,Black-crowned Night-Heron (Adult),Black-crowned Night-Heron,Black-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",Adult,adult,,adult,,,,False,False,60,60
+353,Yellow-crowned Night-Heron (Adult),Yellow-crowned Night-Heron,Yellow-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",Adult,adult,,adult,,,,False,False,38,60
+354,White Ibis (Adult),White Ibis,White Ibis,"Pelicans, Herons, Ibises, and Allies",Adult,adult,,adult,,,,False,False,60,58
+355,"Bald Eagle (Adult, subadult)",Bald Eagle,Bald Eagle,"Hawks, Kites, Eagles, and Allies","Adult, subadult",adult or subadult,,subadult/adult,,,,False,False,60,60
+356,Northern Harrier (Adult male),Northern Harrier,Northern Harrier,"Hawks, Kites, Eagles, and Allies",Adult male,adult male,male,adult,,,,False,True,35,60
+357,Sharp-shinned Hawk (Adult ),Sharp-shinned Hawk,Sharp-shinned Hawk,"Hawks, Kites, Eagles, and Allies",Adult,adult,,adult,,,,False,False,60,58
+358,Cooper's Hawk (Adult),Cooper's Hawk,Cooper's Hawk,"Hawks, Kites, Eagles, and Allies",Adult,adult,,adult,,,,False,False,60,57
+359,Red-shouldered Hawk (Adult ),Red-shouldered Hawk,Red-shouldered Hawk,"Hawks, Kites, Eagles, and Allies",Adult,adult,,adult,,,,False,False,32,38
+360,Broad-winged Hawk (Adult),Broad-winged Hawk,Broad-winged Hawk,"Hawks, Kites, Eagles, and Allies",Adult,adult,,adult,,,,False,False,32,26
+361,Rough-legged Hawk (Dark morph),Rough-legged Hawk,Rough-legged Hawk,"Hawks, Kites, Eagles, and Allies",Dark morph,dark morph,,,,dark,,False,False,26,24
+362,Golden Eagle (Adult),Golden Eagle,Golden Eagle,"Hawks, Kites, Eagles, and Allies",Adult,adult,,adult,,,,False,False,39,42
+363,American Kestrel (Adult male),American Kestrel,American Kestrel,Caracaras and Falcons,Adult male,adult male,male,adult,,,,False,True,60,60
+364,Peregrine Falcon (Adult),Peregrine Falcon,Peregrine Falcon,Caracaras and Falcons,Adult,adult,,adult,,,,False,False,31,46
+365,Purple Gallinule (Adult),Purple Gallinule,Purple Gallinule,Cranes and Rails,Adult,adult,,adult,,,,False,False,34,40
+366,Common Gallinule (Adult),Common Gallinule,Common Gallinule,Cranes and Rails,Adult,adult,,adult,,,,False,False,52,49
+367,Black-bellied Plover (Breeding),Black-bellied Plover,Black-bellied Plover,"Plovers, Sandpipers, and Allies",Breeding,breeding,,,breeding,,,False,False,47,35
+368,Spotted Sandpiper (Breeding),Spotted Sandpiper,Spotted Sandpiper,"Plovers, Sandpipers, and Allies",Breeding,breeding,,,breeding,,,False,False,57,51
+369,Sanderling (Breeding),Sanderling,Sanderling,"Plovers, Sandpipers, and Allies",Breeding,breeding,,,breeding,,,False,False,12,19
+370,Dunlin (Breeding),Dunlin,Dunlin,"Plovers, Sandpipers, and Allies",Breeding,breeding,,,breeding,,,False,False,41,35
+371,Wilson's Phalarope (Breeding),Wilson's Phalarope,Wilson's Phalarope,"Plovers, Sandpipers, and Allies",Breeding,breeding,,,breeding,,,False,False,37,53
+372,Broad-billed Hummingbird (Adult Male),Broad-billed Hummingbird,Broad-billed Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,40,49
+373,Ruby-throated Hummingbird (Adult Male),Ruby-throated Hummingbird,Ruby-throated Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,46,54
+374,Black-chinned Hummingbird (Adult Male),Black-chinned Hummingbird,Black-chinned Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,51,50
+375,Anna's Hummingbird (Adult Male),Anna's Hummingbird,Anna's Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,59,54
+376,Costa's Hummingbird (Adult Male),Costa's Hummingbird,Costa's Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,37,37
+377,Calliope Hummingbird (Adult Male),Calliope Hummingbird,Calliope Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,37,41
+378,Broad-tailed Hummingbird (Adult Male),Broad-tailed Hummingbird,Broad-tailed Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,37,44
+379,Rufous Hummingbird (Adult Male),Rufous Hummingbird,Rufous Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,43,50
+380,Allen's Hummingbird (Adult Male),Allen's Hummingbird,Allen's Hummingbird,Swifts and Hummingbirds,Adult Male,adult male,male,adult,,,,False,True,47,60
+381,Red-headed Woodpecker (Adult),Red-headed Woodpecker,Red-headed Woodpecker,Woodpeckers,Adult,adult,,adult,,,,False,False,60,59
+382,Northern Flicker (Yellow-shafted),Northern Flicker,Northern Flicker,Woodpeckers,Yellow-shafted,yellow-shafted form,,,,,yellow-shafted,False,False,60,59
+392,Black Guillemot (Breeding),Black Guillemot,Black Guillemot,Skuas and Alcids,Breeding,breeding,,,breeding,,,False,False,25,20
+393,Pigeon Guillemot (Breeding),Pigeon Guillemot,Pigeon Guillemot,Skuas and Alcids,Breeding,breeding,,,breeding,,,False,False,39,42
+394,Black-legged Kittiwake (Adult),Black-legged Kittiwake,Black-legged Kittiwake,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,30,23
+395,Laughing Gull (Breeding),Laughing Gull,Laughing Gull,"Gulls, Terns, and Allies",Breeding,breeding,,,breeding,,,False,False,60,59
+396,Heermann's Gull (Adult),Heermann's Gull,Heermann's Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,48,39
+397,Ring-billed Gull (Adult),Ring-billed Gull,Ring-billed Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,60,60
+398,Western Gull (Adult),Western Gull,Western Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,37,33
+399,California Gull (Adult),California Gull,California Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,35,41
+400,Herring Gull (Adult),Herring Gull,Herring Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,60,57
+401,Glaucous-winged Gull (Adult),Glaucous-winged Gull,Glaucous-winged Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,40,38
+402,Great Black-backed Gull (Adult),Great Black-backed Gull,Great Black-backed Gull,"Gulls, Terns, and Allies",Adult,adult,,adult,,,,False,False,43,41
+446,Bonaparte's Gull,Bonaparte's Gull,Bonaparte's Gull,"Gulls, Terns, and Allies",,,,,,,,False,False,60,58
+447,Mew Gull,Mew Gull,Mew Gull,"Gulls, Terns, and Allies",,,,,,,,False,False,32,23
+448,Caspian Tern,Caspian Tern,Caspian Tern,"Gulls, Terns, and Allies",,,,,,,,False,False,44,49
+449,Black Tern,Black Tern,Black Tern,"Gulls, Terns, and Allies",,,,,,,,False,False,28,35
+450,Common Tern,Common Tern,Common Tern,"Gulls, Terns, and Allies",,,,,,,,False,False,60,60
+451,Forster's Tern,Forster's Tern,Forster's Tern,"Gulls, Terns, and Allies",,,,,,,,False,False,60,60
+452,Royal Tern,Royal Tern,Royal Tern,"Gulls, Terns, and Allies",,,,,,,,False,False,38,38
+453,Black Skimmer,Black Skimmer,Black Skimmer,"Gulls, Terns, and Allies",,,,,,,,False,False,39,53
+454,Greater White-fronted Goose,Greater White-fronted Goose,Greater White-fronted Goose,"Ducks, Geese, and Swans",,,,,,,,False,False,38,33
+455,Brant,Brant,Brant,"Ducks, Geese, and Swans",,,,,,,,False,False,20,32
+456,Cackling Goose,Cackling Goose,Cackling Goose,"Ducks, Geese, and Swans",,,,,,,,False,False,17,14
+457,Canada Goose,Canada Goose,Canada Goose,"Ducks, Geese, and Swans",,,,,,,,False,False,30,31
+458,Mute Swan,Mute Swan,Mute Swan,"Ducks, Geese, and Swans",,,,,,,,False,False,57,60
+459,Trumpeter Swan,Trumpeter Swan,Trumpeter Swan,"Ducks, Geese, and Swans",,,,,,,,False,False,43,37
+460,Tundra Swan,Tundra Swan,Tundra Swan,"Ducks, Geese, and Swans",,,,,,,,False,False,27,28
+461,American Black Duck,American Black Duck,American Black Duck,"Ducks, Geese, and Swans",,,,,,,,False,False,28,37
+462,Mottled Duck,Mottled Duck,Mottled Duck,"Ducks, Geese, and Swans",,,,,,,,False,False,31,29
+463,Common Eider (Female/juvenile),Common Eider,Common Eider,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,19,22
+464,Long-tailed Duck (Summer male),Long-tailed Duck,Long-tailed Duck,"Ducks, Geese, and Swans",Summer male,summer male,male,,breeding,,,False,True,16,12
+465,Ruddy Duck (Winter male),Ruddy Duck,Ruddy Duck,"Ducks, Geese, and Swans",Winter male,winter male,male,,nonbreeding,,,False,True,20,28
+466,Scaled Quail,Scaled Quail,Scaled Quail,"Grouse, Quail, and Allies",,,,,,,,False,False,20,19
+467,Northern Bobwhite,Northern Bobwhite,Northern Bobwhite,"Grouse, Quail, and Allies",,,,,,,,False,False,27,32
+468,Ruffed Grouse,Ruffed Grouse,Ruffed Grouse,"Grouse, Quail, and Allies",,,,,,,,False,False,35,40
+469,Wild Turkey,Wild Turkey,Wild Turkey,"Grouse, Quail, and Allies",,,,,,,,False,False,60,60
+470,Pied-billed Grebe,Pied-billed Grebe,Pied-billed Grebe,Grebes,,,,,,,,False,False,56,60
+471,Western Grebe,Western Grebe,Western Grebe,Grebes,,,,,,,,False,False,33,42
+472,Clark's Grebe,Clark's Grebe,Clark's Grebe,Grebes,,,,,,,,False,False,44,38
+473,Wood Stork,Wood Stork,Wood Stork,Storks,,,,,,,,False,False,48,56
+474,Brandt's Cormorant,Brandt's Cormorant,Brandt's Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",,,,,,,,False,False,33,33
+475,Neotropic Cormorant,Neotropic Cormorant,Neotropic Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",,,,,,,,False,False,27,38
+476,Pelagic Cormorant,Pelagic Cormorant,Pelagic Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",,,,,,,,False,False,36,26
+477,Anhinga,Anhinga,Anhinga,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",,,,,,,,False,False,60,60
+478,American White Pelican,American White Pelican,American White Pelican,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,36,28
+479,Brown Pelican,Brown Pelican,Brown Pelican,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,31,34
+480,Great Blue Heron,Great Blue Heron,Great Blue Heron,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,42,60
+481,Great Egret,Great Egret,Great Egret,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,51,60
+482,Snowy Egret,Snowy Egret,Snowy Egret,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,55,49
+483,Tricolored Heron,Tricolored Heron,Tricolored Heron,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,60,60
+484,Cattle Egret,Cattle Egret,Cattle Egret,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,59,49
+485,Green Heron,Green Heron,Green Heron,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,60,60
+486,Glossy Ibis,Glossy Ibis,Glossy Ibis,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,54,44
+487,White-faced Ibis,White-faced Ibis,White-faced Ibis,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,32,34
+488,Roseate Spoonbill,Roseate Spoonbill,Roseate Spoonbill,"Pelicans, Herons, Ibises, and Allies",,,,,,,,False,False,31,29
+489,Black Vulture,Black Vulture,Black Vulture,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,49,48
+490,Turkey Vulture,Turkey Vulture,Turkey Vulture,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,49,59
+491,Osprey,Osprey,Osprey,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,54,52
+492,Swallow-tailed Kite,Swallow-tailed Kite,Swallow-tailed Kite,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,24,29
+493,White-tailed Kite,White-tailed Kite,White-tailed Kite,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,59,13
+494,Mississippi Kite,Mississippi Kite,Mississippi Kite,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,30,50
+495,Harris's Hawk,Harris's Hawk,Harris's Hawk,"Hawks, Kites, Eagles, and Allies",,,,,,,,False,False,52,43
+496,Swainson's Hawk (Light morph ),Swainson's Hawk,Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",Light morph,light morph,,,,light,,False,False,38,39
+497,Red-tailed Hawk (Dark morph),Red-tailed Hawk,Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",Dark morph,dark morph,,,,dark,,False,False,28,30
+498,Crested Caracara,Crested Caracara,Crested Caracara,Caracaras and Falcons,,,,,,,,False,False,58,54
+499,Merlin,Merlin,Merlin,Caracaras and Falcons,,,,,,,,False,False,60,58
+500,Prairie Falcon,Prairie Falcon,Prairie Falcon,Caracaras and Falcons,,,,,,,,False,False,44,42
+501,American Coot,American Coot,American Coot,Cranes and Rails,,,,,,,,False,False,60,60
+502,Sandhill Crane,Sandhill Crane,Sandhill Crane,Cranes and Rails,,,,,,,,False,False,25,25
+503,Semipalmated Plover,Semipalmated Plover,Semipalmated Plover,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,57,54
+504,Killdeer,Killdeer,Killdeer,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,60
+505,American Oystercatcher,American Oystercatcher,American Oystercatcher,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,31,49
+506,Black Oystercatcher,Black Oystercatcher,Black Oystercatcher,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,16,49
+507,Black-necked Stilt,Black-necked Stilt,Black-necked Stilt,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,41,33
+508,American Avocet,American Avocet,American Avocet,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,48,54
+509,Solitary Sandpiper,Solitary Sandpiper,Solitary Sandpiper,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,56
+510,Greater Yellowlegs,Greater Yellowlegs,Greater Yellowlegs,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,54,59
+511,Willet,Willet,Willet,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,60
+512,Lesser Yellowlegs,Lesser Yellowlegs,Lesser Yellowlegs,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,60
+513,Whimbrel,Whimbrel,Whimbrel,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,50,51
+514,Long-billed Curlew,Long-billed Curlew,Long-billed Curlew,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,43,53
+515,Marbled Godwit,Marbled Godwit,Marbled Godwit,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,56,60
+516,Ruddy Turnstone,Ruddy Turnstone,Ruddy Turnstone,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,53,55
+517,Black Turnstone,Black Turnstone,Black Turnstone,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,39,47
+518,Surfbird,Surfbird,Surfbird,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,23,40
+519,Semipalmated Sandpiper,Semipalmated Sandpiper,Semipalmated Sandpiper,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,45,60
+520,Western Sandpiper,Western Sandpiper,Western Sandpiper,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,41,51
+521,Least Sandpiper,Least Sandpiper,Least Sandpiper,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,60
+522,Short-billed Dowitcher,Short-billed Dowitcher,Short-billed Dowitcher,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,60,60
+523,Wilson's Snipe,Wilson's Snipe,Wilson's Snipe,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,55,55
+524,American Woodcock,American Woodcock,American Woodcock,"Plovers, Sandpipers, and Allies",,,,,,,,False,False,24,30
+525,Rock Pigeon,Rock Pigeon,Rock Pigeon,Pigeons and Doves,,,,,,,,False,False,47,58
+526,Band-tailed Pigeon,Band-tailed Pigeon,Band-tailed Pigeon,Pigeons and Doves,,,,,,,,False,False,35,40
+527,Eurasian Collared-Dove,Eurasian Collared-Dove,Eurasian Collared-Dove,Pigeons and Doves,,,,,,,,False,False,58,59
+528,White-winged Dove,White-winged Dove,White-winged Dove,Pigeons and Doves,,,,,,,,False,False,60,57
+529,Mourning Dove,Mourning Dove,Mourning Dove,Pigeons and Doves,,,,,,,,False,False,60,60
+530,Inca Dove,Inca Dove,Inca Dove,Pigeons and Doves,,,,,,,,False,False,53,50
+531,Common Ground-Dove,Common Ground-Dove,Common Ground-Dove,Pigeons and Doves,,,,,,,,False,False,40,35
+532,Monk Parakeet,Monk Parakeet,Monk Parakeet,Parrots,,,,,,,,False,False,18,28
+533,Yellow-billed Cuckoo,Yellow-billed Cuckoo,Yellow-billed Cuckoo,Cuckoos,,,,,,,,False,False,47,47
+534,Black-billed Cuckoo,Black-billed Cuckoo,Black-billed Cuckoo,Cuckoos,,,,,,,,False,False,39,32
+535,Greater Roadrunner,Greater Roadrunner,Greater Roadrunner,Cuckoos,,,,,,,,False,False,31,34
+536,Barn Owl,Barn Owl,Barn Owl,Owls,,,,,,,,False,False,57,52
+537,Western Screech-Owl,Western Screech-Owl,Western Screech-Owl,Owls,,,,,,,,False,False,40,34
+538,Eastern Screech-Owl,Eastern Screech-Owl,Eastern Screech-Owl,Owls,,,,,,,,False,False,44,50
+539,Great Horned Owl,Great Horned Owl,Great Horned Owl,Owls,,,,,,,,False,False,57,46
+540,Snowy Owl,Snowy Owl,Snowy Owl,Owls,,,,,,,,False,False,26,46
+541,Northern Pygmy-Owl,Northern Pygmy-Owl,Northern Pygmy-Owl,Owls,,,,,,,,False,False,53,50
+542,Burrowing Owl,Burrowing Owl,Burrowing Owl,Owls,,,,,,,,False,False,56,43
+543,Barred Owl,Barred Owl,Barred Owl,Owls,,,,,,,,False,False,60,60
+544,Northern Saw-whet Owl,Northern Saw-whet Owl,Northern Saw-whet Owl,Owls,,,,,,,,False,False,53,45
+545,Common Nighthawk,Common Nighthawk,Common Nighthawk,Nightjars,,,,,,,,False,False,47,39
+546,Chimney Swift,Chimney Swift,Chimney Swift,Swifts and Hummingbirds,,,,,,,,False,False,24,33
+547,Vaux's Swift,Vaux's Swift,Vaux's Swift,Swifts and Hummingbirds,,,,,,,,False,False,25,28
+548,White-throated Swift,White-throated Swift,White-throated Swift,Swifts and Hummingbirds,,,,,,,,False,False,26,40
+549,Belted Kingfisher,Belted Kingfisher,Belted Kingfisher,Kingfishers and Allies,,,,,,,,False,False,49,60
+550,Acorn Woodpecker,Acorn Woodpecker,Acorn Woodpecker,Woodpeckers,,,,,,,,False,False,41,58
+551,Gila Woodpecker,Gila Woodpecker,Gila Woodpecker,Woodpeckers,,,,,,,,False,False,47,50
+552,Golden-fronted Woodpecker,Golden-fronted Woodpecker,Golden-fronted Woodpecker,Woodpeckers,,,,,,,,False,False,44,33
+553,Red-bellied Woodpecker,Red-bellied Woodpecker,Red-bellied Woodpecker,Woodpeckers,,,,,,,,False,False,60,60
+554,Yellow-bellied Sapsucker,Yellow-bellied Sapsucker,Yellow-bellied Sapsucker,Woodpeckers,,,,,,,,False,False,60,59
+555,Red-naped Sapsucker,Red-naped Sapsucker,Red-naped Sapsucker,Woodpeckers,,,,,,,,False,False,44,54
+556,Red-breasted Sapsucker,Red-breasted Sapsucker,Red-breasted Sapsucker,Woodpeckers,,,,,,,,False,False,43,42
+557,Ladder-backed Woodpecker,Ladder-backed Woodpecker,Ladder-backed Woodpecker,Woodpeckers,,,,,,,,False,False,49,50
+558,Nuttall's Woodpecker,Nuttall's Woodpecker,Nuttall's Woodpecker,Woodpeckers,,,,,,,,False,False,47,45
+559,Downy Woodpecker,Downy Woodpecker,Downy Woodpecker,Woodpeckers,,,,,,,,False,False,60,60
+560,Hairy Woodpecker,Hairy Woodpecker,Hairy Woodpecker,Woodpeckers,,,,,,,,False,False,58,60
+561,Pileated Woodpecker,Pileated Woodpecker,Pileated Woodpecker,Woodpeckers,,,,,,,,False,False,59,60
+599,"Black Guillemot (Nonbreeding, juvenile)",Black Guillemot,Black Guillemot,Skuas and Alcids,"Nonbreeding, juvenile",nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,21,12
+600,"Pigeon Guillemot (Nonbreeding, juvenile)",Pigeon Guillemot,Pigeon Guillemot,Skuas and Alcids,"Nonbreeding, juvenile",nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,20,17
+601,Black-legged Kittiwake (Immature),Black-legged Kittiwake,Black-legged Kittiwake,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,35,19
+602,Laughing Gull (Nonbreeding/Immature),Laughing Gull,Laughing Gull,"Gulls, Terns, and Allies",Nonbreeding/Immature,nonbreeding or immature,,immature,nonbreeding,,,False,False,41,45
+603,Heermann's Gull (Immature),Heermann's Gull,Heermann's Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,25,22
+604,Ring-billed Gull (Immature),Ring-billed Gull,Ring-billed Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,44,36
+605,Western Gull (Immature),Western Gull,Western Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,28,26
+606,California Gull (Immature),California Gull,California Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,29,25
+607,Herring Gull (Immature),Herring Gull,Herring Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,57,44
+608,Glaucous-winged Gull (Immature),Glaucous-winged Gull,Glaucous-winged Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,27,22
+609,Great Black-backed Gull (Immature),Great Black-backed Gull,Great Black-backed Gull,"Gulls, Terns, and Allies",Immature,immature,,immature,,,,False,False,31,32
+610,Black-bellied Whistling-Duck,Black-bellied Whistling-Duck,Black-bellied Whistling-Duck,"Ducks, Geese, and Swans",,,,,,,,False,False,31,20
+611,Snow Goose (Blue morph),Snow Goose,Snow Goose,"Ducks, Geese, and Swans",Blue morph,blue morph,,,,blue,,False,False,21,28
+612,Ross's Goose,Ross's Goose,Ross's Goose,"Ducks, Geese, and Swans",,,,,,,,False,False,23,23
+613,Wood Duck (Female/Eclipse male),Wood Duck,Wood Duck,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,50,46
+614,Gadwall (Female/Eclipse male),Gadwall,Gadwall,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,20,19
+615,American Wigeon (Female/Eclipse male),American Wigeon,American Wigeon,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,22,19
+616,Mallard (Female/Eclipse male),Mallard,Mallard,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,58,60
+617,Blue-winged Teal (Female/juvenile),Blue-winged Teal,Blue-winged Teal,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,16,17
+618,Cinnamon Teal (Female/juvenile),Cinnamon Teal,Cinnamon Teal,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,12,20
+619,Northern Shoveler (Female/Eclipse male),Northern Shoveler,Northern Shoveler,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,39,40
+620,Northern Pintail (Female/Eclipse male),Northern Pintail,Northern Pintail,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,23,24
+621,Green-winged Teal (Female/juvenile),Green-winged Teal,Green-winged Teal,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,17,30
+622,Canvasback (Female/Eclipse male),Canvasback,Canvasback,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,12,29
+623,Redhead (Female/Eclipse male),Redhead,Redhead,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,17,17
+624,Ring-necked Duck (Female/Eclipse male),Ring-necked Duck,Ring-necked Duck,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,26,24
+625,Greater Scaup (Female/Eclipse male),Greater Scaup,Greater Scaup,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,9,30
+626,Lesser Scaup (Female/Eclipse male),Lesser Scaup,Lesser Scaup,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,27,35
+627,Harlequin Duck (Female/juvenile),Harlequin Duck,Harlequin Duck,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,5,22
+628,Surf Scoter (Female/immature),Surf Scoter,Surf Scoter,"Ducks, Geese, and Swans",Female/immature,female or immature,female,immature,,,,True,False,20,24
+629,White-winged Scoter (Female/juvenile),White-winged Scoter,White-winged Scoter,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,18,30
+630,Black Scoter (Female/juvenile),Black Scoter,Black Scoter,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,18,22
+631,Bufflehead (Female/immature male),Bufflehead,Bufflehead,"Ducks, Geese, and Swans",Female/immature male,female or immature male,female/male,immature,,,,True,False,32,33
+632,Common Goldeneye (Female/Eclipse male),Common Goldeneye,Common Goldeneye,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,25,33
+633,Barrow's Goldeneye (Female/Eclipse male),Barrow's Goldeneye,Barrow's Goldeneye,"Ducks, Geese, and Swans",Female/Eclipse male,female or eclipse male,female/male,,eclipse,,,True,False,7,25
+634,Hooded Merganser (Female/immature male),Hooded Merganser,Hooded Merganser,"Ducks, Geese, and Swans",Female/immature male,female or immature male,female/male,immature,,,,True,False,33,33
+635,Common Merganser (Female/immature male),Common Merganser,Common Merganser,"Ducks, Geese, and Swans",Female/immature male,female or immature male,female/male,immature,,,,True,False,45,42
+636,Red-breasted Merganser (Female/immature male),Red-breasted Merganser,Red-breasted Merganser,"Ducks, Geese, and Swans",Female/immature male,female or immature male,female/male,immature,,,,True,False,34,44
+637,California Quail (Female/juvenile),California Quail,California Quail,"Grouse, Quail, and Allies",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,29,22
+638,Gambel's Quail (Female/juvenile),Gambel's Quail,Gambel's Quail,"Grouse, Quail, and Allies",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,19,17
+639,Ring-necked Pheasant (Female/juvenile),Ring-necked Pheasant,Ring-necked Pheasant,"Grouse, Quail, and Allies",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,18,14
+640,Red-throated Loon (Nonbreeding/juvenile),Red-throated Loon,Red-throated Loon,Loons,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,47,47
+641,Pacific Loon (Nonbreeding/juvenile),Pacific Loon,Pacific Loon,Loons,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,27,27
+642,Common Loon (Nonbreeding/juvenile),Common Loon,Common Loon,Loons,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,60,60
+643,Horned Grebe (Nonbreeding/juvenile),Horned Grebe,Horned Grebe,Grebes,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,60,60
+644,Red-necked Grebe (Nonbreeding/juvenile),Red-necked Grebe,Red-necked Grebe,Grebes,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,31,31
+645,Eared Grebe (Nonbreeding/juvenile),Eared Grebe,Eared Grebe,Grebes,Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,26,38
+646,Northern Gannet (Immature/Juvenile),Northern Gannet,Northern Gannet,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",Immature/Juvenile,immature or juvenile,,immature/juvenile,,,,False,False,19,20
+647,Double-crested Cormorant (Adult),Double-crested Cormorant,Double-crested Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",Adult,adult,,adult,,,,False,False,47,54
+648,Great Cormorant (Immature),Great Cormorant,Great Cormorant,"Frigatebirds, Boobies, Cormorants, Darters, and Allies",Immature,immature,,immature,,,,False,False,18,24
+649,Little Blue Heron (Immature),Little Blue Heron,Little Blue Heron,"Pelicans, Herons, Ibises, and Allies",Immature,immature,,immature,,,,False,False,50,37
+650,Reddish Egret (White morph),Reddish Egret,Reddish Egret,"Pelicans, Herons, Ibises, and Allies",White morph,white morph,,,,white,,False,False,23,23
+651,Black-crowned Night-Heron (Immature),Black-crowned Night-Heron,Black-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",Immature,immature,,immature,,,,False,False,45,54
+652,Yellow-crowned Night-Heron (Immature),Yellow-crowned Night-Heron,Yellow-crowned Night-Heron,"Pelicans, Herons, Ibises, and Allies",Immature,immature,,immature,,,,False,False,43,39
+653,White Ibis (Immature),White Ibis,White Ibis,"Pelicans, Herons, Ibises, and Allies",Immature,immature,,immature,,,,False,False,30,33
+654,"Bald Eagle (Immature, juvenile)",Bald Eagle,Bald Eagle,"Hawks, Kites, Eagles, and Allies","Immature, juvenile",immature or juvenile,,immature/juvenile,,,,False,False,60,43
+655,"Northern Harrier (Female, immature)",Northern Harrier,Northern Harrier,"Hawks, Kites, Eagles, and Allies","Female, immature",female or immature,female,immature,,,,True,False,60,60
+656,Sharp-shinned Hawk (Immature),Sharp-shinned Hawk,Sharp-shinned Hawk,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,51,58
+657,Cooper's Hawk (Immature),Cooper's Hawk,Cooper's Hawk,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,60,60
+658,Red-shouldered Hawk (Immature),Red-shouldered Hawk,Red-shouldered Hawk,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,43,38
+659,Broad-winged Hawk (Immature),Broad-winged Hawk,Broad-winged Hawk,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,18,29
+660,Rough-legged Hawk (Light morph),Rough-legged Hawk,Rough-legged Hawk,"Hawks, Kites, Eagles, and Allies",Light morph,light morph,,,,light,,False,False,46,40
+661,Golden Eagle (Immature),Golden Eagle,Golden Eagle,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,26,30
+662,"American Kestrel (Female, immature)",American Kestrel,American Kestrel,Caracaras and Falcons,"Female, immature",female or immature,female,immature,,,,True,False,55,55
+663,Peregrine Falcon (Immature),Peregrine Falcon,Peregrine Falcon,Caracaras and Falcons,Immature,immature,,immature,,,,False,False,22,31
+664,Purple Gallinule (Immature),Purple Gallinule,Purple Gallinule,Cranes and Rails,Immature,immature,,immature,,,,False,False,10,11
+665,Common Gallinule (Immature),Common Gallinule,Common Gallinule,Cranes and Rails,Immature,immature,,immature,,,,False,False,16,15
+666,Black-bellied Plover (Nonbreeding/juvenile),Black-bellied Plover,Black-bellied Plover,"Plovers, Sandpipers, and Allies",Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,41,42
+667,Spotted Sandpiper (Nonbreeding/juvenile),Spotted Sandpiper,Spotted Sandpiper,"Plovers, Sandpipers, and Allies",Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,51,47
+668,Sanderling (Nonbreeding/juvenile),Sanderling,Sanderling,"Plovers, Sandpipers, and Allies",Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,46,49
+669,Dunlin (Nonbreeding/juvenile),Dunlin,Dunlin,"Plovers, Sandpipers, and Allies",Nonbreeding/juvenile,nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,60,58
+670,"Wilson's Phalarope (Nonbreeding, juvenile)",Wilson's Phalarope,Wilson's Phalarope,"Plovers, Sandpipers, and Allies","Nonbreeding, juvenile",nonbreeding or juvenile,,juvenile,nonbreeding,,,False,False,31,28
+671,"Broad-billed Hummingbird (Female, immature)",Broad-billed Hummingbird,Broad-billed Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,20,22
+672,"Ruby-throated Hummingbird (Female, immature)",Ruby-throated Hummingbird,Ruby-throated Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,60,60
+673,"Black-chinned Hummingbird (Female, immature)",Black-chinned Hummingbird,Black-chinned Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,60,59
+674,"Anna's Hummingbird (Female, immature)",Anna's Hummingbird,Anna's Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,57,52
+675,"Costa's Hummingbird (Female, immature)",Costa's Hummingbird,Costa's Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,21,21
+676,"Calliope Hummingbird (Female, immature)",Calliope Hummingbird,Calliope Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,60,48
+677,"Broad-tailed Hummingbird (Female, immature)",Broad-tailed Hummingbird,Broad-tailed Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,27,29
+678,"Rufous Hummingbird (Female, immature)",Rufous Hummingbird,Rufous Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,33,37
+679,"Allen's Hummingbird (Female, immature)",Allen's Hummingbird,Allen's Hummingbird,Swifts and Hummingbirds,"Female, immature",female or immature,female,immature,,,,True,False,29,41
+680,Red-headed Woodpecker (Immature),Red-headed Woodpecker,Red-headed Woodpecker,Woodpeckers,Immature,immature,,immature,,,,False,False,37,35
+681,Northern Flicker (Red-shafted),Northern Flicker,Northern Flicker,Woodpeckers,Red-shafted,red-shafted form,,,,,red-shafted,False,False,60,59
+696,Common Eider (Immature/Eclipse male),Common Eider,Common Eider,"Ducks, Geese, and Swans",Immature/Eclipse male,immature or eclipse male,male,immature,eclipse,,,False,True,23,22
+697,Long-tailed Duck (Female/juvenile),Long-tailed Duck,Long-tailed Duck,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,21,23
+698,Ruddy Duck (Female/juvenile),Ruddy Duck,Ruddy Duck,"Ducks, Geese, and Swans",Female/juvenile,female or juvenile,female,juvenile,,,,True,False,36,40
+699,Swainson's Hawk (Immature),Swainson's Hawk,Swainson's Hawk,"Hawks, Kites, Eagles, and Allies",Immature,immature,,immature,,,,False,False,20,24
+700,Red-tailed Hawk (Light morph immature),Red-tailed Hawk,Red-tailed Hawk,"Hawks, Kites, Eagles, and Allies",Light morph immature,light morph immature,,immature,,light,,False,False,60,60
+746,Dark-eyed Junco (Slate-colored),Dark-eyed Junco,Dark-eyed Junco,Perching Birds,Slate-colored,slate-colored form,,,,,slate-colored,False,False,60,60
+747,Yellow-rumped Warbler (Breeding Myrtle),Yellow-rumped Warbler,Yellow-rumped Warbler,Perching Birds,Breeding Myrtle,breeding Myrtle form,,,breeding,,myrtle,False,False,57,59
+748,European Starling (Breeding Adult),European Starling,European Starling,Perching Birds,Breeding Adult,breeding adult,,adult,breeding,,,False,False,57,59
+749,Fox Sparrow (Red),Fox Sparrow,Fox Sparrow,Perching Birds,Red,red form,,,,,red,False,False,51,60
+750,Summer Tanager (Adult Male),Summer Tanager,Summer Tanager,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,41,50
+751,Orchard Oriole (Adult Male),Orchard Oriole,Orchard Oriole,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,46,42
+752,Purple Martin (Adult male),Purple Martin,Purple Martin,Perching Birds,Adult male,adult male,male,adult,,,,False,True,35,35
+753,American Robin (Adult),American Robin,American Robin,Perching Birds,Adult,adult,,adult,,,,False,False,60,59
+754,Phainopepla (Female/juvenile),Phainopepla,Phainopepla,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,17,18
+755,Snow Bunting (Breeding adult),Snow Bunting,Snow Bunting,Perching Birds,Breeding adult,breeding adult,,adult,breeding,,,False,False,12,12
+756,Common Yellowthroat (Adult Male),Common Yellowthroat,Common Yellowthroat,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,60
+757,American Redstart (Adult Male),American Redstart,American Redstart,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,43,60
+758,Magnolia Warbler (Breeding male),Magnolia Warbler,Magnolia Warbler,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,39,60
+759,Bay-breasted Warbler (Breeding male),Bay-breasted Warbler,Bay-breasted Warbler,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,15,33
+760,Chestnut-sided Warbler (Breeding male),Chestnut-sided Warbler,Chestnut-sided Warbler,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,56,60
+761,Blackpoll Warbler (Breeding male),Blackpoll Warbler,Blackpoll Warbler,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,47,43
+762,Black-throated Blue Warbler (Adult Male),Black-throated Blue Warbler,Black-throated Blue Warbler,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,59
+763,Lark Bunting (Breeding male),Lark Bunting,Lark Bunting,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,11,19
+764,White-throated Sparrow (White-striped),White-throated Sparrow,White-throated Sparrow,Perching Birds,White-striped,white-striped form,,,,,white-striped,False,False,60,59
+765,Harris's Sparrow (Adult),Harris's Sparrow,Harris's Sparrow,Perching Birds,Adult,adult,,adult,,,,False,False,37,27
+766,White-crowned Sparrow (Adult),White-crowned Sparrow,White-crowned Sparrow,Perching Birds,Adult,adult,,adult,,,,False,False,60,60
+767,Golden-crowned Sparrow (Adult),Golden-crowned Sparrow,Golden-crowned Sparrow,Perching Birds,Adult,adult,,adult,,,,False,False,46,42
+768,Dark-eyed Junco (Oregon),Dark-eyed Junco,Dark-eyed Junco,Perching Birds,Oregon,Oregon form,,,,,oregon,False,False,49,49
+769,Chipping Sparrow (Breeding),Chipping Sparrow,Chipping Sparrow,Perching Birds,Breeding,breeding,,,breeding,,,False,False,60,60
+770,Scarlet Tanager (Breeding Male),Scarlet Tanager,Scarlet Tanager,Perching Birds,Breeding Male,breeding male,male,,breeding,,,False,True,48,49
+771,Western Tanager (Breeding Male),Western Tanager,Western Tanager,Perching Birds,Breeding Male,breeding male,male,,breeding,,,False,True,41,53
+772,Northern Cardinal (Adult Male),Northern Cardinal,Northern Cardinal,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,60
+773,Rose-breasted Grosbeak (Adult Male),Rose-breasted Grosbeak,Rose-breasted Grosbeak,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,60
+774,Black-headed Grosbeak (Adult Male),Black-headed Grosbeak,Black-headed Grosbeak,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,51,58
+775,Blue Grosbeak (Adult Male),Blue Grosbeak,Blue Grosbeak,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,53,58
+776,Lazuli Bunting (Adult Male),Lazuli Bunting,Lazuli Bunting,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,56,46
+777,Indigo Bunting (Adult Male),Indigo Bunting,Indigo Bunting,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,60
+778,Painted Bunting (Adult Male),Painted Bunting,Painted Bunting,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,59
+779,Bobolink (Breeding male),Bobolink,Bobolink,Perching Birds,Breeding male,breeding male,male,,breeding,,,False,True,60,55
+780,Red-winged Blackbird (Male),Red-winged Blackbird,Red-winged Blackbird,Perching Birds,Male,male,male,,,,,False,True,60,59
+781,Yellow-headed Blackbird (Adult Male),Yellow-headed Blackbird,Yellow-headed Blackbird,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,42,49
+782,Brewer's Blackbird (Female/Juvenile),Brewer's Blackbird,Brewer's Blackbird,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,35,31
+783,Brown-headed Cowbird (Male),Brown-headed Cowbird,Brown-headed Cowbird,Perching Birds,Male,male,male,,,,,False,True,60,60
+784,Hooded Oriole (Adult male),Hooded Oriole,Hooded Oriole,Perching Birds,Adult male,adult male,male,adult,,,,False,True,50,43
+785,Bullock's Oriole (Adult male),Bullock's Oriole,Bullock's Oriole,Perching Birds,Adult male,adult male,male,adult,,,,False,True,47,51
+786,Baltimore Oriole (Adult male),Baltimore Oriole,Baltimore Oriole,Perching Birds,Adult male,adult male,male,adult,,,,False,True,50,59
+787,Pine Grosbeak (Adult Male),Pine Grosbeak,Pine Grosbeak,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,24,33
+788,Purple Finch (Adult Male),Purple Finch,Purple Finch,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,51,52
+789,Cassin's Finch (Adult Male),Cassin's Finch,Cassin's Finch,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,42,38
+790,House Finch (Adult Male),House Finch,House Finch,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,60
+791,Red Crossbill (Adult Male),Red Crossbill,Red Crossbill,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,40,25
+792,White-winged Crossbill (Adult Male),White-winged Crossbill,White-winged Crossbill,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,33,20
+793,Lesser Goldfinch (Adult Male),Lesser Goldfinch,Lesser Goldfinch,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,60,59
+794,American Goldfinch (Breeding Male),American Goldfinch,American Goldfinch,Perching Birds,Breeding Male,breeding male,male,,breeding,,,False,True,60,60
+795,Evening Grosbeak (Adult Male),Evening Grosbeak,Evening Grosbeak,Perching Birds,Adult Male,adult male,male,adult,,,,False,True,47,60
+796,House Sparrow (Male),House Sparrow,House Sparrow,Perching Birds,Male,male,male,,,,,False,True,60,59
+797,Vermilion Flycatcher (Adult male),Vermilion Flycatcher,Vermilion Flycatcher,Perching Birds,Adult male,adult male,male,adult,,,,False,True,60,53
+798,Yellow-rumped Warbler (Winter/juvenile Myrtle),Yellow-rumped Warbler,Yellow-rumped Warbler,Perching Birds,Winter/juvenile Myrtle,winter or juvenile Myrtle form,,juvenile,nonbreeding,,myrtle,False,False,60,53
+799,Northwestern Crow,Northwestern Crow,Northwestern Crow,Perching Birds,,,,,,,,False,False,17,19
+800,Fish Crow,Fish Crow,Fish Crow,Perching Birds,,,,,,,,False,False,31,30
+801,Chihuahuan Raven,Chihuahuan Raven,Chihuahuan Raven,Perching Birds,,,,,,,,False,False,22,27
+802,Common Raven,Common Raven,Common Raven,Perching Birds,,,,,,,,False,False,59,57
+803,Horned Lark,Horned Lark,Horned Lark,Perching Birds,,,,,,,,False,False,53,60
+804,Tree Swallow,Tree Swallow,Tree Swallow,Perching Birds,,,,,,,,False,False,60,56
+805,Violet-green Swallow,Violet-green Swallow,Violet-green Swallow,Perching Birds,,,,,,,,False,False,38,37
+806,Northern Rough-winged Swallow,Northern Rough-winged Swallow,Northern Rough-winged Swallow,Perching Birds,,,,,,,,False,False,35,42
+807,Bank Swallow,Bank Swallow,Bank Swallow,Perching Birds,,,,,,,,False,False,8,27
+808,Cliff Swallow,Cliff Swallow,Cliff Swallow,Perching Birds,,,,,,,,False,False,44,30
+809,Cave Swallow,Cave Swallow,Cave Swallow,Perching Birds,,,,,,,,False,False,28,34
+810,Barn Swallow,Barn Swallow,Barn Swallow,Perching Birds,,,,,,,,False,False,49,57
+811,Carolina Chickadee,Carolina Chickadee,Carolina Chickadee,Perching Birds,,,,,,,,False,False,60,58
+812,Black-capped Chickadee,Black-capped Chickadee,Black-capped Chickadee,Perching Birds,,,,,,,,False,False,36,60
+813,Mountain Chickadee,Mountain Chickadee,Mountain Chickadee,Perching Birds,,,,,,,,False,False,56,53
+814,Chestnut-backed Chickadee,Chestnut-backed Chickadee,Chestnut-backed Chickadee,Perching Birds,,,,,,,,False,False,60,54
+815,Boreal Chickadee,Boreal Chickadee,Boreal Chickadee,Perching Birds,,,,,,,,False,False,6,42
+816,Bridled Titmouse,Bridled Titmouse,Bridled Titmouse,Perching Birds,,,,,,,,False,False,28,31
+817,Oak Titmouse,Oak Titmouse,Oak Titmouse,Perching Birds,,,,,,,,False,False,45,37
+818,Juniper Titmouse,Juniper Titmouse,Juniper Titmouse,Perching Birds,,,,,,,,False,False,22,25
+819,Tufted Titmouse,Tufted Titmouse,Tufted Titmouse,Perching Birds,,,,,,,,False,False,60,60
+820,Black-crested Titmouse,Black-crested Titmouse,Black-crested Titmouse,Perching Birds,,,,,,,,False,False,37,33
+821,Verdin,Verdin,Verdin,Perching Birds,,,,,,,,False,False,51,32
+822,Bushtit,Bushtit,Bushtit,Perching Birds,,,,,,,,False,False,60,60
+823,Red-breasted Nuthatch,Red-breasted Nuthatch,Red-breasted Nuthatch,Perching Birds,,,,,,,,False,False,60,60
+824,White-breasted Nuthatch,White-breasted Nuthatch,White-breasted Nuthatch,Perching Birds,,,,,,,,False,False,60,60
+825,Pygmy Nuthatch,Pygmy Nuthatch,Pygmy Nuthatch,Perching Birds,,,,,,,,False,False,42,38
+826,Brown-headed Nuthatch,Brown-headed Nuthatch,Brown-headed Nuthatch,Perching Birds,,,,,,,,False,False,34,38
+827,Brown Creeper,Brown Creeper,Brown Creeper,Perching Birds,,,,,,,,False,False,59,58
+828,Cactus Wren,Cactus Wren,Cactus Wren,Perching Birds,,,,,,,,False,False,43,43
+829,Canyon Wren,Canyon Wren,Canyon Wren,Perching Birds,,,,,,,,False,False,38,26
+830,Carolina Wren,Carolina Wren,Carolina Wren,Perching Birds,,,,,,,,False,False,60,60
+831,Bewick's Wren,Bewick's Wren,Bewick's Wren,Perching Birds,,,,,,,,False,False,60,58
+832,House Wren,House Wren,House Wren,Perching Birds,,,,,,,,False,False,60,54
+833,Pacific Wren,Pacific Wren,Pacific Wren,Perching Birds,,,,,,,,False,False,16,21
+834,Winter Wren,Winter Wren,Winter Wren,Perching Birds,,,,,,,,False,False,50,54
+835,Marsh Wren,Marsh Wren,Marsh Wren,Perching Birds,,,,,,,,False,False,60,60
+836,Blue-gray Gnatcatcher,Blue-gray Gnatcatcher,Blue-gray Gnatcatcher,Perching Birds,,,,,,,,False,False,60,60
+837,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,Black-tailed Gnatcatcher,Perching Birds,,,,,,,,False,False,32,22
+838,American Dipper,American Dipper,American Dipper,Perching Birds,,,,,,,,False,False,51,31
+839,Golden-crowned Kinglet,Golden-crowned Kinglet,Golden-crowned Kinglet,Perching Birds,,,,,,,,False,False,23,51
+840,Ruby-crowned Kinglet,Ruby-crowned Kinglet,Ruby-crowned Kinglet,Perching Birds,,,,,,,,False,False,60,60
+841,Wrentit,Wrentit,Wrentit,Perching Birds,,,,,,,,False,False,27,37
+842,Eastern Bluebird,Eastern Bluebird,Eastern Bluebird,Perching Birds,,,,,,,,False,False,60,60
+843,Western Bluebird,Western Bluebird,Western Bluebird,Perching Birds,,,,,,,,False,False,47,59
+844,Mountain Bluebird,Mountain Bluebird,Mountain Bluebird,Perching Birds,,,,,,,,False,False,52,49
+845,Townsend's Solitaire,Townsend's Solitaire,Townsend's Solitaire,Perching Birds,,,,,,,,False,False,52,37
+846,Veery,Veery,Veery,Perching Birds,,,,,,,,False,False,46,41
+847,Swainson's Thrush,Swainson's Thrush,Swainson's Thrush,Perching Birds,,,,,,,,False,False,49,58
+848,Hermit Thrush,Hermit Thrush,Hermit Thrush,Perching Birds,,,,,,,,False,False,60,60
+849,Wood Thrush,Wood Thrush,Wood Thrush,Perching Birds,,,,,,,,False,False,47,46
+850,Varied Thrush,Varied Thrush,Varied Thrush,Perching Birds,,,,,,,,False,False,60,56
+851,Gray Catbird,Gray Catbird,Gray Catbird,Perching Birds,,,,,,,,False,False,60,60
+852,Northern Mockingbird,Northern Mockingbird,Northern Mockingbird,Perching Birds,,,,,,,,False,False,60,60
+853,Brown Thrasher,Brown Thrasher,Brown Thrasher,Perching Birds,,,,,,,,False,False,54,57
+854,Curve-billed Thrasher,Curve-billed Thrasher,Curve-billed Thrasher,Perching Birds,,,,,,,,False,False,32,46
+855,California Thrasher,California Thrasher,California Thrasher,Perching Birds,,,,,,,,False,False,43,32
+856,European Starling (Nonbreeding Adult),European Starling,European Starling,Perching Birds,Nonbreeding Adult,nonbreeding adult,,adult,nonbreeding,,,False,False,60,60
+857,American Pipit,American Pipit,American Pipit,Perching Birds,,,,,,,,False,False,60,58
+858,Bohemian Waxwing,Bohemian Waxwing,Bohemian Waxwing,Perching Birds,,,,,,,,False,False,19,60
+859,Cedar Waxwing,Cedar Waxwing,Cedar Waxwing,Perching Birds,,,,,,,,False,False,43,54
+860,Ovenbird,Ovenbird,Ovenbird,Perching Birds,,,,,,,,False,False,43,60
+861,Louisiana Waterthrush,Louisiana Waterthrush,Louisiana Waterthrush,Perching Birds,,,,,,,,False,False,44,42
+862,Northern Waterthrush,Northern Waterthrush,Northern Waterthrush,Perching Birds,,,,,,,,False,False,55,56
+863,Blue-winged Warbler,Blue-winged Warbler,Blue-winged Warbler,Perching Birds,,,,,,,,False,False,36,38
+864,Black-and-white Warbler,Black-and-white Warbler,Black-and-white Warbler,Perching Birds,,,,,,,,False,False,60,60
+865,Prothonotary Warbler,Prothonotary Warbler,Prothonotary Warbler,Perching Birds,,,,,,,,False,False,57,46
+866,Tennessee Warbler,Tennessee Warbler,Tennessee Warbler,Perching Birds,,,,,,,,False,False,56,60
+867,Orange-crowned Warbler,Orange-crowned Warbler,Orange-crowned Warbler,Perching Birds,,,,,,,,False,False,56,58
+868,Nashville Warbler,Nashville Warbler,Nashville Warbler,Perching Birds,,,,,,,,False,False,59,60
+869,MacGillivray's Warbler,MacGillivray's Warbler,MacGillivray's Warbler,Perching Birds,,,,,,,,False,False,20,46
+870,Mourning Warbler,Mourning Warbler,Mourning Warbler,Perching Birds,,,,,,,,False,False,25,52
+871,Hooded Warbler,Hooded Warbler,Hooded Warbler,Perching Birds,,,,,,,,False,False,60,49
+872,Cape May Warbler,Cape May Warbler,Cape May Warbler,Perching Birds,,,,,,,,False,False,43,60
+873,Northern Parula,Northern Parula,Northern Parula,Perching Birds,,,,,,,,False,False,60,60
+874,Blackburnian Warbler,Blackburnian Warbler,Blackburnian Warbler,Perching Birds,,,,,,,,False,False,60,51
+875,Yellow Warbler,Yellow Warbler,Yellow Warbler,Perching Birds,,,,,,,,False,False,60,60
+876,Palm Warbler,Palm Warbler,Palm Warbler,Perching Birds,,,,,,,,False,False,60,44
+877,Pine Warbler,Pine Warbler,Pine Warbler,Perching Birds,,,,,,,,False,False,60,48
+878,Yellow-throated Warbler,Yellow-throated Warbler,Yellow-throated Warbler,Perching Birds,,,,,,,,False,False,43,60
+879,Prairie Warbler,Prairie Warbler,Prairie Warbler,Perching Birds,,,,,,,,False,False,60,60
+880,Black-throated Gray Warbler,Black-throated Gray Warbler,Black-throated Gray Warbler,Perching Birds,,,,,,,,False,False,34,41
+881,Townsend's Warbler,Townsend's Warbler,Townsend's Warbler,Perching Birds,,,,,,,,False,False,60,60
+882,Hermit Warbler,Hermit Warbler,Hermit Warbler,Perching Birds,,,,,,,,False,False,29,37
+883,Black-throated Green Warbler,Black-throated Green Warbler,Black-throated Green Warbler,Perching Birds,,,,,,,,False,False,60,60
+884,Canada Warbler,Canada Warbler,Canada Warbler,Perching Birds,,,,,,,,False,False,58,60
+885,Wilson's Warbler,Wilson's Warbler,Wilson's Warbler,Perching Birds,,,,,,,,False,False,60,60
+886,Yellow-breasted Chat,Yellow-breasted Chat,Yellow-breasted Chat,Perching Birds,,,,,,,,False,False,55,60
+887,Green-tailed Towhee,Green-tailed Towhee,Green-tailed Towhee,Perching Birds,,,,,,,,False,False,34,28
+888,Spotted Towhee,Spotted Towhee,Spotted Towhee,Perching Birds,,,,,,,,False,False,60,60
+889,Eastern Towhee,Eastern Towhee,Eastern Towhee,Perching Birds,,,,,,,,False,False,56,54
+890,Rufous-crowned Sparrow,Rufous-crowned Sparrow,Rufous-crowned Sparrow,Perching Birds,,,,,,,,False,False,39,41
+891,Canyon Towhee,Canyon Towhee,Canyon Towhee,Perching Birds,,,,,,,,False,False,38,46
+892,California Towhee,California Towhee,California Towhee,Perching Birds,,,,,,,,False,False,48,44
+893,Abert's Towhee,Abert's Towhee,Abert's Towhee,Perching Birds,,,,,,,,False,False,35,29
+894,American Tree Sparrow,American Tree Sparrow,American Tree Sparrow,Perching Birds,,,,,,,,False,False,51,59
+895,Clay-colored Sparrow,Clay-colored Sparrow,Clay-colored Sparrow,Perching Birds,,,,,,,,False,False,49,60
+896,Brewer's Sparrow,Brewer's Sparrow,Brewer's Sparrow,Perching Birds,,,,,,,,False,False,43,35
+897,Field Sparrow,Field Sparrow,Field Sparrow,Perching Birds,,,,,,,,False,False,52,51
+898,Vesper Sparrow,Vesper Sparrow,Vesper Sparrow,Perching Birds,,,,,,,,False,False,55,60
+899,Lark Sparrow,Lark Sparrow,Lark Sparrow,Perching Birds,,,,,,,,False,False,53,59
+900,Savannah Sparrow,Savannah Sparrow,Savannah Sparrow,Perching Birds,,,,,,,,False,False,60,60
+901,Fox Sparrow (Sooty),Fox Sparrow,Fox Sparrow,Perching Birds,Sooty,sooty form,,,,,sooty,False,False,36,43
+902,Song Sparrow,Song Sparrow,Song Sparrow,Perching Birds,,,,,,,,False,False,60,60
+903,Lincoln's Sparrow,Lincoln's Sparrow,Lincoln's Sparrow,Perching Birds,,,,,,,,False,False,56,60
+904,Swamp Sparrow,Swamp Sparrow,Swamp Sparrow,Perching Birds,,,,,,,,False,False,53,60
+905,Dark-eyed Junco (Pink-sided),Dark-eyed Junco,Dark-eyed Junco,Perching Birds,Pink-sided,pink-sided form,,,,,pink-sided,False,False,28,31
+906,Summer Tanager (Female),Summer Tanager,Summer Tanager,Perching Birds,Female,female,female,,,,,True,False,28,33
+907,Pyrrhuloxia,Pyrrhuloxia,Pyrrhuloxia,Perching Birds,,,,,,,,False,False,42,48
+908,Dickcissel,Dickcissel,Dickcissel,Perching Birds,,,,,,,,False,False,56,60
+909,Eastern Meadowlark,Eastern Meadowlark,Eastern Meadowlark,Perching Birds,,,,,,,,False,False,36,40
+910,Western Meadowlark,Western Meadowlark,Western Meadowlark,Perching Birds,,,,,,,,False,False,60,60
+911,Rusty Blackbird,Rusty Blackbird,Rusty Blackbird,Perching Birds,,,,,,,,False,False,42,48
+912,Common Grackle,Common Grackle,Common Grackle,Perching Birds,,,,,,,,False,False,60,58
+913,Boat-tailed Grackle,Boat-tailed Grackle,Boat-tailed Grackle,Perching Birds,,,,,,,,False,False,54,60
+914,Great-tailed Grackle,Great-tailed Grackle,Great-tailed Grackle,Perching Birds,,,,,,,,False,False,60,60
+915,Bronzed Cowbird,Bronzed Cowbird,Bronzed Cowbird,Perching Birds,,,,,,,,False,False,39,32
+916,Orchard Oriole (Immature Male),Orchard Oriole,Orchard Oriole,Perching Birds,Immature Male,immature male,male,immature,,,,False,True,24,25
+917,Gray-crowned Rosy-Finch,Gray-crowned Rosy-Finch,Gray-crowned Rosy-Finch,Perching Birds,,,,,,,,False,False,27,37
+918,Black Rosy-Finch,Black Rosy-Finch,Black Rosy-Finch,Perching Birds,,,,,,,,False,False,33,26
+919,Brown-capped Rosy-Finch,Brown-capped Rosy-Finch,Brown-capped Rosy-Finch,Perching Birds,,,,,,,,False,False,16,34
+920,Common Redpoll,Common Redpoll,Common Redpoll,Perching Birds,,,,,,,,False,False,35,40
+921,Hoary Redpoll,Hoary Redpoll,Hoary Redpoll,Perching Birds,,,,,,,,False,False,31,29
+922,Pine Siskin,Pine Siskin,Pine Siskin,Perching Birds,,,,,,,,False,False,48,60
+923,Western Wood-Pewee,Western Wood-Pewee,Western Wood-Pewee,Perching Birds,,,,,,,,False,False,56,49
+924,Eastern Wood-Pewee,Eastern Wood-Pewee,Eastern Wood-Pewee,Perching Birds,,,,,,,,False,False,59,49
+925,Least Flycatcher,Least Flycatcher,Least Flycatcher,Perching Birds,,,,,,,,False,False,53,60
+926,Pacific-slope Flycatcher,Pacific-slope Flycatcher,Pacific-slope Flycatcher,Perching Birds,,,,,,,,False,False,60,59
+927,Cordilleran Flycatcher,Cordilleran Flycatcher,Cordilleran Flycatcher,Perching Birds,,,,,,,,False,False,39,31
+928,Black Phoebe,Black Phoebe,Black Phoebe,Perching Birds,,,,,,,,False,False,60,60
+929,Eastern Phoebe,Eastern Phoebe,Eastern Phoebe,Perching Birds,,,,,,,,False,False,60,60
+930,Say's Phoebe,Say's Phoebe,Say's Phoebe,Perching Birds,,,,,,,,False,False,60,58
+931,Ash-throated Flycatcher,Ash-throated Flycatcher,Ash-throated Flycatcher,Perching Birds,,,,,,,,False,False,41,41
+932,Great Crested Flycatcher,Great Crested Flycatcher,Great Crested Flycatcher,Perching Birds,,,,,,,,False,False,60,53
+933,Cassin's Kingbird,Cassin's Kingbird,Cassin's Kingbird,Perching Birds,,,,,,,,False,False,45,35
+934,Western Kingbird,Western Kingbird,Western Kingbird,Perching Birds,,,,,,,,False,False,57,52
+935,Eastern Kingbird,Eastern Kingbird,Eastern Kingbird,Perching Birds,,,,,,,,False,False,60,60
+936,Scissor-tailed Flycatcher,Scissor-tailed Flycatcher,Scissor-tailed Flycatcher,Perching Birds,,,,,,,,False,False,40,37
+937,Loggerhead Shrike,Loggerhead Shrike,Loggerhead Shrike,Perching Birds,,,,,,,,False,False,60,60
+938,Northern Shrike,Northern Shrike,Northern Shrike,Perching Birds,,,,,,,,False,False,60,60
+939,White-eyed Vireo,White-eyed Vireo,White-eyed Vireo,Perching Birds,,,,,,,,False,False,37,57
+940,Bell's Vireo,Bell's Vireo,Bell's Vireo,Perching Birds,,,,,,,,False,False,28,29
+941,Yellow-throated Vireo,Yellow-throated Vireo,Yellow-throated Vireo,Perching Birds,,,,,,,,False,False,31,38
+942,Plumbeous Vireo,Plumbeous Vireo,Plumbeous Vireo,Perching Birds,,,,,,,,False,False,34,41
+943,Cassin's Vireo,Cassin's Vireo,Cassin's Vireo,Perching Birds,,,,,,,,False,False,37,36
+944,Blue-headed Vireo,Blue-headed Vireo,Blue-headed Vireo,Perching Birds,,,,,,,,False,False,48,52
+945,Hutton's Vireo,Hutton's Vireo,Hutton's Vireo,Perching Birds,,,,,,,,False,False,46,39
+946,Warbling Vireo,Warbling Vireo,Warbling Vireo,Perching Birds,,,,,,,,False,False,52,60
+947,Red-eyed Vireo,Red-eyed Vireo,Red-eyed Vireo,Perching Birds,,,,,,,,False,False,60,60
+948,Gray Jay,Gray Jay,Gray Jay,Perching Birds,,,,,,,,False,False,42,54
+949,Steller's Jay,Steller's Jay,Steller's Jay,Perching Birds,,,,,,,,False,False,60,60
+950,Blue Jay,Blue Jay,Blue Jay,Perching Birds,,,,,,,,False,False,60,60
+951,Florida Scrub-Jay,Florida Scrub-Jay,Florida Scrub-Jay,Perching Birds,,,,,,,,False,False,29,26
+952,Western Scrub-Jay,Western Scrub-Jay,Western Scrub-Jay,Perching Birds,,,,,,,,False,False,60,60
+953,Mexican Jay,Mexican Jay,Mexican Jay,Perching Birds,,,,,,,,False,False,35,26
+954,Clark's Nutcracker,Clark's Nutcracker,Clark's Nutcracker,Perching Birds,,,,,,,,False,False,43,46
+955,Black-billed Magpie,Black-billed Magpie,Black-billed Magpie,Perching Birds,,,,,,,,False,False,60,38
+956,Yellow-billed Magpie,Yellow-billed Magpie,Yellow-billed Magpie,Perching Birds,,,,,,,,False,False,32,27
+957,American Crow,American Crow,American Crow,Perching Birds,,,,,,,,False,False,60,57
+958,Yellow-rumped Warbler (Breeding Audubon's),Yellow-rumped Warbler,Yellow-rumped Warbler,Perching Birds,Breeding Audubon's,breeding Audubon's form,,,breeding,,audubon's,False,False,60,58
+959,Purple Martin (Female/juvenile),Purple Martin,Purple Martin,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,31,36
+960,American Robin (Juvenile),American Robin,American Robin,Perching Birds,Juvenile,juvenile,,juvenile,,,,False,False,55,60
+961,Phainopepla (Male),Phainopepla,Phainopepla,Perching Birds,Male,male,male,,,,,False,True,36,35
+962,Snow Bunting (Nonbreeding),Snow Bunting,Snow Bunting,Perching Birds,Nonbreeding,nonbreeding,,,nonbreeding,,,False,False,52,52
+963,Common Yellowthroat (Female/immature male),Common Yellowthroat,Common Yellowthroat,Perching Birds,Female/immature male,female or immature male,female/male,immature,,,,True,False,56,60
+964,American Redstart (Female/juvenile),American Redstart,American Redstart,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,60,59
+965,Magnolia Warbler (Female/immature male),Magnolia Warbler,Magnolia Warbler,Perching Birds,Female/immature male,female or immature male,female/male,immature,,,,True,False,60,45
+966,"Bay-breasted Warbler (Female, Nonbreeding male, Immature)",Bay-breasted Warbler,Bay-breasted Warbler,Perching Birds,"Female, Nonbreeding male, Immature",female or nonbreeding male or immature,female/male,immature,nonbreeding,,,True,False,31,29
+967,Chestnut-sided Warbler (Female/immature male),Chestnut-sided Warbler,Chestnut-sided Warbler,Perching Birds,Female/immature male,female or immature male,female/male,immature,,,,True,False,43,35
+968,Blackpoll Warbler (Female/juvenile),Blackpoll Warbler,Blackpoll Warbler,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,52,60
+969,Black-throated Blue Warbler (Female/Immature male),Black-throated Blue Warbler,Black-throated Blue Warbler,Perching Birds,Female/Immature male,female or immature male,female/male,immature,,,,True,False,40,32
+970,Lark Bunting (Female/Nonbreeding male),Lark Bunting,Lark Bunting,Perching Birds,Female/Nonbreeding male,female or nonbreeding male,female/male,,nonbreeding,,,True,False,35,32
+971,White-throated Sparrow (Tan-striped/immature),White-throated Sparrow,White-throated Sparrow,Perching Birds,Tan-striped/immature,tan-striped or immature,,immature,,,tan-striped,False,False,38,45
+972,Harris's Sparrow (Immature),Harris's Sparrow,Harris's Sparrow,Perching Birds,Immature,immature,,immature,,,,False,False,33,34
+973,White-crowned Sparrow (Immature),White-crowned Sparrow,White-crowned Sparrow,Perching Birds,Immature,immature,,immature,,,,False,False,59,60
+974,Golden-crowned Sparrow (Immature),Golden-crowned Sparrow,Golden-crowned Sparrow,Perching Birds,Immature,immature,,immature,,,,False,False,53,60
+975,Dark-eyed Junco (White-winged),Dark-eyed Junco,Dark-eyed Junco,Perching Birds,White-winged,white-winged form,,,,,white-winged,False,False,4,9
+976,Chipping Sparrow (Immature/nonbreeding adult),Chipping Sparrow,Chipping Sparrow,Perching Birds,Immature/nonbreeding adult,immature or nonbreeding adult,,immature/adult,nonbreeding,,,False,False,52,46
+977,Scarlet Tanager (Female/Nonbreeding Male),Scarlet Tanager,Scarlet Tanager,Perching Birds,Female/Nonbreeding Male,female or nonbreeding male,female/male,,nonbreeding,,,True,False,38,28
+978,Western Tanager (Female/Nonbreeding Male),Western Tanager,Western Tanager,Perching Birds,Female/Nonbreeding Male,female or nonbreeding male,female/male,,nonbreeding,,,True,False,32,33
+979,Northern Cardinal (Female/Juvenile),Northern Cardinal,Northern Cardinal,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,60,60
+980,Rose-breasted Grosbeak (Female/immature male),Rose-breasted Grosbeak,Rose-breasted Grosbeak,Perching Birds,Female/immature male,female or immature male,female/male,immature,,,,True,False,53,48
+981,Black-headed Grosbeak (Female/immature male),Black-headed Grosbeak,Black-headed Grosbeak,Perching Birds,Female/immature male,female or immature male,female/male,immature,,,,True,False,41,48
+982,Blue Grosbeak (Female/juvenile),Blue Grosbeak,Blue Grosbeak,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,39,42
+983,Lazuli Bunting (Female/juvenile),Lazuli Bunting,Lazuli Bunting,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,22,22
+984,Indigo Bunting (Female/juvenile),Indigo Bunting,Indigo Bunting,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,49,39
+985,Painted Bunting (Female/juvenile),Painted Bunting,Painted Bunting,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,48,39
+986,Bobolink (Female/juvenile/nonbreeding male),Bobolink,Bobolink,Perching Birds,Female/juvenile/nonbreeding male,female or juvenile or nonbreeding male,female/male,juvenile,nonbreeding,,,True,False,36,33
+987,Red-winged Blackbird (Female/juvenile),Red-winged Blackbird,Red-winged Blackbird,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,60,60
+988,Yellow-headed Blackbird (Female/Immature Male),Yellow-headed Blackbird,Yellow-headed Blackbird,Perching Birds,Female/Immature Male,female or immature male,female/male,immature,,,,True,False,38,34
+989,Brewer's Blackbird (Male),Brewer's Blackbird,Brewer's Blackbird,Perching Birds,Male,male,male,,,,,False,True,60,60
+990,Brown-headed Cowbird (Female/Juvenile),Brown-headed Cowbird,Brown-headed Cowbird,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,54,49
+991,Hooded Oriole (Female/Immature male),Hooded Oriole,Hooded Oriole,Perching Birds,Female/Immature male,female or immature male,female/male,immature,,,,True,False,34,35
+992,Bullock's Oriole (Female/Immature male),Bullock's Oriole,Bullock's Oriole,Perching Birds,Female/Immature male,female or immature male,female/male,immature,,,,True,False,28,36
+993,Baltimore Oriole (Female/Immature male),Baltimore Oriole,Baltimore Oriole,Perching Birds,Female/Immature male,female or immature male,female/male,immature,,,,True,False,50,48
+994,Pine Grosbeak (Female/juvenile),Pine Grosbeak,Pine Grosbeak,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,35,41
+995,Purple Finch (Female/immature),Purple Finch,Purple Finch,Perching Birds,Female/immature,female or immature,female,immature,,,,True,False,46,45
+996,Cassin's Finch (Female/immature),Cassin's Finch,Cassin's Finch,Perching Birds,Female/immature,female or immature,female,immature,,,,True,False,31,24
+997,House Finch (Female/immature),House Finch,House Finch,Perching Birds,Female/immature,female or immature,female,immature,,,,True,False,60,52
+998,Red Crossbill (Female/juvenile),Red Crossbill,Red Crossbill,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,33,34
+999,White-winged Crossbill (Female/juvenile),White-winged Crossbill,White-winged Crossbill,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,26,32
+1000,Lesser Goldfinch (Female/juvenile),Lesser Goldfinch,Lesser Goldfinch,Perching Birds,Female/juvenile,female or juvenile,female,juvenile,,,,True,False,37,36
+1001,American Goldfinch (Female/Nonbreeding Male),American Goldfinch,American Goldfinch,Perching Birds,Female/Nonbreeding Male,female or nonbreeding male,female/male,,nonbreeding,,,True,False,60,60
+1002,Evening Grosbeak (Female/Juvenile),Evening Grosbeak,Evening Grosbeak,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,33,60
+1003,House Sparrow (Female/Juvenile),House Sparrow,House Sparrow,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,60,57
+1004,"Vermilion Flycatcher (Female, immature)",Vermilion Flycatcher,Vermilion Flycatcher,Perching Birds,"Female, immature",female or immature,female,immature,,,,True,False,40,36
+1005,European Starling (Juvenile),European Starling,European Starling,Perching Birds,Juvenile,juvenile,,juvenile,,,,False,False,37,35
+1006,Fox Sparrow (Thick-billed/Slate-colored),Fox Sparrow,Fox Sparrow,Perching Birds,Thick-billed/Slate-colored,thick-billed or slate-colored form,,,,,slate-colored/thick-billed,False,False,9,16
+1007,Summer Tanager (Immature Male),Summer Tanager,Summer Tanager,Perching Birds,Immature Male,immature male,male,immature,,,,False,True,20,17
+1008,Orchard Oriole (Female/Juvenile),Orchard Oriole,Orchard Oriole,Perching Birds,Female/Juvenile,female or juvenile,female,juvenile,,,,True,False,29,26
+1009,Yellow-rumped Warbler (Winter/juvenile Audubon's),Yellow-rumped Warbler,Yellow-rumped Warbler,Perching Birds,Winter/juvenile Audubon's,winter or juvenile Audubon's form,,juvenile,nonbreeding,,audubon's,False,False,44,44
+1010,Dark-eyed Junco (Red-backed/Gray-headed),Dark-eyed Junco,Dark-eyed Junco,Perching Birds,Red-backed/Gray-headed,red-backed or gray-headed form,,,,,gray-headed/red-backed,False,False,29,43
